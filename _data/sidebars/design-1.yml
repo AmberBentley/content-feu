@@ -1,0 +1,33 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+  - title: Sidebar
+    product: Design 1
+    version: 1.0
+    folders:
+      - title: Module 1
+        output: web, pdf
+        folderitems:
+          - title: Introduction to Branding
+            url: /introduction/intro-branding.html
+            output: web, pdf
+
+          - title: Fundamentals of Layout
+            url: /introduction/fundamentals-layout.html
+            output: web, pdf
+
+          - title: Organising Visual Language and Establishing Visual Hierarchy
+            url: /introduction/visual-hierarchy.html
+            output: web, pdf
+
+          - title: Content Management
+            url: /introduction/content-management.html
+            output: web, pdf
+
+      - title: Course Assignment
+        output: web, pdf
+        folderitems:
+          - title: Course Assignment
+            url: /introduction/ca.html
+            output: web
+# Copyright 2021 Google LLC
