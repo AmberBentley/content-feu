@@ -1,0 +1,52 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+  - title: Sidebar
+    product: Programming Foundations
+    version: 1.0
+    folders:
+      - title: Module 1
+        output: web, pdf
+        folderitems:
+          - title: Getting Started
+            url: /programming-foundations/getting-started.html
+            output: web
+
+          - title: Strings, Numbers, Booleans
+            url: /programming-foundations/strings-numbers-booleans.html
+            output: web, pdf
+
+          - title: Making Decisions
+            url: /programming-foundations/making-decisions.html
+            output: web, pdf
+
+          - title: Loops
+            url: /programming-foundations/loops.html
+            output: web, pdf
+
+      - title: Module 2
+        output: web, pdf
+        folderitems:
+          - title: String Properties
+            url: /programming-foundations/string-properties.html
+            output: web
+
+          - title: Arrays
+            url: /programming-foundations/arrays.html
+            output: web, pdf
+
+          - title: null, Objects and arrays of objects
+            url: /programming-foundations/arrays-of-objects.html
+            output: web, pdf
+
+          - title: Introduction to Functions
+            url: /programming-foundations/intro-functions.html
+            output: web, pdf
+
+      - title: Course Assignment
+        output: web, pdf
+        folderitems:
+          - title: Course Assignment
+            url: /programming-foundations/ca.html
+            output: web
+# Copyright 2021 Google LLC

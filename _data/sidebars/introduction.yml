@@ -1,0 +1,37 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+  - title: Sidebar
+    product: Introduction
+    version: 1.0
+    folders:
+      - title: Module 1
+        output: web, pdf
+        folderitems:
+          - title: Overview
+            url: /introduction/overview.html
+            output: web, pdf
+
+          - title: Planning & Communication
+            url: /introduction/planning-communication.html
+            output: web, pdf
+
+          - title: Moodle & Reflective Journal
+            url: /introduction/moodle-reflective-journal.html
+            output: web, pdf
+
+          - title: File Delivery & Lånekassen
+            url: /introduction/file-delivery-lanekassen.html
+            output: web, pdf
+
+          - title: Plagiarism & Referencing
+            url: /introduction/plagiarism-referencing.html
+            output: web, pdf
+
+      - title: Course Assignment
+        output: web, pdf
+        folderitems:
+          - title: Course Assignment
+            url: /introduction/ca.html
+            output: web
+# Copyright 2021 Google LLC

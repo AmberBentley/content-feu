@@ -1,0 +1,4 @@
+argument: "The value passed into a function when it gets called"
+
+method: "A function that is a property of an object."
+# Copyright 2021 Google LLC

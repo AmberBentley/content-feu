@@ -1,0 +1,22 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+  - title: Sidebar
+    product: HTML and CSS
+    version: 1.0
+    folders:
+      - title: Lessons
+        output: web, pdf
+        folderitems:
+          - title: Introduction to HTML
+            url: /html_css_intro.html
+            output: web
+
+          - title: File Management
+            url: /html_css_file-management.html
+            output: web, pdf
+
+          - title: Introduction to CSS
+            url: /html_css_intro-css.html
+            output: web, pdf
+# Copyright 2021 Google LLC
