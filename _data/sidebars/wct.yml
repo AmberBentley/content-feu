@@ -1,0 +1,33 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+  - title: Sidebar
+    product: Web and Communications Technology
+    version: 1.0
+    folders:
+      - title: Module 1
+        output: web, pdf
+        folderitems:
+          - title: HyperText and the World Wide Web
+            url: /wct/hypertext.html
+            output: web, pdf
+
+          - title: Installing a Code Editor and using GitHub
+            url: /wct/code-editor-github.html
+            output: web, pdf
+
+          - title: Display Your Site on the Web
+            url: /wct/display-on-web.html
+            output: web, pdf
+
+          - title: Accessibility
+            url: /wct/accessibility.html
+            output: web, pdf
+
+      - title: Course Assignment
+        output: web, pdf
+        folderitems:
+          - title: Course Assignment
+            url: /wct/ca.html
+            output: web
+# Copyright 2021 Google LLC
