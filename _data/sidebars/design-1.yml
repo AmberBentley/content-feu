@@ -9,25 +9,25 @@ entries:
         output: web, pdf
         folderitems:
           - title: Introduction to Branding
-            url: /introduction/intro-branding.html
+            url: /design-1/intro-branding.html
             output: web, pdf
 
           - title: Fundamentals of Layout
-            url: /introduction/fundamentals-layout.html
+            url: /design-1/fundamentals-layout.html
             output: web, pdf
 
           - title: Organising Visual Language and Establishing Visual Hierarchy
-            url: /introduction/visual-hierarchy.html
+            url: /design-1/visual-hierarchy.html
             output: web, pdf
 
           - title: Content Management
-            url: /introduction/content-management.html
+            url: /design-1/content-management.html
             output: web, pdf
 
       - title: Course Assignment
         output: web, pdf
         folderitems:
           - title: Course Assignment
-            url: /introduction/ca.html
+            url: /design-1/ca.html
             output: web
 # Copyright 2021 Google LLC
