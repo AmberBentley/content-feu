@@ -124,3 +124,9 @@ margin-top:20px;
 .tags {
   display: none;
 }
+
+#dark-theme-text, #dark-theme-select {
+  color: #FFF;
+  align-self: center;
+  padding: 0px 3px;
+}

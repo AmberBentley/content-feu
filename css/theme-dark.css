@@ -1,0 +1,25 @@
+body {
+  background: rgb(71, 71, 71);
+  color: #FFF;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #FFF;
+}
+
+div#toc ul {
+  background:rgb(46, 46, 46)
+}
+
+div#toc ul li a, div#toc > ul::before, li.sidebarTitle {
+  color: rgb(190, 190, 190);
+}
+
+code {
+  color: #fff2f6;
+  background-color: #685656;
+}
+
+input {
+  color: black;
+}

@@ -1228,3 +1228,14 @@ h4.panel-title {
     padding: 5px 0px;
     margin: 10px;
   }
+
+  /* This hides sub-items from table of contents */
+  #toc ul li ul {
+    display: none;
+  }
+
+  @media(max-width: 780px){
+    .navbar-header {
+        flex-direction: column;
+    }
+  }
