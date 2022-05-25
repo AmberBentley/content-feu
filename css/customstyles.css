@@ -1208,6 +1208,7 @@ h4.panel-title {
     color: #FFF;
     flex: 1;
     align-self: center;
+    text-align: left;
   }
   
   .navbar-header {
@@ -1240,5 +1241,6 @@ h4.panel-title {
   @media(max-width: 780px){
     .projectTitle {
         flex: 1 0 100%;
+        text-align: center;
     }
   }
