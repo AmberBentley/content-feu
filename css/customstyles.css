@@ -1214,6 +1214,9 @@ h4.panel-title {
     display: flex;
     flex-direction: row;
     float:none;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
   }
 
   #search-demo-container {
@@ -1235,7 +1238,7 @@ h4.panel-title {
   }
 
   @media(max-width: 780px){
-    .navbar-header {
-        flex-direction: column;
+    .projectTitle {
+        flex: 1 0 100%;
     }
   }

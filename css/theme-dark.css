@@ -20,6 +20,10 @@ code {
   background-color: #685656;
 }
 
-input {
+input, #results-container {
   color: black;
+}
+
+a {
+  color: #afd0ec;
 }
