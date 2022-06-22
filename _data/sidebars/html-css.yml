@@ -1,0 +1,91 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+  - title: Sidebar
+    product: HTML and CSS
+    previousSubjects: Design 1,Web and Communications Technology,HTML and CSS
+    version: 1.0
+    folders:
+      - title: Module 1
+        output: web, pdf
+        folderitems:
+          - title: Introduction to HTML
+            url: /html-css/intro-html.html
+            output: web
+
+          - title: File Management
+            url: /html-css/file-management.html
+            output: web, pdf
+
+          - title: Introduction to CSS
+            url: /html-css/intro-css.html
+            output: web, pdf
+
+          - title: Loops
+            url: /html-css/loops.html
+            output: web, pdf
+
+      - title: Module 2
+        output: web, pdf
+        folderitems:
+          - title: Images and Icons
+            url: /html-css/images-icons.html
+            output: web
+
+          - title: Forms
+            url: /html-css/forms.html
+            output: web, pdf
+
+          - title: Navigation
+            url: /html-css/navigation.html
+            output: web, pdf
+
+          - title: CSS Box Model
+            url: /html-css/css-box-model.html
+            output: web, pdf
+
+      - title: Module 3
+        output: web, pdf
+        folderitems:
+          - title: Positioning
+            url: /html-css/positioning.html
+            output: web
+
+          - title: Flexbox
+            url: /html-css/flexbox.html
+            output: web, pdf
+
+          - title: CSS Grids
+            url: /html-css/css-grids.html
+            output: web, pdf
+
+          - title: Media Queries
+            url: /html-css/media-queries.html
+            output: web, pdf
+
+      - title: Module 4
+        output: web, pdf
+        folderitems:
+          - title: Bug Fixing
+            url: /html-css/bug-fixing.html
+            output: web
+
+          - title: Animations and Transitions
+            url: /html-css/animations-transitions.html
+            output: web, pdf
+
+          - title: CSS Variables
+            url: /html-css/css-variables.html
+            output: web, pdf
+
+          - title: Common Layouts
+            url: /html-css/common-layouts.html
+            output: web, pdf
+
+      - title: Course Assignment
+        output: web, pdf
+        folderitems:
+          - title: Course Assignment
+            url: /html-css/ca.html
+            output: web
+# Copyright 2021 Google LLC
