@@ -3,6 +3,7 @@
 entries:
   - title: Sidebar
     product: HTML and CSS
+    previousSubjects: Design 1,Web and Communications Technology,HTML and CSS
     version: 1.0
     folders:
       - title: Lessons

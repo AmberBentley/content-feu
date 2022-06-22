@@ -3,6 +3,7 @@
 entries:
   - title: Sidebar
     product: CSS Frameworks
+    previousSubjects: Design 1,HTML and CSS,Programming Foundations,CSS Frameworks
     version: 1.0
     folders:
       - title: Module 1

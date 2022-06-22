@@ -134,3 +134,7 @@ margin-top:20px;
 .navbar {
   border-bottom: 3px solid #ff2f02;
 }
+
+.previousSubjects {
+  display: none !important;
+}

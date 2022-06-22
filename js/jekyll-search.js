@@ -1,169 +1,177 @@
-!(function t(n, e, r) {
-  function o(i, c) {
-    if (!e[i]) {
-      if (!n[i]) {
+!(function e(t, n, r) {
+  function s(o, u) {
+    if (!n[o]) {
+      if (!t[o]) {
         var a = "function" == typeof require && require;
-        if (!c && a) return a(i, !0);
-        if (u) return u(i, !0);
-        throw new Error("Cannot find module '" + i + "'");
+        if (!u && a) return a(o, !0);
+        if (i) return i(o, !0);
+        throw new Error("Cannot find module '" + o + "'");
       }
-      var f = (e[i] = { exports: {} });
-      n[i][0].call(
+      var f = (n[o] = { exports: {} });
+      t[o][0].call(
         f.exports,
-        function (t) {
-          var e = n[i][1][t];
-          return o(e || t);
+        function (e) {
+          var n = t[o][1][e];
+          return s(n ? n : e);
         },
         f,
         f.exports,
+        e,
         t,
         n,
-        e,
         r
       );
     }
-    return e[i].exports;
+    return n[o].exports;
   }
-  for (var u = "function" == typeof require && require, i = 0; i < r.length; i++) o(r[i]);
-  return o;
+  for (var i = "function" == typeof require && require, o = 0; o < r.length; o++) s(r[o]);
+  return s;
 })(
   {
     1: [
-      function (t, n) {
-        n.exports = function () {
-          function t(t) {
-            return 200 == t.status && 4 == t.readyState;
+      function (require, module) {
+        module.exports = function () {
+          function receivedResponse(xhr) {
+            return 200 == xhr.status && 4 == xhr.readyState;
           }
-          function n(n, e) {
-            n.onreadystatechange = function () {
-              if (t(n))
+          function handleResponse(xhr, callback) {
+            xhr.onreadystatechange = function () {
+              if (receivedResponse(xhr))
                 try {
-                  e(null, JSON.parse(n.responseText));
-                } catch (t) {
-                  e(t, null);
+                  callback(null, JSON.parse(xhr.responseText));
+                } catch (err) {
+                  callback(err, null);
                 }
             };
           }
-          var e = this;
-          e.load = function (t, e) {
-            var r = window.XMLHttpRequest
+          var self = this;
+          self.load = function (location, callback) {
+            var xhr = window.XMLHttpRequest
               ? new XMLHttpRequest()
               : new ActiveXObject("Microsoft.XMLHTTP");
-            r.open("GET", t, !0), n(r, e), r.send();
+            xhr.open("GET", location, !0), handleResponse(xhr, callback), xhr.send();
           };
         };
       },
       {},
     ],
     2: [
-      function (t, n) {
-        function e() {
-          function t(t) {
-            return new RegExp(t.split("").join(".*?"), "gi");
+      function (require, module) {
+        function FuzzySearchStrategy() {
+          function createFuzzyRegExpFromString(string) {
+            return new RegExp(string.split("").join(".*?"), "gi");
           }
-          var n = this;
-          n.matches = function (n, e) {
-            return "string" == typeof n && ((n = n.trim()), !!n.match(t(e)));
+          var self = this;
+          self.matches = function (string, crit) {
+            return "string" != typeof string
+              ? !1
+              : ((string = string.trim()), !!string.match(createFuzzyRegExpFromString(crit)));
           };
         }
-        n.exports = new e();
+        module.exports = new FuzzySearchStrategy();
       },
       {},
     ],
     3: [
-      function (t, n) {
-        function e() {
-          function t(t, n) {
-            return t.toLowerCase().indexOf(n.toLowerCase()) >= 0;
+      function (require, module) {
+        function LiteralSearchStrategy() {
+          function doMatch(string, crit) {
+            return string.toLowerCase().indexOf(crit.toLowerCase()) >= 0;
           }
-          var n = this;
-          n.matches = function (n, e) {
-            return "string" == typeof n && ((n = n.trim()), t(n, e));
+          var self = this;
+          self.matches = function (string, crit) {
+            return "string" != typeof string
+              ? !1
+              : ((string = string.trim()), doMatch(string, crit));
           };
         }
-        n.exports = new e();
+        module.exports = new LiteralSearchStrategy();
       },
       {},
     ],
     4: [
-      function (t, n) {
-        n.exports = function () {
-          function n(t, n, r) {
-            for (var o = t.get(), i = 0; i < o.length && u.length < c; i++) e(o[i], n, r);
-            return u;
+      function (require, module) {
+        module.exports = function () {
+          function findMatches(store, crit, strategy) {
+            for (var data = store.get(), i = 0; i < data.length && matches.length < limit; i++)
+              findMatchesInObject(data[i], crit, strategy);
+            return matches;
           }
-          function e(t, n, e) {
-            for (var r in t)
-              if (e.matches(t[r], n)) {
-                u.push(t);
+          function findMatchesInObject(obj, crit, strategy) {
+            for (var key in obj)
+              if (strategy.matches(obj[key], crit)) {
+                matches.push(obj);
                 break;
               }
           }
-          function r() {
-            return i ? a : f;
+          function getSearchStrategy() {
+            return fuzzy ? fuzzySearchStrategy : literalSearchStrategy;
           }
-          var o = this,
-            u = [],
-            i = !1,
-            c = 10,
-            a = t("./SearchStrategies/fuzzy"),
-            f = t("./SearchStrategies/literal");
-          (o.setFuzzy = function (t) {
-            i = !!t;
+          var self = this,
+            matches = [],
+            fuzzy = !1,
+            limit = 10,
+            fuzzySearchStrategy = require("./SearchStrategies/fuzzy"),
+            literalSearchStrategy = require("./SearchStrategies/literal");
+          (self.setFuzzy = function (_fuzzy) {
+            fuzzy = !!_fuzzy;
           }),
-            (o.setLimit = function (t) {
-              c = parseInt(t, 10) || c;
+            (self.setLimit = function (_limit) {
+              limit = parseInt(_limit, 10) || limit;
             }),
-            (o.search = function (t, e) {
-              return e ? ((u.length = 0), n(t, e, r())) : [];
+            (self.search = function (data, crit) {
+              return crit
+                ? ((matches.length = 0), findMatches(data, crit, getSearchStrategy()))
+                : [];
             });
         };
       },
       { "./SearchStrategies/fuzzy": 2, "./SearchStrategies/literal": 3 },
     ],
     5: [
-      function (t, n) {
-        n.exports = function (t) {
-          function n(t) {
-            return !!t && "[object Object]" == Object.prototype.toString.call(t);
+      function (require, module) {
+        module.exports = function (_store) {
+          function isObject(obj) {
+            return !!obj && "[object Object]" == Object.prototype.toString.call(obj);
           }
-          function e(t) {
-            return !!t && "[object Array]" == Object.prototype.toString.call(t);
+          function isArray(obj) {
+            return !!obj && "[object Array]" == Object.prototype.toString.call(obj);
           }
-          function r(t) {
-            return i.push(t), t;
+          function addObject(data) {
+            return store.push(data), data;
           }
-          function o(t) {
-            for (var e = [], o = 0; o < t.length; o++) n(t[o]) && e.push(r(t[o]));
-            return e;
+          function addArray(data) {
+            for (var added = [], i = 0; i < data.length; i++)
+              isObject(data[i]) && added.push(addObject(data[i]));
+            return added;
           }
-          var u = this,
-            i = [];
-          e(t) && o(t),
-            (u.clear = function () {
-              return (i.length = 0), i;
+          var self = this,
+            store = [];
+          isArray(_store) && addArray(_store),
+            (self.clear = function () {
+              return (store.length = 0), store;
             }),
-            (u.get = function () {
-              return i;
+            (self.get = function () {
+              return store;
             }),
-            (u.put = function (t) {
-              return n(t) ? r(t) : e(t) ? o(t) : void 0;
+            (self.put = function (data) {
+              return isObject(data) ? addObject(data) : isArray(data) ? addArray(data) : void 0;
             });
         };
       },
       {},
     ],
     6: [
-      function (t, n) {
-        n.exports = function () {
-          var t = this,
-            n = /\{(.*?)\}/g;
-          (t.setTemplatePattern = function (t) {
-            n = t;
+      function (require, module) {
+        module.exports = function () {
+          var self = this,
+            templatePattern = /\{(.*?)\}/g;
+          (self.setTemplatePattern = function (newTemplatePattern) {
+            templatePattern = newTemplatePattern;
           }),
-            (t.render = function (t, e) {
-              return t.replace(n, function (t, n) {
-                return e[n] || t;
+            (self.render = function (t, data) {
+              return t.replace(templatePattern, function (match, prop) {
+                return data[prop] || match;
               });
             });
         };
@@ -171,57 +179,74 @@
       {},
     ],
     7: [
-      function (t) {
-        !(function (n) {
+      function (require) {
+        !(function (window) {
           "use strict";
-          function e() {
-            function t() {
-              f.put(g.dataSource), p();
+          function SimpleJekyllSearch() {
+            function initWithJSON() {
+              store.put(opt.dataSource), registerInput();
             }
-            function n(t) {
-              s.load(t, function (n, r) {
-                n ? e("failed to get JSON (" + t + ")") : (f.put(r), p());
+            function initWithURL(url) {
+              jsonLoader.load(url, function (err, json) {
+                err
+                  ? throwError("failed to get JSON (" + url + ")")
+                  : (store.put(json), registerInput());
               });
             }
-            function e(t) {
-              throw new Error("SimpleJekyllSearch --- " + t);
+            function throwError(message) {
+              throw new Error("SimpleJekyllSearch --- " + message);
             }
-            function r(t) {
-              for (var n = 0; n < d.length; n++) {
-                var r = d[n];
-                t[r] || e("You must specify a " + r);
+            function validateOptions(_opt) {
+              for (var i = 0; i < requiredOptions.length; i++) {
+                var req = requiredOptions[i];
+                _opt[req] || throwError("You must specify a " + req);
               }
             }
-            function o(t) {
-              for (var n in g) g[n] = t[n] || g[n];
+            function assignOptions(_opt) {
+              for (var option in opt) opt[option] = _opt[option] || opt[option];
             }
-            function u(t) {
+            function isJSON(json) {
               try {
-                return t instanceof Object && JSON.parse(JSON.stringify(t));
-              } catch (t) {
+                return json instanceof Object && JSON.parse(JSON.stringify(json));
+              } catch (e) {
                 return !1;
               }
             }
-            function i() {
-              g.resultsContainer.innerHTML = "";
+            function emptyResultsContainer() {
+              opt.resultsContainer.innerHTML = "";
             }
-            function l(t) {
-              g.resultsContainer.innerHTML += t;
+            function appendToResultsContainer(text) {
+              opt.resultsContainer.innerHTML += text;
             }
-            function p() {
-              g.searchInput.addEventListener("keyup", function (t) {
-                return 0 == t.target.value.length ? void i() : void h(c.search(f, t.target.value));
+            function registerInput() {
+              opt.searchInput.addEventListener("keyup", function (e) {
+                return 0 == e.target.value.length
+                  ? void emptyResultsContainer()
+                  : void render(searcher.search(store, e.target.value));
               });
             }
-            function h(t) {
-              const n = document.querySelector(".sidebarTitle").innerText;
-              if ((i(), 0 == t.length)) return l(g.noResultsText);
-              for (var e = 0; e < t.length; e++)
-                n === t[e].tags && l(a.render(g.searchResultTemplate, t[e]));
+            function render(results) {
+              let subjectsToUse;
+              if (sessionStorage.getItem("previousSubjects")) {
+                subjectsToUse = sessionStorage.getItem("previousSubjects");
+              } else {
+                subjectsToUse = document.querySelector(".previousSubjects").innerText;
+                sessionStorage.setItem("previousSubjects", subjectsToUse);
+              }
+              const subjects = subjectsToUse.split(",");
+
+              if ((emptyResultsContainer(), 0 == results.length))
+                return appendToResultsContainer(opt.noResultsText);
+              for (var i = 0; i < results.length; i++) {
+                // Limits the search to the subjects you've been in
+                if (subjects.includes(results[i].tags)) {
+                  appendToResultsContainer(templater.render(opt.searchResultTemplate, results[i]));
+                }
+              }
             }
-            var S = this,
-              d = ["searchInput", "resultsContainer", "dataSource"],
-              g = {
+            var self = this,
+              requiredOptions = ["searchInput", "resultsContainer", "dataSource"],
+              opt = {
                 searchInput: null,
                 resultsContainer: null,
                 dataSource: [],
@@ -230,19 +255,21 @@
                 limit: 10,
                 fuzzy: !1,
               };
-            S.init = function (e) {
-              r(e), o(e), u(g.dataSource) ? t(g.dataSource) : n(g.dataSource);
+            self.init = function (_opt) {
+              validateOptions(_opt),
+                assignOptions(_opt),
+                isJSON(opt.dataSource) ? initWithJSON(opt.dataSource) : initWithURL(opt.dataSource);
             };
           }
-          var r = t("./Searcher"),
-            o = t("./Templater"),
-            u = t("./Store"),
-            i = t("./JSONLoader"),
-            c = new r(),
-            a = new o(),
-            f = new u(),
-            s = new i();
-          n.SimpleJekyllSearch = new e();
+          var Searcher = require("./Searcher"),
+            Templater = require("./Templater"),
+            Store = require("./Store"),
+            JSONLoader = require("./JSONLoader"),
+            searcher = new Searcher(),
+            templater = new Templater(),
+            store = new Store(),
+            jsonLoader = new JSONLoader();
+          window.SimpleJekyllSearch = new SimpleJekyllSearch();
         })(window, document);
       },
       { "./JSONLoader": 1, "./Searcher": 4, "./Store": 5, "./Templater": 6 },

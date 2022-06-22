@@ -3,6 +3,7 @@
 entries:
   - title: Sidebar
     product: Design 1
+    previousSubjects: Design 1
     version: 1.0
     folders:
       - title: Module 1
