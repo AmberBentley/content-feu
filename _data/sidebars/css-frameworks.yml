@@ -1,0 +1,33 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+  - title: Sidebar
+    product: CSS Frameworks
+    version: 1.0
+    folders:
+      - title: Module 1
+        output: web, pdf
+        folderitems:
+          - title: Introduction to Bootstrap
+            url: /css-frameworks/intro-to-bootstrap.html
+            output: web, pdf
+
+          - title: Sass
+            url: /css-frameworks/sass.html
+            output: web, pdf
+
+          - title: Customising Bootstrap using Sass
+            url: /css-frameworks/bootstrap-with-sass.html
+            output: web, pdf
+
+          - title: Introduction to BEM
+            url: /css-frameworks/intro-to-bem.html
+            output: web, pdf
+
+      - title: Course Assignment
+        output: web, pdf
+        folderitems:
+          - title: Course Assignment
+            url: /css-frameworks/ca.html
+            output: web
+# Copyright 2021 Google LLC
