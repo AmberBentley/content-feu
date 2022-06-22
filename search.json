@@ -12,7 +12,7 @@ search: exclude
 "tags": "{{ page.tags }}",
 "folder": "{{ page.folder }}",
 "keywords": "{{page.keywords}}",
-"url": "{{ page.url | remove: "/"}}",
+"url": "{{ page.url }}",
 "summary": "{{page.summary | strip }}",
 "body": "{{ page.content | strip_html | strip_newlines | replace: '\', '\\\\' | replace: '"', '\\"' | replace: '	', '    '  }}"
 }
