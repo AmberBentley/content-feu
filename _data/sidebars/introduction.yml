@@ -3,6 +3,7 @@
 entries:
   - title: Sidebar
     product: Introduction
+    previousSubjects: Introduction
     version: 1.0
     folders:
       - title: Module 1
