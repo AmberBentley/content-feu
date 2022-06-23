@@ -3,6 +3,7 @@
 entries:
   - title: Sidebar
     product: Introduction
+    previousSubjects: Introduction
     version: 1.0
     folders:
       - title: Module 1
@@ -28,10 +29,7 @@ entries:
             url: /introduction/plagiarism-referencing.html
             output: web, pdf
 
-      - title: Course Assignment
-        output: web, pdf
-        folderitems:
-          - title: Course Assignment
-            url: /introduction/ca.html
-            output: web
+          - title: What to Expect
+            url: /introduction/what-to-expect.html
+            output: web, pdf
 # Copyright 2021 Google LLC
