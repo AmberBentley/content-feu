@@ -1,0 +1,27 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+  - title: Sidebar
+    product: Project Methodology
+    previousSubjects: Design 1,Web and Communications Technology,HTML and CSS,Project Methodology
+    version: 1.0
+    folders:
+      - title: Module 1
+        output: web, pdf
+        folderitems:
+          - title: Front-end Practice
+            url: /project-methodology/front-end-practice.html
+            output: web, pdf
+
+          - title: SDLC
+            url: /project-methodology/sdlc.html
+            output: web, pdf
+
+          - title: Agile and Scrum
+            url: /project-methodology/agile-scrum.html
+            output: web, pdf
+
+          - title: Kanban and User Stories
+            url: /project-methodology/kanban-user-stories.html
+            output: web, pdf
+# Copyright 2021 Google LLC
