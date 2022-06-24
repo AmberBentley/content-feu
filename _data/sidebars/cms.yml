@@ -1,0 +1,46 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+  - title: Sidebar
+    product: Content Management Systems
+    previousSubjects: Design 1,Web and Communications Technology,HTML and CSS,Project Methodology,Programming Foundations,JavaScript 1,Interaction Design,Content Management Systems
+    version: 1.0
+    folders:
+      - title: Module 1
+        output: web, pdf
+        folderitems:
+          - title: What are CMSs and why use them
+            url: /cms/intro-cms.html
+            output: web
+
+          - title: How to get set up with WordPress
+            url: /cms/intro-wordpress.html
+            output: web, pdf
+
+          - title: Site administration
+            url: /cms/site-administration.html
+            output: web, pdf
+
+          - title: Appearance
+            url: /cms/appearance.html
+            output: web, pdf
+
+      - title: Module 2
+        output: web, pdf
+        folderitems:
+          - title: Introduction to PHP
+            url: /cms/intro-php.html
+            output: web
+
+          - title: Child themes
+            url: /cms/child-themes.html
+            output: web, pdf
+
+          - title: Working with child themes
+            url: /cms/working-with-child-themes.html
+            output: web, pdf
+
+          - title: WordPress REST API
+            url: /cms/wordpress-rest-api.html
+            output: web, pdf
+# Copyright 2021 Google LLC

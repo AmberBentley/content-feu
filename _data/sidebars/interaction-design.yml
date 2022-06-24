@@ -1,0 +1,65 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+  - title: Sidebar
+    product: Interaction Design
+    previousSubjects: Design 1,Web and Communications Technology,HTML and CSS,Project Methodology,Programming Foundations,JavaScript 1,Interaction Design
+    version: 1.0
+    folders:
+      - title: Module 1
+        output: web, pdf
+        folderitems:
+          - title: What is Interaction Design?
+            url: /interaction-design/intro-interaction-design.html
+            output: web
+
+          - title: Design Research
+            url: /interaction-design/design-research.html
+            output: web, pdf
+
+          - title: Personas and Scenarios
+            url: /interaction-design/personas-scenarios.html
+            output: web, pdf
+
+          - title: Usability Testing
+            url: /interaction-design/usability-testing.html
+            output: web, pdf
+
+      - title: Module 2
+        output: web, pdf
+        folderitems:
+          - title: Persuasion and Design Values
+            url: /interaction-design/persuasion-design-values.html
+            output: web
+
+          - title: Context and Platforms
+            url: /interaction-design/context-platforms.html
+            output: web, pdf
+
+          - title: Info Architecture and Design for the Middle
+            url: /interaction-design/info-architecture.html
+            output: web, pdf
+
+          - title: Design the Flow
+            url: /interaction-design/design-flow.html
+            output: web, pdf
+
+      - title: Module 3
+        output: web, pdf
+        folderitems:
+          - title: Metaphors, Affordances and Signifiers
+            url: /interaction-design/affordances.html
+            output: web
+
+          - title: Take Action and Get Feedback
+            url: /interaction-design/action-feedback.html
+            output: web, pdf
+
+          - title: Handling Errors
+            url: /interaction-design/handling-errors.html
+            output: web, pdf
+
+          - title: Design the Flow
+            url: /interaction-design/practical-ux-design.html
+            output: web, pdf
+# Copyright 2021 Google LLC
