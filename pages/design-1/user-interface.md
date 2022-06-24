@@ -1,5 +1,5 @@
 ---
-title: User Interface and user experience design
+title: User Interface and user experience design 
 keywords: sample
 tags: Design 1
 sidebar: design-1
