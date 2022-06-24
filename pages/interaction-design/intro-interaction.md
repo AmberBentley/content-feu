@@ -19,91 +19,33 @@ The user-centered design process. 
 
 Research, personas, storyboards, and usability testing.  
 
+|     | NOTE<br><br>Please note that completing Task 1.4 is important, so please ensure that by the end of the module you have installed Hotjar on your cross-course project from the first semester.  
+<br><br>  
+If anything is unclear, check your progression plan, and/or contact a tutor on the forums.. |
+| :-: | :----------------------------------------------------------------- |
  
 
-INFO 
- 
-Please note that completing Task 1.4 is important, so please ensure that by the end of the module you have installed Hotjar on your cross-course project from the first semester.  
-  
-If anything is unclear, check your progression plan, and/or contact a tutor on the forums. 
+### Overview 
 
- 
+## Lesson Overview 
 
-Overview 
+|     | NOTE<br><br>It is always a good idea to read through the Module Assignment  (if it is written MA or CA) before starting on the lessons and lesson tasks, to get a grasp of what you will do in the end. |
+| :-: | :----------------------------------------------------------------- | 
 
-Lesson Overview 
 
- 
+### Lesson Overview 
 
-NOTE 
- 
-It is always a good idea to read through the Module Assignment  (if it is written MA or CA) before starting on the lessons and lesson tasks, to get a grasp of what you will do in the end. 
-
- 
-
-Lessons 
-
-Lesson Tasks 
-
-Estimated Workload 
-
-Lesson 1.1 What is Interaction Design? 
-
-Task 1.1 
-
-8 hours 
-
-Lesson 1.2 Design Research 
-
-Task 1.2 
-
-8 hours 
-
-Lesson 1.3 Personas and Scenarios 
-
-Task 1.3 
-
-8 hours 
-
-Lesson 1.4 Usability Testing 
-
-Task 1.4 
-
-8 hours 
+## Lesson - What is Interaction Design? 
 
  
 
-Assignments 
-
-Assignment 
-
-Estimated Workload 
-
-The assignment for this Module is a Quiz. 
-
-8 hours 
-
- 
-
-Course Assignment 
-
-Your Course Assignment will be handed out in the last module. 
-
-Lesson - What is Interaction Design? 
-
-﻿﻿Lesson Overview 
-
-Lesson - What is Interaction Design? 
-
- 
-
-Introduction 
+### Introduction 
 
 This lesson contains 3 activities that you should complete as you go through it. 
  
 In this first lesson we're going to be looking at what interaction design is, and what sort of problems it is trying to solve. Interaction Design, sometimes shortened to IxD, is a relatively new field that requires us to use our imagination and empathy to understand the user, their goals, and how to best design a system for them. 
 
-What is Interaction Design? 
+## What is Interaction Design? 
 
 Have you ever had an experience where you tried to use an everyday product with an unusual design? Perhaps you were on holiday and tried to use a stove you’ve never used before and couldn’t figure out which knob turned on which plate, or you were borrowing a car and couldn’t figure out how to get a feature to work. 
  
