@@ -1,0 +1,84 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+  - title: Sidebar
+    product: JavaScript 1
+    previousSubjects: Design 1,Web and Communications Technology,HTML and CSS,Project Methodology,Programming Foundations,JavaScript 1
+    version: 1.0
+    folders:
+      - title: Module 1
+        output: web, pdf
+        folderitems:
+          - title: Introductory concepts
+            url: /javascript-1/intro-concepts.html
+            output: web
+
+          - title: Manipulating the DOM
+            url: /javascript-1/manipulating-dom.html
+            output: web, pdf
+
+          - title: Creating HTML from objects
+            url: /javascript-1/html-from-objects.html
+            output: web, pdf
+
+          - title: Creating HTML in functions
+            url: /javascript-1/html-in-functions.html
+            output: web, pdf
+
+      - title: Module 2
+        output: web, pdf
+        folderitems:
+          - title: forEach, setTimeout and setInterval
+            url: /javascript-1/callback-functions.html
+            output: web
+
+          - title: DOM events
+            url: /javascript-1/dom-events.html
+            output: web, pdf
+
+          - title: length, trim, addEventListener and onkeyup
+            url: /javascript-1/length-trim-eventlistener.html
+            output: web, pdf
+
+          - title: More DOM concepts
+            url: /javascript-1/more-dom-concepts.html
+            output: web, pdf
+
+      - title: Module 3
+        output: web, pdf
+        folderitems:
+          - title: Query Strings and GET requests
+            url: /javascript-1/get-requests.html
+            output: web
+
+          - title: Handling errors
+            url: /javascript-1/handling-errors.html
+            output: web, pdf
+
+          - title: Arrow functions and promises
+            url: /javascript-1/arrow-functions-promises.html
+            output: web, pdf
+
+          - title: More about calling APIs
+            url: /javascript-1/more-about-apis.html
+            output: web, pdf
+
+      - title: Module 4
+        output: web, pdf
+        folderitems:
+          - title: Skipping Certain API results
+            url: /javascript-1/skipping-certain-api-results.html
+            output: web
+
+          - title: Single API results and the filter method
+            url: /javascript-1/single-api-results.html
+            output: web, pdf
+
+          - title: Query string parameters
+            url: /javascript-1/query-string-parameters.html
+            output: web, pdf
+
+          - title: Form validation
+            url: /javascript-1/form-validation.html
+            output: web, pdf
+# Copyright 2021 Google LLC

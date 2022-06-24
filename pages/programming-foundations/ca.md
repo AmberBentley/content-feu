@@ -2,7 +2,7 @@
 title: Course Assignment
 keywords: sample
 tags: Programming Foundations
-sidebar: prog_found
+sidebar: prog-found
 permalink: programming-foundations/ca.html
 folder: prog_found
 ---

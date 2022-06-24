@@ -2,7 +2,7 @@
 title: Getting Started
 keywords: sample
 tags: Programming Foundations
-sidebar: prog_found
+sidebar: prog-found
 permalink: programming-foundations/getting-started.html
 folder: Module 1
 ---

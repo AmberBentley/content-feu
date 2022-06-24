@@ -2,7 +2,7 @@
 title: null, Objects and arrays of objects
 keywords: sample
 tags: Programming Foundations
-sidebar: prog_found
+sidebar: prog-found
 permalink: programming-foundations/arrays-of-objects.html
 folder: prog_found
 ---

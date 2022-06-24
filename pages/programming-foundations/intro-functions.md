@@ -2,7 +2,7 @@
 title: Introduction to Functions
 keywords: sample
 tags: Programming Foundations
-sidebar: prog_found
+sidebar: prog-found
 permalink: programming-foundations/intro-functions.html
 folder: prog_found
 ---

@@ -2,7 +2,7 @@
 title: Making Decisions
 keywords: sample
 tags: Programming Foundations
-sidebar: prog_found
+sidebar: prog-found
 permalink: programming-foundations/making-decisions.html
 folder: Module 1
 ---
