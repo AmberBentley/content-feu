@@ -131,13 +131,13 @@ We check if a certain condition is true using a comparison operator, and if it i
 
 If it is false, we run different code.
 
-<img src="/images/programming-foundations/conditional-statement.png" alt="conditional statement" style="max-width: 600px"/>
+![Conditional statement](../../images/programming-foundations/conditional-statement.png)
 
 To carry out the above, we use `if...else statements.`
 
 `if` a certain condition is true, run this code. `else`, run this other code.
 
-<img src="/images/programming-foundations/if-statement.png" alt="if statement" style="max-width: 450px"/>
+![if statement](../../images/programming-foundations/if-statement.png)
 
 <a id="if-else-example"></a> Perhaps you need to check whether a user is logged in:
 

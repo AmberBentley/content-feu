@@ -3,7 +3,7 @@ title: Hypertext and the World Wide Web
 keywords: sample
 tags: WCT
 sidebar: wct
-permalink: wct/hypertext.html
+permalink: wct/code-editor-github.html
 folder: wct
 ---
 
