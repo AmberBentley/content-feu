@@ -101,8 +101,4 @@ If you haven't done so already, now will be a good time to set up your personal 
 
 • On the course assignment, you will have to deliver some files, so you might as well set up your folder for your first module assignment right now. Name it based on what you've learned in lesson 1.3.
 
-• Make sure you have an office-package available, either on your computer - or online, if you wish to use services such as Office365, or Google Docs. Both these packages allow you to save your documents as PDF, which is a requirement for delivering written content.
-
-### 1.3.b - Updating your Moodle profile
-
-In the interest of getting to know other students, it is important that we take advantage of the user profile on Moodle. Provide a picture or an avatar, and write about yourself and your interests, so that tutors and fellow students get to know you. This could for instance be a shorter version of what you posted on Discord earlier, but with added keywords.
+• Make sure you have an office-package available. Office 365 is provided by Noroff, but you can also use Google Docs. Both of these packages allow you to save your documents as PDF, which is a requirement for delivering written content.

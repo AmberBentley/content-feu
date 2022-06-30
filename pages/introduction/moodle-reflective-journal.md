@@ -95,4 +95,4 @@ Please note that the progression plan dates might change slightly, especially fo
 
 ### Extracting from progression plan
 
-• Download your progression plan, and open it. • Find the deadlines for all Course Assignments and Projects. • Make a note of the deadlines. If you use a calendar such as Google Calendar or the Exchange Calendar, we recommend that you add all the deadlines there. Take a well earned break, or check out lesson 1.3 right away.
+• Download your progression plan, and open it. • Find the deadlines for all Course Assignments and Projects. • Make a note of the deadlines. If you use a calendar such as Google Calendar or the Exchange Calendar, we recommend that you add all the deadlines there.

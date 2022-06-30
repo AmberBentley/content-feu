@@ -15,4 +15,4 @@ To get you excited about your first year of Front-end Development and give you a
 
 [Code from the video.](https://github.com/Noroff-Education/lesson-task-introduction)
 
-This is it - the last lesson of the introduction course. Remember if you have any questions about how, what or when to deliver - please use your class channel on Discord or digital classroom.
+This is it - the last lesson of the introduction course. Remember if you have any questions about how, what or when to deliver - please use your class channel on Discord.
