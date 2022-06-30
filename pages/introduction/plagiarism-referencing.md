@@ -93,11 +93,9 @@ You use references to say who you have been influenced by. You can’t copy from
 
 ## Lesson task
 
-### Making a guide to Moodle
+### Explore Moodle
 
-This lesson task is to be delivered as a part of the course assignment.
-
-Take a screenshot of Moodle and, using a simple image editor of your choice, highlight the following sections: • Search
+Take a look around Moodle to familiarize yourself with its layout. Try find the following:
 
 • Profile
 
@@ -110,15 +108,3 @@ Take a screenshot of Moodle and, using a simple image editor of your choice, hig
 • Lessons
 
 • Deliveries
-
-### Reflecting
-
-This lesson task is to be delivered as a part of the course assignment.
-
-Ok, so now you have almost completed the introduction week. It should hopefully have been easy to follow, and not too much work. You'll get that later!
-
-A really important thing about learning is to pause and reflect on what you've done. Look back. How has your first week been? What have you learned? Did you struggle with anything? Why? Ask yourself all such kinds of questions. Reflect on the knowledge you've obtained during the week.
-
-• Write a self-reflective post about this week (approximately 150 words).
-
-• Save it as a PDF.

@@ -160,22 +160,3 @@ You are always encouraged to attempt a course assignment/project the first time 
 • Students cannot register for a resit unless a grade has been set during the first attempt.
 
 [Costs for resits can be found here.](https://www.noroff.no/en/admission/payment-loans-grants)
-
-## Lesson task
-
-### Present yourself
-
-• A link to Discord was sent in your welcoming email from a student success manager. Go to your class channel on Discord (i.e. 2020-august-full-time, 2020-october-part-time)
-
-• Write a presentation of yourself
-
-- Background
-- Interests
-- Creative interests
-- Past school experience
-- Why you chose this study programme
-- Your future plans Post your presentation as a message on the channel to complete the assignment.
-
-### Resources required
-
-Now is a good time to order the books for the course, if you haven't already. Take a look at the reading list.
