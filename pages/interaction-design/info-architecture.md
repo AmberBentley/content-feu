@@ -108,7 +108,7 @@ When making choices about terminology, navigation etc. it's best to choose the l
 | :-: | :-- |
  
 
-|  | **Activity 2**<br>READ<br><br>In David Kadavy's book, _About Face: The Essentials of Interaction Design_, Paperback, 2014, by Alan Cooper et.al..<br>Chapter 10: 'Optimizing for Intermediates'(2hr) |
+|  | **Activity 2**<br>READ<br><br>From _About Face: The Essentials of Interaction Design_, Paperback, 2014, by Alan Cooper et.al.<br>Chapter 10: 'Optimizing for Intermediates'(2hr) |
 | :-: | :-- |
 
 
