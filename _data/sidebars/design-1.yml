@@ -25,10 +25,64 @@ entries:
             url: /design-1/content-management.html
             output: web, pdf
 
-      - title: Course Assignment
+    folders:
+      - title: Module 2
         output: web, pdf
         folderitems:
-          - title: Course Assignment
-            url: /design-1/ca.html
-            output: web
+          - title: Fundamentals of Color
+            url: /design-1/intro-branding.html
+            output: web, pdf
+
+          - title: Understanding the Colors of the Web
+            url: /design-1/fundamentals-layout.html
+            output: web, pdf
+
+          - title: Typography Basics
+            url: /design-1/visual-hierarchy.html
+            output: web, pdf
+
+          - title: Font Pairings, Usability and the Style Tile
+            url: /design-1/content-management.html
+            output: web, pdf
+
+    folders:
+      - title: Module 3
+        output: web, pdf
+        folderitems:
+          - title: User Interface Design
+            url: /design-1/intro-branding.html
+            output: web, pdf
+
+          - title: Principles of User Interface Design
+            url: /design-1/fundamentals-layout.html
+            output: web, pdf
+
+          - title: Introduction to UX Design
+            url: /design-1/visual-hierarchy.html
+            output: web, pdf
+
+          - title: Principles of UX Design
+            url: /design-1/content-management.html
+            output: web, pdf
+
+    folders:
+      - title: Module 4
+        output: web, pdf
+        folderitems:
+          - title: Introduction to Wireframes
+            url: /design-1/intro-branding.html
+            output: web, pdf
+
+          - title: Creating wireframes
+            url: /design-1/fundamentals-layout.html
+            output: web, pdf
+
+          - title: Introduction to Prototyping
+            url: /design-1/visual-hierarchy.html
+            output: web, pdf
+
+          - title: Creating prototypes
+            url: /design-1/content-management.html
+            output: web, pdf
+
 # Copyright 2021 Google LLC
