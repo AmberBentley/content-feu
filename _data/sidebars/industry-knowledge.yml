@@ -1,0 +1,46 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+  - title: Sidebar
+    product: Industry Knowledge
+    previousSubjects: Design 1,Web and Communications Technology,HTML and CSS,Programming Foundations,CSS Frameworks
+    version: 1.0
+    folders:
+      - title: Module 1
+        output: web, pdf
+        folderitems:
+          - title: Job Options in Web Development
+            url: /industry-knowledge/job-options.html
+            output: web, pdf
+
+          - title: Your First Job
+            url: /industry-knowledge/first-job.html
+            output: web, pdf
+
+          - title: Preparing your GitHub Account
+            url: /industry-knowledge/github-account.html
+            output: web, pdf
+
+          - title: Creating a Portfolio Website
+            url: /industry-knowledge/portfolio-website.html
+            output: web, pdf
+
+      - title: Module 2
+        output: web, pdf
+        folderitems:
+          - title: Freelancing
+            url: /industry-knowledge/freelancing.html
+            output: web, pdf
+
+          - title: Positioning and Pricing
+            url: /industry-knowledge/pricing.html
+            output: web, pdf
+
+          - title: Finding Clients
+            url: /industry-knowledge/finding-clients.html
+            output: web, pdf
+
+          - title: Contracts
+            url: /industry-knowledge/contracts.html
+            output: web, pdf
+# Copyright 2021 Google LLC
