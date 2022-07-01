@@ -7,19 +7,20 @@ permalink: interaction-design/intro-interaction-design.html
 folder: interaction-design
 ---
 
-Module 1
+## Module 1
 
 In this module we will discuss:
 
-What is good interaction design?
+- What is good interaction design?
 
-Why is it important to have good design for your users?
+- Why is it important to have good design for your users?
 
-The user-centered design process.
+- The user-centered design process.
 
-Research, personas, storyboards, and usability testing.
+- Research, personas, storyboards, and usability testing.
 
-| | NOTE<br><br>Please note that completing Task 1.4 is important, so please ensure that by the end of the module you have installed Hotjar on your cross-course project from the first semester.  <br><br>  If anything is unclear, check your progression plan, and/or contact a tutor on the forums.. | | :-: | :----------------------------------------------------------------- |
+| | NOTE<br><br>Please note that completing Task 1.4 is important, so please ensure that by the end of the module you have installed Hotjar on your cross-course project from the first semester.  <br><br>  If anything is unclear, check your progression plan, and/or contact a tutor on the forums. |
+| :-: | :-- |
 
 ### Overview
 
@@ -31,6 +32,9 @@ Research, personas, storyboards, and usability testing.
 ### Lesson Overview
 
 ## Lesson - What is Interaction Design?
+
+![Tux, the Linux mascot](/assets/images/tux.png)
+
 
 ### Introduction
 
@@ -68,15 +72,17 @@ Developers on the other hand deal mostly with specifics and are deadline driven 
 
 This disconnect often leaves a gap with the question of, "what does the user want?" usually left unanswered.
 
-### User Experience
+## User Experience
 
 You might wonder, what the difference between User Experience and Interaction Design is. Well, User Experience (UX) is a wider view of the experience the user has with the product. Interaction Design is focussed on the moment the user is actually interacting with the product.
 
 UX design includes interaction design alongside the visuals and content.
 
-By Thomas-pluralvonglas (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons
+![Tux, the Linux mascot](/assets/images/tux.png)
 
-### User First
+_By Thomas-pluralvonglas(Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons_
+
+## User First
 
 Picture the following: you’re in a meeting and your manager comes in and says, "we've got a new project to work. You need to create a website for the local tourism information office."
 
@@ -84,7 +90,7 @@ What are your first thoughts? What colours and fonts are going to be used? What 
 
 While these are useful thoughts, the aim with interaction design is to put the user front and centre of the design process. We are designing and building the site for them and our first question should be aimed at understanding the user.
 
-### Common Mistakes
+## Common Mistakes
 
 There are a number of mistakes that people make when designing a site, sometimes because they misguidedly believe it will benefit the user or they have never bothered to consider the user.
 
@@ -100,7 +106,7 @@ Choosing aesthetics first. While visual design is important, it must always se
 
 Blaming the user for mistakes. Many websites tend to push back error messages to the user about what they did or didn't do. If the user is getting errors, it's the fault of the design. Often the product is designed to only be used in one way. This makes the user have to change to fit the product.
 
-### Goal Directed Design
+## Goal Directed Design
 
 While we might think that the aim of a website should be to achieve a business goal, it is much better to rather think of meeting user goals. We need to understand what the user wants and expects so that we can meet their needs and desires.
 
@@ -126,23 +132,18 @@ The developer's view will usually be a technical one about how the product is bu
 
 ## Activities
 
-Activity 1 WATCH
+### Activity 1 
 
-Video: Interaction Design
+|  | **Activity 1**<br>WATCH<br><br>Video: [Interaction Design](https://www.linkedin.com/learning/ux-foundations-interaction-design/interaction-design?u=43268076) <br>1. Today's Interaction Designer <br>2. A Model of Psychology and Interaction Design |
+| :-: | :-- |
 
-1. Today's Interaction Designer
-2. A Model of Psychology and Interaction Design
+|  | **Activity 2**<br>WATCH<br><br>Video: [UX Design: Overview](https://www.linkedin.com/learning/ux-design-1-overview-2/understanding-the-benefits-of-user-centered-design?u=43268076)  |
+| :-: | :-- | 
 
-Activity 2 WATCH
+|  | **Activity 3**<br>READ<br><br>From _About Face: The Essentials of Interaction Design_, Paperback, 2014, by Alan Cooper et.al.<br>Chapter 1: 'Goal-Directed Design' (1h) |
+| :-: | :-- |
 
-Video: UX Design: Overview (13m)  
-We will be following this video series this week as we learn about the user-centered design process.
-
-Activity 3 READ
-
-From About Face: The Essentials of Interaction Design Paperback, 2014, by Alan Cooper et.al. Chapter 1: 'Goal-Directed Design' (1h)
-
-Lesson Task - What is Interaction Design?
+## Lesson Task - What is Interaction Design?
 
 ## Lesson Task
 
@@ -154,24 +155,23 @@ To get a holistic understanding of interaction design and develop the skills nec
 
 Watch the following lecture by Don Norman on 'Living with Complexity'.
 
-WATCH
-
-Video: Living With Complexity
+|  | <br>WATCH<br><br> [Living With Complexity](https://www.youtube.com/watch?v=flRuSn0df8Q)  |
+| :-: | :-- | 
 
 For this lesson assignment you need to find an everyday object that you think could be improved upon, and then re-design the object to create a better interaction. The object can be in your home or at work or anywhere really.
 
 Ask yourself the following questions:
 
-As the user, what are my goals? What are the primary goals and what are secondary?
+- As the user, what are my goals? What are the primary goals and what are secondary?
 
-What constraints does this product have?
+- What constraints does this product have?
 
-What limitations does the current design have?
+- What limitations does the current design have?
 
-Are there opportunities for a more logical and intuitive design?
+- Are there opportunities for a more logical and intuitive design?
 
 When you've asked these questions, try re-designing the product on paper or on your computer.
 
-Time
+### Time
 
 3 hours
