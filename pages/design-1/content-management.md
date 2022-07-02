@@ -325,14 +325,14 @@ The Winery is the name of the company that contacted you for the design of their
 
 ### Preferred channels:
 
-- - Follow lifestyle influencers’ accounts on Instagram.
-- - Enjoy watching YouTube videos about wine making.
+- Follow lifestyle influencers’ accounts on Instagram.
+-  Enjoy watching YouTube videos about wine making.
 
 ### Preferred content types:
 
-- - Social media posts.
-- - Event marketing.
-- - Videos.
+-  Social media posts.
+-  Event marketing.
+-  Videos.
 
 ### For this task create the following design elements:
 

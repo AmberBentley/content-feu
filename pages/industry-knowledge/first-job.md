@@ -39,7 +39,7 @@ You might not fit exactly what the job is after, but be open to adapting your sk
  
 Have your own questions prepared for the interview to make sure this is the right place for you, plus it makes you appear more prepared and serious about the position. 
 
-A Technical Interview 
+### A Technical Interview 
 
 You might be asked to do a technical interview. Usually the interviewer will set you a series of tasks to complete in an interview setting. This allows them to make sure that what you say you can do on your CV, you can actually do. 
 
@@ -57,7 +57,7 @@ Once you’ve decided on the salary you’d be looking to accept, let them make 
 
 Many companies look to hire junior developers into their team as a long term strategy to build into individuals with potential. A junior developer is meant to learn the codebase and make small bug fixes and usually work with mid and senior developers on projects they are working on. Development companies will have their own ways of doing things, own technology and for the first while you will just be getting up to speed on how things work and how everything integrates. Don’t be concerned if you feel overwhelmed, a good company will on-board you slowly giving you achievable tasks to learn and contribute more as you learn. 
 
-## Activity 
+### Activity 
 
 | WATCH<br><br>Video: [ Mastering Web Developer Interview Code ](https://www.linkedin.com/learning/mastering-web-developer-interview-code/what-questions-are-asked-in-developer-interviews-with-john-riviello?u=43268076)<br>  - Section 3. Interviews with Working Professionals (2 hours)  <br>_You can also watch Questions and Tasks videos in section 1 and 2 to see some of the questions you might be asked in a technical interview._  |
 | :-: |
