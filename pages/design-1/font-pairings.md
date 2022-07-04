@@ -1,21 +1,13 @@
 ---
-title: Fundamentals of Color
+title: Font Pairings
 keywords: sample
 tags: Design 1
 sidebar: design-1
-permalink: design-1/fundamentals-color.html
+permalink: design-1/font-pairings.html
 folder: design-1
 ---
 
-## Lesson-Font pairings, usability and the style tile
-
-## Lesson Overview
-
-### Lesson - Font pairings, usability and the style tile
-
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
-
-### Introduction
+## Introduction
 
 Typography is when letters and text are arranged that makes information legible, clear and aesthetically pleasing. One needs to consider the role typography plays, and choose fonts for the headings and body content text that works well together.
 
