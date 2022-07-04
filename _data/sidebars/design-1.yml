@@ -9,6 +9,10 @@ entries:
       - title: Module 1
         output: web, pdf
         folderitems:
+          - title: Overview
+            url: /design-1/module-1.html
+            output: web, pdf
+
           - title: Introduction to Branding
             url: /design-1/intro-branding.html
             output: web, pdf
@@ -25,64 +29,72 @@ entries:
             url: /design-1/content-management.html
             output: web, pdf
 
-    folders:
       - title: Module 2
         output: web, pdf
         folderitems:
+          - title: Overview
+            url: /design-1/module-2.html
+            output: web, pdf
+
           - title: Fundamentals of Color
-            url: /design-1/intro-branding.html
+            url: /design-1/fundamentals-color.html
             output: web, pdf
 
           - title: Understanding the Colors of the Web
-            url: /design-1/fundamentals-layout.html
+            url: /design-1/colors-of-the-web.html
             output: web, pdf
 
           - title: Typography Basics
-            url: /design-1/visual-hierarchy.html
+            url: /design-1/typography-basics.html
             output: web, pdf
 
           - title: Font Pairings, Usability and the Style Tile
-            url: /design-1/content-management.html
+            url: /design-1/font-pairings.html
             output: web, pdf
 
-    folders:
       - title: Module 3
         output: web, pdf
         folderitems:
+          - title: Overview
+            url: /design-1/module-3.html
+            output: web, pdf
+
           - title: User Interface Design
-            url: /design-1/intro-branding.html
+            url: /design-1/user-interface.html
             output: web, pdf
 
           - title: Principles of User Interface Design
-            url: /design-1/fundamentals-layout.html
+            url: /design-1/principles-ui-design.html
             output: web, pdf
 
           - title: Introduction to UX Design
-            url: /design-1/visual-hierarchy.html
+            url: /design-1/intro-ux.html
             output: web, pdf
 
           - title: Principles of UX Design
-            url: /design-1/content-management.html
+            url: /design-1/principles-ux-design.html
             output: web, pdf
 
-    folders:
       - title: Module 4
         output: web, pdf
         folderitems:
+          - title: Overview
+            url: /design-1/module-4.html
+            output: web, pdf
+
           - title: Introduction to Wireframes
-            url: /design-1/intro-branding.html
+            url: /design-1/intro-wireframes.html
             output: web, pdf
 
           - title: Creating wireframes
-            url: /design-1/fundamentals-layout.html
+            url: /design-1/creating-wireframes.html
             output: web, pdf
 
           - title: Introduction to Prototyping
-            url: /design-1/visual-hierarchy.html
+            url: /design-1/intro-prototyping.html
             output: web, pdf
 
           - title: Creating prototypes
-            url: /design-1/content-management.html
+            url: /design-1/creating-prototypes.html
             output: web, pdf
-
 # Copyright 2021 Google LLC

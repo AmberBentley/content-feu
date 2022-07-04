@@ -9,25 +9,11 @@ folder: design-1
 
 ## Introduction
 
-Here we learn more about using Colour in Online Design.
-
-|     | NOTE<br><br>You can use Adobe XD/Figma in this course. |
-| :-: | :----------------------------------------------------- |
-
-## Lesson - Fundamentals of colour
-
----
-
-### Introduction
-
 Every second we see thousands of colours. Colours are everywhere and even though, according to experts, we can distinguish close to 10 million different colours, we can only name a small part of all colours we can see. In this lesson, we will look at the fundamentals of colour. We will look at how the colour wheel works and how the user experiences colour.
 
-|     | NOTE<br><br>This lesson contains 5 activities that you should complete. |
-| :-: | :---------------------------------------------------------------------- |
+This lesson contains 5 activities that you should complete.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
-
-### Colour in design
+## Colour in design
 
 Colour is one of the most difficult subjects in design. The difficulty is that colour is highly subjective – the combinations, harmonies, or discordance (clashes) that develop are subject to the viewers’ personal experiences and preferences. Colour tastes and meanings also vary across cultures and countries. Therefore, one single formula for effective colour-use does not exist – each new project that a designer encounters deals with decisions on colour for that project, task, and target audience.
 
