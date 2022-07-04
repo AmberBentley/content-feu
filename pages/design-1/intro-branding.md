@@ -27,6 +27,8 @@ Front-end developers must design the look and feel of a website in a manner that
 |  | **Example:**<br><br>A developer wants to build a website for Minecraft, a decade-old, computer-based video game. 70% of Minecraft players fall within the 12 to 17-year age bracket. Thus, the developer should choose design elements wisely that young gamers would find it appealing. |
 | :-- | :-- |
 
+![Minecraft characters](../../images/design-1/Introductiontobranding-1.jpg)
+
 _Figure. Pixel-art style graphics. One of the most characteristic elements of the game Minecraft (Nintendo, 2018)_
 
 ### Good design is user-friendly
