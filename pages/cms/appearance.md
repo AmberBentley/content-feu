@@ -14,7 +14,7 @@ There are many different types of themes, some are free and some you pay for. Th
 
 ## Appearance
 
-!(Appearance)[../../images/cms/1-4-appearance.jpg]
+![Appearance](../../images/cms/1-4-appearance.jpg)
 
 To add a theme, you click ‘Add New Theme’, search for the theme you want and then install and activate. If you change the theme, navigate to your site by hovering over your website’s name in the top left and clicking ‘Visit site’ - you’ll see the content is displayed differently.
 
@@ -31,7 +31,7 @@ To update the navigation for your website, you can go to the ‘Menus’ section
 You can change the value of the text that appears in the links. You can create submenus by merely dragging the menu item to the right under its parent element.
 
 **WATCH**
-Video: (WordPress 5 Essential Training: Site Administration)[https://www.linkedin.com/learning/wordpress-5-essential-training-site-administration/site-identity?u=43268076]
+Video: [WordPress 5 Essential Training: Site Administration](https://www.linkedin.com/learning/wordpress-5-essential-training-site-administration/site-identity?u=43268076)
 !2. Configuration with the customizer
 
 ## Lesson Task
