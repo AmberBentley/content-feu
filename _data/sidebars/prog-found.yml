@@ -9,6 +9,10 @@ entries:
       - title: Module 1
         output: web, pdf
         folderitems:
+          - title: Overview
+            url: /programming-foundations/module-1.html
+            output: web
+
           - title: Getting Started
             url: /programming-foundations/getting-started.html
             output: web
@@ -28,6 +32,10 @@ entries:
       - title: Module 2
         output: web, pdf
         folderitems:
+          - title: Overview
+            url: /programming-foundations/module-2.html
+            output: web
+
           - title: String Properties
             url: /programming-foundations/string-properties.html
             output: web
@@ -43,11 +51,4 @@ entries:
           - title: Introduction to Functions
             url: /programming-foundations/intro-functions.html
             output: web, pdf
-
-      - title: Course Assignment
-        output: web, pdf
-        folderitems:
-          - title: Course Assignment
-            url: /programming-foundations/ca.html
-            output: web
 # Copyright 2021 Google LLC

@@ -9,6 +9,10 @@ entries:
       - title: Module 1
         output: web, pdf
         folderitems:
+          - title: Overview
+            url: /project-methodology/module-1.html
+            output: web, pdf
+
           - title: Front-end Practice
             url: /project-methodology/front-end-practice.html
             output: web, pdf

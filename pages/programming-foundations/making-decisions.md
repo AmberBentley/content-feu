@@ -4,7 +4,7 @@ keywords: sample
 tags: Programming Foundations
 sidebar: prog-found
 permalink: programming-foundations/making-decisions.html
-folder: Module 1
+folder: programming-foundations
 ---
 
 ## Comparison operators

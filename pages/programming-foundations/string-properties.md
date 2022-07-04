@@ -4,7 +4,7 @@ keywords: sample
 tags: Programming Foundations
 sidebar: prog-found
 permalink: programming-foundations/string-properties.html
-folder: prog_found
+folder: programming-foundations
 ---
 
 ## String properties and methods

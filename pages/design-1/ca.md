@@ -1,5 +1,5 @@
 ---
-title: Content Management
+title: Course Assignment
 keywords: sample
 tags: Design 1
 sidebar: design-1

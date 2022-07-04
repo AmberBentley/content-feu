@@ -9,6 +9,10 @@ entries:
       - title: Module 1
         output: web, pdf
         folderitems:
+          - title: Overview
+            url: /wct/module-1.html
+            output: web, pdf
+
           - title: HyperText and the World Wide Web
             url: /wct/hypertext.html
             output: web, pdf
@@ -23,6 +27,14 @@ entries:
 
           - title: Accessibility
             url: /wct/accessibility.html
+            output: web, pdf
+
+          - title: Introduction to Web Development
+            url: /wct/intro-web-dev.html
+            output: web, pdf
+
+          - title: Intellectual Property
+            url: /wct/intellectual-property.html
             output: web, pdf
 
       - title: Course Assignment

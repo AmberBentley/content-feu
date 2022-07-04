@@ -4,7 +4,7 @@ keywords: sample
 tags: Programming Foundations
 sidebar: prog-found
 permalink: programming-foundations/intro-functions.html
-folder: prog_found
+folder: programming-foundations
 ---
 
 Every line of javascript we write is called a _statement_, and when we write multiple statements together we create a _procedure_.

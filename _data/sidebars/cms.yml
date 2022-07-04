@@ -9,6 +9,10 @@ entries:
       - title: Module 1
         output: web, pdf
         folderitems:
+          - title: Overview
+            url: /cms/module-1.html
+            output: web
+
           - title: What are CMSs and why use them
             url: /cms/intro-cms.html
             output: web
@@ -28,6 +32,10 @@ entries:
       - title: Module 2
         output: web, pdf
         folderitems:
+          - title: Overview
+            url: /cms/module-2.html
+            output: web
+
           - title: Introduction to PHP
             url: /cms/intro-php.html
             output: web
