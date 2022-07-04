@@ -132,7 +132,7 @@ WATCH<br><br>The following LinkedIn Learning videos from Brad Batesole (remember
 
 ### Activity 4
 
-WATCH<br><br>Video: [The 3 Rules of Good Logo Design](https://www.youtube.com/watch?v=VnBUOjxmn1g) (2m 4s) by The Futur Academy. <br><br>Video: [What Is Branding? 4 Minute Crash Course](https://www.youtube.com/watch?v=sO4te2QNsHY) (3m 48s) by The Futur Academy. |
+WATCH<br><br>Video: [The 3 Rules of Good Logo Design](https://www.youtube.com/watch?v=VnBUOjxmn1g) (2m 4s) by The Futur Academy. <br><br>Video: [What Is Branding? 4 Minute Crash Course](https://www.youtube.com/watch?v=sO4te2QNsHY) (3m 48s) by The Futur Academy. 
 
 ## Lesson Task - Introduction to branding
 
