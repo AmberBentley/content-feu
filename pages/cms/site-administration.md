@@ -40,6 +40,7 @@ Using their block editor, you can add individual blocks of content like Paragrap
 The WordPress admin panel is quite intuitive, but if you want more information about how to set up the admin panel and use all the elements correctly, you can look at the following video.
 
 **WATCH**
+
 Video: [WordPress 5 Essential Training](https://www.linkedin.com/learning/wordpress-5-essential-training/wordpress-an-introduction?u=43268076)
 
 ## Plugins
@@ -57,9 +58,12 @@ The following video covers content management and introduces you to the WordPres
 You can watch the video further if you’re interested and want to learn more about the block editor.
 
 **WATCH**
+
 Video: [WordPress 5 Essential Training](https://www.linkedin.com/learning/wordpress-5-essential-training/the-three-main-content-types-of-wordpress?u=43268076)
 2. Content Management (11m)
 
 ## Lesson Task
+
 ### Brief
+
 Create a page on the WordPress admin panel and take some time to familiarise yourself with the block editor by adding various blocks to the page. See what is available and how it works.

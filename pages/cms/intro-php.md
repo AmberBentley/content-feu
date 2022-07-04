@@ -79,15 +79,19 @@ See how we use ‘.’ to concatenate variables and write HTML directly into the
 ## Activity 
 
 **WATCH**
+
 There’s plenty to learn about PHP, but for now, these are the absolute basics and will help you better understand what’s happening in WordPress’s PHP files.
 
 If you would like to learn more about PHP, you can watch the following video: [PHP Essential Training](https://www.linkedin.com/learning/php-essential-training-2/introduction?u=43268076)
 
 ## Lesson Task
+
 ### Brief
+
 Get some experience working with PHP. Having a basic understanding of PHP will help when you’re working with WordPress. More often than not, if you run into WordPress problems, there will be a forum post answering your issue. However, implementing many of the fixes and changes will require some understanding of PHP.
 
-**Level 1 Process**
+### Level 1 Process
+
 1.	Turn on your local server.
 2.	Go to your ‘htdocs’ folder and create a folder called ‘cms-task2-1.’
 3.	Inside this folder create an index.php file and open it in your browser as it runs on your local server. The file path will probably be localhost/cms-task2-1/index.php, but it depends on which local server you’re running.
