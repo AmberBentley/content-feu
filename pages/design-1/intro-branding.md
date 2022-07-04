@@ -128,7 +128,7 @@ READ<br><br>From the book _Design for Hackers_ by David Kadavy: <br>Chapter 2: T
 
 ### Activity 3
 
-WATCH<br><br>The following LinkedIn Learning videos from Brad Batesole (remember to be logged into your account) as a short introduction to brand touch points.<br><br>Video: [The influence of touchpoints](https://www.linkedin.com/learning/advanced-branding/the-influence-of-touch-points?u=43268076) (3m 40s). <br><br>Video: [Branding through storytelling](https://www.linkedin.com/learning/advanced-branding/branding-through-storytelling-2?u=43268076) (3m 1s). <br><br>Video: [Exploring the customer journey](https://www.linkedin.com/learning/advanced-branding/exploring-the-customer-journey-2?u=43268076) (3m 4s). |
+WATCH<br><br>The following LinkedIn Learning videos from Brad Batesole (remember to be logged into your account) as a short introduction to brand touch points.<br><br>Video: [The influence of touchpoints](https://www.linkedin.com/learning/advanced-branding/the-influence-of-touch-points?u=43268076) (3m 40s). <br><br>Video: [Branding through storytelling](https://www.linkedin.com/learning/advanced-branding/branding-through-storytelling-2?u=43268076) (3m 1s). <br><br>Video: [Exploring the customer journey](https://www.linkedin.com/learning/advanced-branding/exploring-the-customer-journey-2?u=43268076) (3m 4s). 
 
 ### Activity 4
 
