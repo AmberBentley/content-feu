@@ -40,7 +40,7 @@ Joomla! has the second-largest share in the CMS market. It offers more out of th
 
 Drupal is popular with larger websites and enterprises. It’s less bloated than the other two CMS options, but this comes at the expense of requiring more technical knowledge. 
 
-WATCH (OPTIONAL) 
+**WATCH (OPTIONAL)** 
  
 Video: [Considering a CMS for Web Design](https://www.linkedin.com/learning-login/share?account=43268076&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fconsidering-a-cms-for-web-design%3Ftrk%3Dshare_ent_url%26shareId%3D9sUazNFmQo%252BSz4bn6ZmgdA%253D%253D)
 
