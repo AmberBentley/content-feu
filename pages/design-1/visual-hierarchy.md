@@ -10,8 +10,8 @@ folder: design-1
 
 This lesson presents an introduction in establishing visual hierarchy in design. It presents an overview on how to organise visual elements to guide online users in knowing which actions to take when entering a website.
 
-|     | NOTE<br><br>This lesson contains 3 activities that you should complete. |
-| :-: | :---------------------------------------------------------------------- |
+| | NOTE<br><br>This lesson contains 3 activities that you should complete. |
+| :-: |:---------------------------------------------------------------------- |
 
 ## What is visual hierarchy?
 
@@ -133,8 +133,8 @@ The Nielsen Norman Group describes visual hierarchy as having control of deliver
 
 ## Activities
 
-|  | **Activity 1**<br>READ<br><br>To get a better understanding of emphasis in design read the following article by Mads Soegaard: [Emphasis: Setting up the focal point of your design](https://www.interaction-design.org/literature/article/emphasis-setting-up-the-focal-point-of-your-design) (12m) |
-| :-: | :-- |
+ | **Activity 1**<br>READ<br><br>To get a better understanding of emphasis in design read the following article by Mads Soegaard: [Emphasis: Setting up the focal point of your design](https://www.interaction-design.org/literature/article/emphasis-setting-up-the-focal-point-of-your-design) (12m)  |
+| :-: |
 
 > _"For a user to be able to navigate through all the information in a website or application, that information needs to be clearly presented and have a clear hierarchy". - David Kadavy_
 
