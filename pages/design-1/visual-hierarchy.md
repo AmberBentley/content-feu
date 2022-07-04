@@ -23,6 +23,8 @@ One needs to understand the importance of visual language before starting to des
 
 When you plan your design, you need to decide what you want the viewer to focus on first. What are the most important parts of the design? The viewer might have to read the headline first before the picture or the body copy would make sense.
 
+![Visual hierarchy](../../images/design-1/Visual-Language/Organisingvisuallanguageandestablishingvisualhierarchy-1.png)
+
 _Figure 1. Visual hierarchy is achieved with different font sizes, widths, and colour_
 
 To complicate the matter even further, certain cultures (and even age groups) see things in different ways. That means that you can't simply assume that everyone will see the image in the same way you do. As a designer, you will most probably have a better understanding of perception because you work with visuals every day. Because of this, you will also understand the concept of visual language better. So, what comes naturally to you might have to be spelled out to the viewer.
@@ -36,6 +38,8 @@ Fortunately, the ability to perceive is naturally strong in most viewers. That m
 Our eyes are remarkably alert and responsive (Malamed, 2009). This helps us perform tasks that are necessary for survival in our environment. At the same time, we can use our sight to see and understand pictures. For example, without even thinking about it, we constantly scan our surroundings to extract information about what is "out there". If there is anything important or unusual, we notice it.
 
 Similarly, without even thinking about it, we scan a picture or design to gain information. We immediately notice if there is anything important or interesting. All of this happens effortlessly before we have consciously focused our attention. The following print advert by the Agency Network JWT serves as an excellent example of how a well-designed advert can immediately capture the imagination of the audience (JWT, 2010).
+
+![Hiererchy](../../images/design-1/Visual-Language/Organisingvisuallanguageandestablishingvisualhierarchy-2.jpeg)
 
 _Figure 2. Band-aid Hulk. A good example of visual hierarchy achieved by the agency network JWT (JWT, 2010)_
 
@@ -57,9 +61,13 @@ The most common way to communicate is verbally. When you tell a friend a story, 
 
 The boundaries that form the edges of a graphic, also known as the frame, have a powerful effect on a composition. Whether it is a postcard, a page, a poster, or a screen, the frame creates meaning for the elements inside it. It is generally accepted that the position of an object within a frame creates a certain tension. This tension affects the perceived importance of an object and thus where we place our attention. Look at this webpage with a big splat of colour near the edge of the screen:
 
+![Position](../../images/design-1/Visual-Language/Organisingvisuallanguageandestablishingvisualhierarchy-3.png)
+
 _Figure 3. Paint splash in near the edge of the page_
 
 Now look at the same splat of colour right in the centre of the screen. Which would be more comfortable to focus on?
+
+![Colour](../../images/design-1/Visual-Language/Organisingvisuallanguageandestablishingvisualhierarchy-4.png)
 
 _Figure 4. Paint splash in the centre of the page._
 
@@ -77,17 +85,25 @@ Our understanding of positioning in a frame is a metaphor for how we view hierar
 
 Look at the following layouts. What feeling arise when you look at them?
 
+![Gestalt](../../images/design-1/Visual-Language/Organisingvisuallanguageandestablishingvisualhierarchy-5.png)
+
 _Figure 5. Gestalt compositions (Iott, 2012)_
 
 Now view the following images one at a time and consider if you agree with the descriptions given below.
+
+![Composition](../../images/design-1/Visual-Language/Organisingvisuallanguageandestablishingvisualhierarchy-6.png)
 
 _Figure 6. An example of compositions comfort and playfulness (Iott, 2012)_
 
 The first image (left) brings a feeling of comfort to the viewer as the different elements are placed in the form of a hammock. The second image (right) is more playful because the elements are placed in the middle and their orientation is unpredictable and more carefree.
 
+![Tension](../../images/design-1/Visual-Language/Organisingvisuallanguageandestablishingvisualhierarchy-7.png)
+
 _Figure 7. An example of compositions tension and congestion (Iott, 2012)_
 
 The layout on the left can be described as tension in a sense. There is no room to breathe because there is no white space present between the various elements. The layout on the right represents a feeling of congestion as the elements are placed to represent somewhat of a bottleneck effect.
+
+![Order](../../images/design-1/Visual-Language/Organisingvisuallanguageandestablishingvisualhierarchy-8.png)
 
 _Figure 8. An example of compositions order and tension (Iott, 2012)_
 
@@ -98,6 +114,8 @@ The layout to the left brings a feeling of order. If you look closely you would 
 Creating energy and life in design is achieved by variation and emphasis. Making everything of the same importance or strength will weaken the design or render it so monotonous that the viewer loses interest. An important aspect of captivating design is the balance between elements in composition – the strategic use of emphasis and balance.
 
 Emphasis can be created by size, weight, position, colour, shape, and style. Contrast and emphasis are often confused and seen as the same thing, but in reality, they are a bit different from each other. Contrast is the difference between two objects whereas emphasis is the impact on an object and how that object forms a focal point in the overall design. Think of a pattern of black dots, and now imagine one dot being red. Your eye would immediately go to the red dot. That would be your focal point, created by emphasis (Invision, 2020).
+
+![Emphasis](../../images/design-1/Visual-Language/Organisingvisuallanguageandestablishingvisualhierarchy-9.jpeg)
 
 _Figure 9. An example of emphasis in design._
 
