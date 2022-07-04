@@ -81,7 +81,7 @@ In most cases, the logo is the essential building block of the brand. Adam, et a
 
 It is also worth noting that the word “logo” has multiple meanings. There are also different words to describe this thing we call a "logo". It´s rare that you, as a front-end developer, will work with logo design, but it can be useful to understand some of the fundamental ideas and principles.
 
-[Adidas Logps](../../images/design-1/Introductiontobranding-3.png)
+[Adidas Logos](../../images/design-1/Introductiontobranding-3.png)
 
 _Figure. The adidas logo through the years. Notice how it has change, but is still recognisable (1000logos.com, 2019)_
 
