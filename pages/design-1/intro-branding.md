@@ -72,6 +72,7 @@ According to Wheeler (2020), _branding is a disciplined process used to build aw
 The physical appearance of a person includes the clothes that they wear, their physical body and their facial features. These are aspects to an individual that are visual. Along with these aspects comes how the individual interacts with the world through sense of humour, tone of voice, personality and manner of expression. A person is thus a mix of physical appearance and manner or style of communicating. The branding of a product is similar. The product has a physical appearance in the form of a logo (visual identity). However, this logo communicates and interacts with the world, impacting people differently based on their perceptions, emotions and backgrounds (brand identity).
 
 ![Adidas brand](../../images/design-1/Introductiontobranding-2.jpeg)
+
 _Figure. Adidas doing a fine job at showcasing their brand to the world (adsoftheworld.com, 2016)_
 
 ### Visual identity: the brand logo
