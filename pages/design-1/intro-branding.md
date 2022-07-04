@@ -27,6 +27,8 @@ Front-end developers must design the look and feel of a website in a manner that
 |  | **Example:**<br><br>A developer wants to build a website for Minecraft, a decade-old, computer-based video game. 70% of Minecraft players fall within the 12 to 17-year age bracket. Thus, the developer should choose design elements wisely that young gamers would find it appealing. |
 | :-- | :-- |
 
+![Minecraft characters](../../images/design-1/Introductiontobranding-1.jpg)
+
 _Figure. Pixel-art style graphics. One of the most characteristic elements of the game Minecraft (Nintendo, 2018)_
 
 ### Good design is user-friendly
@@ -68,6 +70,8 @@ In this section, we will look at brand identity fundamentals and explore the fun
 According to Wheeler (2020), _branding is a disciplined process used to build awareness and extend customer loyalty. It requires a mandate from the top and readiness to invest in the future. Branding is about seizing every opportunity to express why people should choose one brand over another. A desire to lead, outpace the competition and give employees the best tools to reach customers are some of the reasons why companies invest a lot of money in good branding._
 
 The physical appearance of a person includes the clothes that they wear, their physical body and their facial features. These are aspects to an individual that are visual. Along with these aspects comes how the individual interacts with the world through sense of humour, tone of voice, personality and manner of expression. A person is thus a mix of physical appearance and manner or style of communicating. The branding of a product is similar. The product has a physical appearance in the form of a logo (visual identity). However, this logo communicates and interacts with the world, impacting people differently based on their perceptions, emotions and backgrounds (brand identity).
+
+![Adidas brand](../../images/design-1/Introductiontobranding-2.jpeg)
 
 _Figure. Adidas doing a fine job at showcasing their brand to the world (adsoftheworld.com, 2016)_
 
