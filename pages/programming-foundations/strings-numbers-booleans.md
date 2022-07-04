@@ -4,7 +4,7 @@ keywords: sample
 tags: Programming Foundations
 sidebar: prog-found
 permalink: programming-foundations/strings-numbers-booleans.html
-folder: Module 1
+folder: programming-foundations
 ---
 
 Variables are how a programming language stores information in a computer's memory. We can think of them as containers for data and once stored there, we can act on and use this data in other parts of our program.

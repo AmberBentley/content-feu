@@ -4,7 +4,7 @@ keywords: sample
 tags: Programming Foundations
 sidebar: prog-found
 permalink: programming-foundations/ca.html
-folder: prog_found
+folder: programming-foundations
 ---
 
 ## Brief

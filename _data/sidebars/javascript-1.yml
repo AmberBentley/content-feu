@@ -9,6 +9,10 @@ entries:
       - title: Module 1
         output: web, pdf
         folderitems:
+          - title: Overview
+            url: /javascript-1/module-1.html
+            output: web
+
           - title: Introductory concepts
             url: /javascript-1/intro-concepts.html
             output: web
@@ -28,6 +32,10 @@ entries:
       - title: Module 2
         output: web, pdf
         folderitems:
+          - title: Overview
+            url: /javascript-1/module-2.html
+            output: web
+
           - title: forEach, setTimeout and setInterval
             url: /javascript-1/callback-functions.html
             output: web
@@ -47,6 +55,10 @@ entries:
       - title: Module 3
         output: web, pdf
         folderitems:
+          - title: Overview
+            url: /javascript-1/module-3.html
+            output: web
+
           - title: Query Strings and GET requests
             url: /javascript-1/get-requests.html
             output: web
@@ -66,6 +78,10 @@ entries:
       - title: Module 4
         output: web, pdf
         folderitems:
+          - title: Overview
+            url: /javascript-1/module-4.html
+            output: web
+
           - title: Skipping Certain API results
             url: /javascript-1/skipping-certain-api-results.html
             output: web

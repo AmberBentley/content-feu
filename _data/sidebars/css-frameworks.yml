@@ -9,6 +9,10 @@ entries:
       - title: Module 1
         output: web, pdf
         folderitems:
+          - title: Overview
+            url: /css-frameworks/module-1.html
+            output: web, pdf
+
           - title: Introduction to Bootstrap
             url: /css-frameworks/intro-to-bootstrap.html
             output: web, pdf

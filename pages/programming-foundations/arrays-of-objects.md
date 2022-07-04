@@ -4,7 +4,7 @@ keywords: sample
 tags: Programming Foundations
 sidebar: prog-found
 permalink: programming-foundations/arrays-of-objects.html
-folder: prog_found
+folder: programming-foundations
 ---
 
 ## Truthiness and Falsiness
