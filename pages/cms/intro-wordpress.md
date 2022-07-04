@@ -67,6 +67,7 @@ Finally, click ‘Login’ and input your username and password you just created
 In this lesson, we covered installing and running a WordPress site locally using Xampp. If you would like to follow an installation video for Local by Flywheel (for Windows or Mac) or MAMP (for Mac), you can watch the following videos. 
 
 **WATCH**
+
 Video: [Local by Flywheel](https://www.linkedin.com/learning/installing-and-running-wordpress-local-by-flywheel/wordpress-on-your-computer-with-local-by-flywheel?u=43268076) (38m)  
  
 Video: [MAMP](https://www.linkedin.com/learning/installing-and-running-wordpress-mamp-3/hosting-wordpress-on-your-mac-with-mamp?u=43268076) (1h 15m) 

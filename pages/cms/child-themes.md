@@ -51,11 +51,13 @@ Storefront makes creating child themes easier than some other themes, so we donâ
 ### Activity 1
 
 **READ**
+
 Page: [Child Themes](https://developer.wordpress.org/themes/advanced-topics/child-themes/) for a tutorial by WordPress on adding a child theme.
 
 ### Activity 2
 
 **WATCH**
+
 If you would like to follow along with a video tutorial to set up a child theme: [WordPress: Building Child Themes](https://www.linkedin.com/learning/wordpress-building-child-themes-3/level-up-to-wordpress-developer?u=43268076)
 1. Building on a solid foundation
 2. Creating a child theme
@@ -66,6 +68,7 @@ If you would like to follow along with a video tutorial to set up a child theme:
 
 Experiment with styling child themes.
 
-**Level 1 Process**
+### Level 1 Process
+
 1.	Set up your child theme as covered in Lesson - 'Child themes'
 2.	Try adding some unique styling to your styles.css file and see it pull through on your website. Perhaps update the body colour or choose another element to style and make sure everything comes through correctly. 

@@ -107,6 +107,7 @@ I don’t want to edit what gets output in the PHP; I just want to add an image 
 On all the product pages, I will now see an image added underneath the product info.
 
 ## Activity
+
 **WATCH**
 
 For more on working with child themes, please watch the following video: [WordPress: Building Child Themes](https://www.linkedin.com/learning/wordpress-building-child-themes-3/level-up-to-wordpress-developer?u=43268076)
@@ -116,6 +117,7 @@ For more on working with child themes, please watch the following video: [WordPr
 6. Adding new functionality
 
 ## Lesson Task
+
 ### Brief
 
 Choose a section of the website that you would like to update. Inspect the element to find out what it is and what its class is, then go to your code editor and search through your WordPress files for mention of this element.
