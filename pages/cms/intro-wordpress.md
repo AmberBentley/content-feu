@@ -12,7 +12,7 @@ WordPress uses PHP, a server-side language, to render pages; therefore, we need 
 
 ## Steps 
 
-1. Local server 
+### 1. Local server 
 
 Download an application to run a local server on your computer. 
  
@@ -26,7 +26,7 @@ _Note: Mac users may prefer to choose MAMP from the beginning as it’s well sui
 
 Click ‘Start’ for both Apache and MySQL, and test that your server is running by going to http://localhost/ in your browser which should load up a page saying ‘Welcome to Xampp’. 
 
-2. Download WordPress files 
+### 2. Download WordPress files 
 
 Next, you need to download the WordPress files from here. Take the zip file you’ve downloaded and copy it. 
  
@@ -38,7 +38,7 @@ Now click into the htdocs folder and create a new folder called ‘flower-power�
 
 ![Zip file](../../images/cms/1-2-download2.jpg)
 
-3. Create a database for WordPress 
+### 3. Create a database for WordPress 
 
 It’s essential to understand the relationship WordPress has with its database. All the posts, pages, and comments made on WordPress’s admin side are stored in this database. To create a MySQL database, go to http://localhost/phpmyadmin/ and click Databases. 
 
@@ -46,7 +46,7 @@ It’s essential to understand the relationship WordPress has with its database.
 
 Enter a database name called ‘flower-power’ and click create. 
 
-4. Run the WordPress install 
+### 4. Run the WordPress install 
 
 Go to localhost/flower-power, which will begin the installation wizard. Firstly, you’ll be asked for a preferred language for the installation and an overview of the required information where you can click ‘Let’s go’. 
  
