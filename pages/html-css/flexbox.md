@@ -52,9 +52,13 @@ Here are other possible values for the justify-content property.
 
 ## Activities
 
+### Activity 1
+
 **WATCH**
 
-T[his tutorial video on Flexbox.](https://scrimba.com/scrim/cNq68Wf2?pl=paaBbTa) (4m 12s)
+[This tutorial video on Flexbox.](https://scrimba.com/scrim/cNq68Wf2?pl=paaBbTa) (4m 12s)
+
+### Activity 2
 
 **READ**
 
