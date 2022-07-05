@@ -11,8 +11,7 @@ folder: design-1
 
 Planning and structuring when placing elements on a web page do not only achieve an appealing design. These tasks also help the online user to comprehend information. In this lesson, we will discuss the principles of layout/composition and have a look at the anatomy of a grid structure.
 
-|     | NOTE<br><br>This lesson contains 4 activities for your completion. |
-| :-: | :----------------------------------------------------------------- |
+|  NOTE<br><br>This lesson contains 4 activities for your completion. 
 
 ## Basics of layout/composition
 
