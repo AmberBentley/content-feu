@@ -130,7 +130,7 @@ The example above is much more difficult to read than the example below, where i
 
 **WATCH**
 
-The below tutorial video on laying out a basic HTML page. (15m 39s)
+[This tutorial video on laying out a basic HTML page.](https://scrimba.com/scrim/cBL7gDUv?pl=paaBbTa) (15m 39s)
 
 ## Lesson Task
 
