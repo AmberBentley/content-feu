@@ -41,6 +41,7 @@ Click through the tabs below to view descriptions of each element.
 
 
 ### Head
+
 The head of the document is used to contain metadata about the page, but is not displayed on the page like the data inside the body. The metadata defined in the head might include: the page title, descriptions of the page, styles, scripts, viewports, links, and more.
 
 ### Title
@@ -69,10 +70,10 @@ Note below how nested elements are indented. This makes the code easier to read.
 
 ### Header
 
-The header of a page contains an introduction to the page. It might typically contain the logo, a heading and/or introduction to the page, the main navigation for the site, as well as a header image. It's important to point out the difference between <head> and <header>.
+The header of a page contains an introduction to the page. It might typically contain the logo, a heading and/or introduction to the page, the main navigation for the site, as well as a header image. It's important to point out the difference between `<head>` and `<header>`.
 
-- The <head> is used for extra information about the document.
-- The <header> is the introduction to the page.
+- The `<head>` is used for extra information about the document.
+- The `<header>` is the introduction to the page.
 
 ### Nav
 
@@ -80,33 +81,33 @@ The nav element should contain your main navigation for the website. On most web
 
 ### UL and LI
 
-In the code above there is a <ul> element inside the nav element – this is an abbreviation of unordered list. We use it in this context because there is a list of links inside the navigation element. Each item inside the <ul> is a list item or <li>. By default, a <ul> displays as a bullet point list, but with CSS this can be adjusted. 
+In the code above there is a `<ul>` element inside the nav element – this is an abbreviation of unordered list. We use it in this context because there is a list of links inside the navigation element. Each item inside the `<ul>` is a list item or `<li>`. By default, a `<ul>` displays as a bullet point list, but with CSS this can be adjusted. 
 
-Another type of list you might see is an <ol> or Ordered List. This is a list where the order matters and by default it is numbered.
+Another type of list you might see is an `<ol>` or Ordered List. This is a list where the order matters and by default it is numbered.
 
 ### Main
 
-The <main> element is used to group the primary content that this page is about. While the header introduces what the page is about, the main element is used for the actual content. This content should be unique to that page, so elements which are repeated across different pages, such as nav links etc. should be kept outside of this element.
+The `<main>` element is used to group the primary content that this page is about. While the header introduces what the page is about, the main element is used for the actual content. This content should be unique to that page, so elements which are repeated across different pages, such as nav links etc. should be kept outside of this element.
 
-Section and Div
+### Section and Div
 
-The <section> element is used to identify specific sections of content, and should be used if a more appropriate element can't be found. It will often have a heading in the section. 
+The `<section>` element is used to identify specific sections of content, and should be used if a more appropriate element can't be found. It will often have a heading in the section. 
 
-If you need a generic container and there is no meaningful reason for adding the element other than it gives you something to style, then the best element for that is the <div>. In general, try find a semantic element. If there isn't one, you can use a <div>. Before HTML5, developers used <div> a lot, but now we have more meaningful tags and they should be used where appropriate.
+If you need a generic container and there is no meaningful reason for adding the element other than it gives you something to style, then the best element for that is the `<div>`. In general, try find a semantic element. If there isn't one, you can use a `<div>`. Before HTML5, developers used `<div>` a lot, but now we have more meaningful tags and they should be used where appropriate.
 
 ### Headings
 
-Headings are essentially titles for pages or sections on the page. Headings run from <h1> to <h6> and should be used in order of importance. Thus, <h1> is the most important heading on the page, then <h2> the second most important heading or headings, then <h3> the third most important and so on. 
+Headings are essentially titles for pages or sections on the page. Headings run from `<h1>` to `<h6>` and should be used in order of importance. Thus, `<h1>` is the most important heading on the page, then `<h2>` the second most important heading or headings, then `<h3>` the third most important and so on. 
 
 There should just be one h1 per page and it should be unique for that page. You should also not skip headings (i.e. jump from h1 to h3 with no h2 on the page).
 
 ### Paragraphs
 
-Paragraphs, indicated with <p> tags, are blocks of text, usually a group of sentences with no line break. If you want to break up a paragraph, do not use <br> tags. Rather, close the paragraph and open another paragraph.
+Paragraphs, indicated with `<p>` tags, are blocks of text, usually a group of sentences with no line break. If you want to break up a paragraph, do not use `<br>` tags. Rather, close the paragraph and open another paragraph.
 
 ### Footer
 
-You can use the <footer> element to include additional information about the page. Typically, it will include copyright information and additional links which users might find useful. It's generally not very important information, and is therefore typically displayed right at the bottom of the page.
+You can use the `<footer>` element to include additional information about the page. Typically, it will include copyright information and additional links which users might find useful. It's generally not very important information, and is therefore typically displayed right at the bottom of the page.
 
 ## Semantics
 
