@@ -1,0 +1,151 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+  - title: Sidebar
+    product: JavaScript 2
+    previousSubjects: Design 1,Web and Communications Technology,HTML and CSS,Project Methodology,Programming Foundations,JavaScript 1,Content Management Systems,CSS Frameworks
+    version: 1.0
+    folders:
+      - title: Module 1
+        output: web, pdf
+        folderitems:
+          - title: Overview
+            url: /javascript-2/module-1.html
+            output: web
+
+          - title: Debugging
+            url: /javascript-2/debugging.html
+            output: web
+
+          - title: JSDocs
+            url: /javascript-2/jsdocs.html
+            output: web, pdf
+
+          - title: localStorage()
+            url: /javascript-2/localstorage.html
+            output: web, pdf
+
+          - title: Classes
+            url: /javascript-2/classes.html
+            output: web, pdf
+
+          - title: Advanced Topics
+            url: /javascript-2/advanced-topics.html
+            output: web, pdf
+
+      - title: Module 2
+        output: web, pdf
+        folderitems:
+          - title: Overview
+            url: /javascript-2/module-2.html
+            output: web
+
+          - title: Array Methods
+            url: /javascript-2/array-methods.html
+            output: web
+
+          - title: Object Methods
+            url: /javascript-2/object-methods.html
+            output: web
+
+          - title: map()
+            url: /javascript-2/map.html
+            output: web, pdf
+
+          - title: filter()
+            url: /javascript-2/filter.html
+            output: web, pdf
+
+          - title: reduce()
+            url: /javascript-2/reduce.html
+            output: web, pdf
+
+          - title: find() and findIndex()
+            url: /javascript-2/find.html
+            output: web, pdf
+
+          - title: some() and every()
+            url: /javascript-2/some-every.html
+            output: web, pdf
+
+          - title: Chaining
+            url: /javascript-2/chaining.html
+            output: web, pdf
+
+      - title: Module 3
+        output: web, pdf
+        folderitems:
+          - title: Overview
+            url: /javascript-2/module-3.html
+            output: web
+
+          - title: Constuctor
+            url: /javascript-2/constructor.html
+            output: web
+
+          - title: Factory
+            url: /javascript-2/factory.html
+            output: web, pdf
+
+          - title: Object Literal
+            url: /javascript-2/object-literal.html
+            output: web, pdf
+
+          - title: IIFE
+            url: /javascript-2/iife.html
+            output: web, pdf
+
+          - title: Module Pattern
+            url: /javascript-2/module-pattern.html
+            output: web, pdf
+
+          - title: Singleton Pattern
+            url: /javascript-2/singleton-pattern.html
+            output: web, pdf
+
+          - title: Observer Pattern
+            url: /javascript-2/observer-pattern.html
+            output: web, pdf
+
+      - title: Module 4
+        output: web, pdf
+        folderitems:
+          - title: Overview
+            url: /javascript-2/module-4.html
+            output: web
+
+          - title: Callbacks
+            url: /javascript-2/callbacks.html
+            output: web
+
+          - title: Promises
+            url: /javascript-2/promises.html
+            output: web, pdf
+
+          - title: Async/Await
+            url: /javascript-2/async-await.html
+            output: web, pdf
+
+      - title: Module 5
+        output: web, pdf
+        folderitems:
+          - title: Overview
+            url: /javascript-2/module-5.html
+            output: web
+
+          - title: Data Structures
+            url: /javascript-2/data-structures.html
+            output: web
+
+          - title: Big O Notation
+            url: /javascript-2/big-o-notation.html
+            output: web, pdf
+
+          - title: Algorithms
+            url: /javascript-2/algorithms.html
+            output: web, pdf
+
+          - title: Solving Problems
+            url: /javascript-2/solving-problems.html
+            output: web, pdf
+# Copyright 2021 Google LLC
