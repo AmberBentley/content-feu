@@ -44,7 +44,7 @@ Click through the tabs below to view descriptions of each element.
 
 The head of the document is used to contain metadata about the page, but is not displayed on the page like the data inside the body. The metadata defined in the head might include: the page title, descriptions of the page, styles, scripts, viewports, links, and more.
 
-### `Title`
+### Title
 
 The title tag sets the title of the document. You can see the title displayed on the browser tab. It is also the title that is displayed on search engines, and so it is important to pick clear, unique titles for each page. On most websites, the title will contain the site name as well as the page name. For example, "Business Name | Contact Us"
 
