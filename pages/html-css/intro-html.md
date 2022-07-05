@@ -44,7 +44,7 @@ Click through the tabs below to view descriptions of each element.
 
 The head of the document is used to contain metadata about the page, but is not displayed on the page like the data inside the body. The metadata defined in the head might include: the page title, descriptions of the page, styles, scripts, viewports, links, and more.
 
-### Title
+### `Title`
 
 The title tag sets the title of the document. You can see the title displayed on the browser tab. It is also the title that is displayed on search engines, and so it is important to pick clear, unique titles for each page. On most websites, the title will contain the site name as well as the page name. For example, "Business Name | Contact Us"
 
@@ -113,7 +113,7 @@ You can use the `<footer>` element to include additional information about the p
 
 In HTML, semantics refers to the meaning of a piece of code. Does the HTML code have meaning? The reason we'd like our HTML to be meaningful is that it makes the code easier to read, which is important for yourself as well as other developers.
 
-Meaningful code also makes it more accessible. With good semantics, an assistive technology can more easily make sense of the different elements on the page and their usage. The same logic applies for search engines. If every element on the page is a <div> then all elements are seen as equal. It's much better to use meaningful tags to identify what each section is about.
+Meaningful code also makes it more accessible. With good semantics, an assistive technology can more easily make sense of the different elements on the page and their usage. The same logic applies for search engines. If every element on the page is a `<div>` then all elements are seen as equal. It's much better to use meaningful tags to identify what each section is about.
 
 ## Good Formatting
 

@@ -26,7 +26,7 @@ Your other HTML files should have logical names. The contact page should be cont
 
 ### Linking pages together
 
-A website is a 'web' of connected or 'hyperlinked' files. To link one file to another an anchor tag is used – it looks like this: `<a href="about.html">About</a>`
+A website is a 'web' of connected or 'hyperlinked' files. To link one file to another an anchor tag is used – it looks like this: `<a href="about.html">`About`</a>`
 
 It's important to note the use of the attribute href to set where the link is supposed to go to. It’s also important to see how the text is hyperlinked and enclosed inside the anchor tags.
 
@@ -40,7 +40,7 @@ To link files together we need to know the file path from A to B. A is the file 
 - If there was a folder inside 'images' called 'branding', and the logo was in that folder, then we'd use:
 `<img src="images/branding/logo.jpg">`
 - These first three examples show how to move files down into directories. If you need to access a file in a folder above the one in which you are working, then you'd use two dots (. .)
-`<a href="../splashpage.html">`Splash page</a>
+`<a href="../splashpage.html">`Splash page`</a>`
 
 These ways of linking pages together are all relative file paths and for any files on your own server, it is best to use relative file paths. One of the biggest advantages to this is that you will not need to change any links when uploading your files from your computer to your web host, and can thus upload the root folder directly.
 
