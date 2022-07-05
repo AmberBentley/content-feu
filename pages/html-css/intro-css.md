@@ -146,6 +146,7 @@ Type Selector: 1
 ## Activities
 
 **WATCH**
+
 [This tutorial video on CSS.](https://scrimba.com/scrim/cPJpJWCq?pl=paaBbTa) (12m 20s)
 
 ## Lesson Task
