@@ -76,7 +76,7 @@ Using backticks:
 
 On many keyboards the key is situated top left.
 
-<iframe src="https://player.vimeo.com/video/443988703?h=fa6ab718df&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" height="600" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Creating strings with backticks (template literals)"></iframe>
+<iframe src="https://player.vimeo.com/video/443988703?h=fa6ab718df&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="2560" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Creating strings with backticks (template literals)"></iframe>
 
 [Code](https://github.com/NoroffFEU/creating-strings-with-backticks) from the video.
 
