@@ -7,11 +7,7 @@ permalink: industry-knowledge/github-account.html
 folder: industry-knowledge
 ---
 
-## Lesson - Preparing your Github Account 
-
-## Lesson Overview 
-
-### Introduction 
+## Introduction 
 
 You should include a link to your GitHub account on your CV to give potential employers a good look at code you’ve worked on. This is especially important coming out of your studies as you might not have as many real world projects to share. Having a series of projects to discuss and go over in an interview can be useful. 
  
@@ -40,8 +36,6 @@ It’s important that the projects on your GitHub account are finished and do wh
 Ensure the code is neat and readable. Even if it works, it should be easy for your potential employer to read and understand your code. If they hire you, they’re going to need you to create neat and readable code for the team. Your potential employer is looking for someone who is organized and writes good quality code. 
  
 Document your projects with a clear Readme that explains how the project works and what anyone who wants to use the repo needs to do. 
-
-## Lesson Task - Preparing your Github Account 
 
 ## Lesson Task 
 

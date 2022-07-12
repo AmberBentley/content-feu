@@ -29,7 +29,7 @@ Front-end developers must design the look and feel of a website in a manner that
 
 ![Minecraft characters](../../images/design-1/Introductiontobranding-1.jpg)
 
-_Figure. Pixel-art style graphics. One of the most characteristic elements of the game Minecraft (Nintendo, 2018)_
+_Figure 1. Pixel-art style graphics. One of the most characteristic elements of the game Minecraft (Nintendo, 2018)_
 
 ### Good design is user-friendly
 
@@ -73,7 +73,7 @@ The physical appearance of a person includes the clothes that they wear, their p
 
 ![Adidas brand](../../images/design-1/Introductiontobranding-2.jpeg)
 
-_Figure. Adidas doing a fine job at showcasing their brand to the world (adsoftheworld.com, 2016)_
+_Figure 2. Adidas doing a fine job at showcasing their brand to the world (adsoftheworld.com, 2016)_
 
 ### Visual identity: the brand logo
 
@@ -83,7 +83,7 @@ It is also worth noting that the word “logo” has multiple meanings. There ar
 
 ![Adidas Logos](../../images/design-1/Introductiontobranding-3.png)
 
-_Figure. The adidas logo through the years. Notice how it has change, but is still recognisable (1000logos.com, 2019)_
+_Figure 3. The adidas logo through the years. Notice how it has change, but is still recognisable (1000logos.com, 2019)_
 
 ### Brand identity
 
@@ -111,7 +111,7 @@ Successful brands build a personality with consistent behaviour. Decisions about
 
 ### Brand integration
 
-` `The ultimate purpose of a designer is to make every brand element work independently, but also to make them work together as a whole. This is brand integration. Remember, you are not only the designer but also the creator of the brand identity. That means that visual integration lies with you. You have great power - you can decide how the brand is shown to the world. Collaboration with the client is, of course, vital.
+>_'The ultimate purpose of a designer is to make every brand element work independently, but also to make them work together as a whole. This is brand integration. Remember, you are not only the designer but also the creator of the brand identity. That means that visual integration lies with you. You have great power - you can decide how the brand is shown to the world. Collaboration with the client is, of course, vital.
 
 ## Activities
 
@@ -124,7 +124,8 @@ Successful brands build a personality with consistent behaviour. Decisions about
 
 ### Activity 2
 
-READ<br><br>From the book _Design for Hackers_ by David Kadavy: <br>Chapter 2: The Purpose of Design\* (p.19-33) (1h)
+READ<br><br>From the book _Design for Hackers_ by David Kadavy: <br>Chapter 2: The Purpose of Design (p.19-33) (1h) |
+| :-: |
 
 ### Activity 3
 
@@ -168,7 +169,7 @@ Your task is to do a brief visual evaluation and look at three websites from a u
 
 - Is the content structurally separate from the navigational elements?
 - Is the website optimized for mobile devices?
-- Does the site load quickly – even (especially) for mobile device users?
+- Does the site load quickly - even (especially) for mobile device users?
 
 ## Bibliography
 

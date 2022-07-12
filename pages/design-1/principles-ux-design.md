@@ -17,7 +17,7 @@ UX design is all about how users feel while interacting with your product. It is
 
 Here are a few fundamental points to help you succeed when creating a user-centered experience:
 
-### Focus on user needs
+## Focus on user needs
 
 It is important to understand who your users (customers/clients) are and what they need the product to do for them. We establish the users' needs through user testing and research. Remember that you are not necessarily the user, and what you might find to be the best solution for yourself might not be the best solution for the user.
 
@@ -25,11 +25,11 @@ We need to centralise the user as the focal point for all our design decisions. 
 
 This is essentially what you need to focus on when it comes to the UX design of a website or app. Every decision should be based on the users' need and how they will interact with the interface. Giving the user what they need will ensure a happy user who will most probably return to your website.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Example of user needs](../../images/design-1/Principles-UX/PrinicplesofUXdesign-1.png)
 
 _Figure 1: An example of user and business needs._
 
-### Information hierarchy
+## Information hierarchy
 
 How a site’s content is organised dramatically impacts how the user interacts with a product. This includes the navigation (menus) and how the headings and content are grouped and laid out. The more logical and well-considered the content, the more user-friendly the product will be.
 
@@ -39,41 +39,47 @@ The image below demonstrates a bad information hierarchy. The hamburger menu on 
 
 The article itself is hard to read. The header, subheader and body text are the same text size and not enticing enough for a user to want to know more about the news story. The 'sign up' should also be more prominent. The way it looks now, a user will scroll past it and not even notice it.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Poor information hierarchy example](../../images/design-1/Principles-UX/PrinicplesofUXdesign-2.png)
 
-_Figure 2: Bad information hierarchy._
+_Figure 2: Poor information hierarchy._
 
 The image below is the same website, but the designers paid more attention to the information hierarchy. The main header is big enough to attract attention to the title of the story, the subheader gives more information into what happened, and the body text explains in full detail what went down. Pay attention to how spacing and grouping are used on the page:
 
-- The main header is first, and below it is more information on the journalist and the article's time and date. The main header and information are grouped together.
-- Then there is an open space.
+1. The main header is first, and below it is more information on the journalist and the article's time and date. The main header and information are grouped together.
+ 
+2. Then there is an open space.
 
-- We can see the main image underneath the open space with details about the image and the photographer's name. The image and details below are also grouped together.
-- More open space.
-- The subheader is a bit smaller than the main header but still bigger than the body text.
-- More open space.
-- Then the user is presented with the rest of the news story.
+3. We can see the main image underneath the open space with details about the image and the photographer's name. The image and details below are also grouped together.
 
-- More open space.
-- Then the sign up. The CTA button is prominent for users to see the action immediately.
+4. More open space.
+
+5. The subheader is a bit smaller than the main header but still bigger than the body text.
+
+6. More open space.
+
+7. Then the user is presented with the rest of the news story.
+
+8. More open space. 
+
+9. Then the sign up. The CTA button is prominent for users to see the action immediately.
 
 The way information is presented in the design below will entice the user to read the article. Not only that, but the user will be able to scan through the story quickly, get the details and move on to the next headline.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Good information hierarchy](../../images/design-1/UI-Design/Principlesofuserinterfacedesign-3.jpeg)
 
 _Figure 3: An example of good information hierarchy._
 
-### Consistency
+## Consistency
 
 Consistency helps users become familiar with your product quickly, making it easier for them to learn and use. If there is too much inconsistency with your product’s usability, users will get confused and demotivated. They might become discouraged to come back to your product.
 
 Elements on a page need to look consistent and function similarly from one page to another. When you look at the example below, you can see CTAs are the same from one page to another. The icons are consistent in their placement, and the use of colour is also the same throughout.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Good use of consistency](../../images/design-1/Principles-UX/PrinicplesofUXdesign-4.png)
 
 _Figure 4: An example of good consistency on a fitness app._
 
-### Accessibility
+## Accessibility
 
 The website or app should be accessible for all users. Designing with this in mind is vital. The design should be responsive on all screen sizes and cater to users with disabilities.
 
@@ -81,11 +87,13 @@ Ensuring there is a good contrast between background and text colour is one way 
 
 The example below demonstrates bad colour contrast, which will make the message hard to read for users without disabilities, let alone those whose vision is impaired.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title") _Figure 5: An example of an inaccessible web page._
+![Inaccessible website image](../../images/design-1/Principles-UX/PrinicplesofUXdesign-5.png)
 
-### The example below shows good colour contrast and is more accessible.
+_Figure 5: An example of an inaccessible web page._
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+The example below shows good colour contrast and is more accessible.
+
+![Good colour contrast](../../images/design-1/Principles-UX/PrinicplesofUXdesign-6.png)
 
 _Figure 6: Good colour use ensures an accessible website_
 
@@ -99,21 +107,20 @@ Usually, when a user is given bad news, designers will do it with more empathy t
 
 Think of when adding an item to your online cart. You’ll receive immediate feedback saying your item was successfully added, and you can then proceed to checkout.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Good user feedback](../../images/design-1/Principles-UX/PrinicplesofUXdesign-7.png)
 
 _Figure 7: Good user feedback with the 'add to cart' process._
 
-### Simplicity
+## Simplicity
 
 The Nielsen Norman Group summed up the definition of user experience design perfectly by saying that the first requirement for an excellent user experience is to meet the customer's exact needs without fuss or bother. The next step is simplicity and elegance that produce products that are a pleasure to use (Nielsen Norman Group, 2016).
 
 Clarity and simplicity ensure a good user experience. It leads the user on a smooth and uncluttered journey that avoids confusion. Overwhelming the user with too many options and/or complex solutions could make them give up the process. Keep all aspects of your product as simple, linear and straightforward as possible.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![An app for booking flights](../../images/design-1/Principles-UX/PrinicplesofUXdesign-8.png)
 
 _Figure 8: A simple, uncluttered flight booking app._
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
 
 | WATCH<br><br>Video: [What the #$%@ is UX Design?](https://www.youtube.com/watch?v=Ovj4hFxko7c&feature=emb_logo) (5m 30s) |
 | :-: |

@@ -7,16 +7,7 @@ permalink: interaction-design/persuasion-design-values.html
 folder: interaction-design
 ---
 
-## Lesson - Persuasion and Design Values 
-
-## Lesson Overview 
-
-## Lesson - Persuasion and Design Values 
-
-![Tux, the Linux mascot](/assets/images/tux.png)
-
-
-### Introduction 
+## Introduction 
 
 This lesson contains 2 activities that you should complete as you go through it. 
  
@@ -42,8 +33,7 @@ People tend to follow the group and thus it is important to use what is called '
  
 The way we can create social proofing is through testimonials, reviews, case studies, comment sections, "users currently on site" counters, and more. 
 
- ![Tux, the Linux mascot](/assets/images/tux.png)
-
+ ![Social proofing example](../../images/interaction-design/2-1-1.jpeg)
 
 _An example of social proofing from Atlassian.com_ 
 
@@ -58,7 +48,6 @@ We need to gently ease users into engaging on the site. Setting things like regi
 Another good way of getting users to engage is to keep forms short or have some information already filled out in your forms. The less the user has to do, the more likely they are to complete. Users evaluate their engagement based on effort versus reward. If the reward isn't big enough for the effort required, they won't engage. Users follow the path of least resistance, so don't put too many hurdles in their way. 
  
 A good technique is to draw users in slowly and keep them on the site for as long as possible having given more and more information. The more time they spend on your site, the less likely they'll be to want to spend the same time on another site. 
- 
 
 ### Buyer's Remorse 
 
@@ -75,7 +64,7 @@ Using scarcity to attract users is a great technique. When there is a limited of
 We've all seen websites advertising "only 10 items left" or "only available for 4 more hours" or "here's a special deal for you" or even "6 other customers are currently browsing this product". These techniques all make users feel like they need to take action soon to secure the scarce item. 
 
  
-![Tux, the Linux mascot](/assets/images/tux.png)
+![An example of scarcity](../../images/interaction-design/2-1-2.jpeg)
 
 _An example of scarcity and time constraints from onedayonly.co.za_ 
 
@@ -105,11 +94,14 @@ Kim Goodwin in 'Designing for the Digital Age' noted four design values that des
 
 Because interaction design is concerned with the moment of interaction between the human and the interface, there are a number of ethical concerns to ensure that the product serves the user well. 
 
-- Psychological harm. Creating bad and hard-to-use products can create frustration and anxiety for users. Using error messages that make the user feel at fault, can also create some harm to certain users. 
+- **Psychological harm.**
+  Creating bad and hard-to-use products can create frustration and anxiety for users. Using error messages that make the user feel at fault, can also create some harm to certain users. 
 
-- Social harm. Ensure your system does not lead to miscommunication or conflict amongst users. Make sure everyone can use it regardless of education, language, or ability. 
+- **Social harm.**
+    Ensure your system does not lead to miscommunication or conflict amongst users. Make sure everyone can use it regardless of education, language, or ability. 
 
-- Physical harm. We need to take into account how we affect people physically. Don't use flashing images as it can affect people with epilepsy, and make the colours and sizing such that you don't cause eye strain. Also, we should use good accessiblity guidelines to ensure people with different physical abilities can still use and interact with the product. 
+- **Physical harm.**
+     We need to take into account how we affect people physically. Don't use flashing images as it can affect people with epilepsy, and make the colours and sizing such that you don't cause eye strain. Also, we should use good accessiblity guidelines to ensure people with different physical abilities can still use and interact with the product. 
 
 We should be looking to improve communication between people, create a feeling of satisfaction amongst users, and reduce complexity to make the product accessible to all. 
 

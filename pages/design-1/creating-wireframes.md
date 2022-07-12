@@ -17,7 +17,7 @@ As we have learned in the previous lesson, wireframes are an essential step in t
 
 One other key aspect of wireframes is that when introduced early in the design process, it will iron out minor issues and ensure the basic structure is decided on, making the whole process less taxing and saving money and time in the long run.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Invision](../../images/design-1/Wireframes-intro/Creating/Creatingwireframes-1.png)
 
 _Figure 1: Team members contributing in InVision’s Freehand app (Source: invisionapp.com/freehand)_
 
@@ -25,21 +25,21 @@ _Figure 1: Team members contributing in InVision’s Freehand app (Source: invis
 
 There are four important steps to follow when creating a wireframe:
 
-- Research first.
+1. Research first.
 
-- Information architecture and user flows.
+2. Information architecture and user flows.
 
-- Paper to computer.
+3. Paper to computer.
 
-- Choosing the right tools.
+4. Choosing the right tools.
 
-- The steps are discussed below:
+5. The steps are discussed below:
 
 ### Research first
 
 Wireframes may be the first step in the design process, but we first need to spend some time researching before creating a wireframe. We need to understand our target audience. We will perform this step by conducting user research and creating user personas and mood boards. It's also a good idea to see what competitors are doing in the market and the latest trends in the world of UX.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Target audience example](../../images/design-1/Wireframes-intro/Creating/Creatingwireframes-2.png)
 
 _Figure 2: An example target audience for an online bookstore_
 
@@ -47,7 +47,7 @@ _Figure 2: An example target audience for an online bookstore_
 
 After conducting the user research, you should have a good idea of who your target audience is and the problems you need to solve. It will also give you a clear idea of what should be included on the wireframe, how many pages you will need and the different journeys users will take to meet their goals. Ensure you have a clear plan of the user flows and information architecture of the site.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Wireframe user flow](../../images/design-1/Wireframes-intro/Creating/Creatingwireframes-3.png)
 
 _Figure 3: An example of a wireframe user flow for a job-hunting app_
 
@@ -59,7 +59,7 @@ With your wireframe recreated digitally, you will be able to share it with other
 
 An online, digital wireframe also alleviates problems with incorporating the thoughts from the various team members. It may allow for comments from specific team members to be visible to all team members. The image below demonstrates how the process started on paper and was then created digitally using InVision’s Freehand.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Job-hunting app](../../images/design-1/Wireframes-intro/Creating/Creatingwireframes-4.jpeg)
 
 _Figure 4: The job-hunting app from paper to computer_
 
@@ -67,7 +67,7 @@ _Figure 4: The job-hunting app from paper to computer_
 
 There are many online tools out there for creating wireframes, and it is up to the individual to decide which tool works best for their needs. Let's look at three popular wireframe tools.
 
-Please click on the tabs for more information.
+Please click on the sections for more information.
 
 _**Balsamiq**_
 
@@ -83,9 +83,9 @@ _**InVision Freehand**_
 
 InVision Freehand assist designers in getting ideas to paper. Freehand design allows users to explore, evaluate and discuss ideas quickly. Creating wireframes through the Freehand app is effortless as the interface is easy to understand and easy to use.
 
-For more information on Freehand, visit their website here: https://www.invisionapp.com/freehand.
+For more information on Freehand, [visit their website](https://www.invisionapp.com/freehand)
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![InVision app](../../images/design-1/Wireframes-intro/Creating/Creatingwireframes-6.png)
 
 _Figure 6: InVision’s Freehand app (Source: invisionapp.com/freehand)_
 
@@ -93,9 +93,9 @@ _**Adobe XD**_
 
 Adobe XD is an excellent prototyping tool but can be used for wireframing as well. You will most probably use Adobe XD for mid-fidelity to high-fidelity wireframes, when team members need to see more details of the overall design and when the wireframe's functionality needs to be tested.
 
-For more on wireframes using Adobe XD, visit their website here: https://www.adobe.com/sea/creativecloud/business/enterprise/how-to-wireframe-xd.html
+For more on wireframes using Adobe XD, [visit their website](https://www.adobe.com/sea/creativecloud/business/enterprise/how-to-wireframe-xd.html)
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Adobe XD](../../images/design-1/Wireframes-intro/Creating/Creatingwireframes-7.png)
 
 _Figure 7: Wireframes in Adobe XD (Source: webdesign.tutsplus.com)_
 
@@ -103,9 +103,9 @@ _**Figma**_
 
 Figma is a web-based graphics editing and user interface design app. You can use it to do all kinds of graphic design work from wireframing websites, designing mobile app interfaces, prototyping designs, crafting social media posts, and everything in between.
 
-For more on wireframes using Figma, visit their website here: hhttps://www.figma.com/blog/how-to-wireframe/
+For more on wireframes using Figma, [visit their website here](hhttps://www.figma.com/blog/how-to-wireframe/)
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Figma](../../images/design-1/Wireframes-intro/Creating/Creatingwireframes-10.png)
 
 _Figure 8: Wireframes in Figma (Source: figma.com)_
 
@@ -117,23 +117,23 @@ Now that we have discussed some of the tools available to create wireframes let'
 
 Wireframes may differ from one website to another, and you may need to add some page elements to solve a specific problem. Nonetheless, here are some essential page elements that are usually included as standard elements on wireframes:
 
-- Headers - The main headers and subheaders.
+- **Headers** - The main headers and subheaders.
 
-- Navigation - The main navigation and menu items as well as the footer. Breadcrumbs can also be included if needed.
+- **Navigation** - The main navigation and menu items as well as the footer. Breadcrumbs can also be included if needed.
 
-- Content boxes - For images and body content.
+- **Content boxes** - For images and body content.
 
-- Place holder text - For paragraph text and product descriptions.
+- **Place holder text** - For paragraph text and product descriptions.
 
-- Branding elements - Such as the company's logo.
+- **Branding elements** - Such as the company's logo.
 
-- Search fields - If the website requires a search function.
+- **Search fields** - If the website requires a search function.
 
-- Buttons - CTA buttons for users to take action.
+- **Buttons** - CTA buttons for users to take action.
 
-- Contact information - This can be the phone number, social media and a physical address.
+- **Contact information** - This can be the phone number, social media and a physical address.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Wireframe elements of an app](../../images/design-1/Wireframes-intro/Creating/Creatingwireframes-8.png)
 
 _Figure 8: An example of wireframe elements used to illustrate a mobile app_
 
@@ -149,7 +149,7 @@ For the body content, you will be looking at grouping the content boxes and butt
 
 This is just a very basic example, as there are many different ways to group page elements. You will most probably come up with many different versions of one page.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Grouping wireframe elements](../../images/design-1/Wireframes-intro/Creating/Creatingwireframes-9.png)
 
 _Figure 9: Grouping of wireframe elements_
 
@@ -174,6 +174,9 @@ Keep in mind that the wireframe serves as the skeleton of the website. The conte
 | :-: |
 
 | <br>Video: [Better wireframes & sketches with Freehand from Invision](https://www.youtube.com/watch?v=lKPgRK0llO8) (7m 28s) |
+| :-: |
+
+| <br>Video: [Free Figma UX Design UI Essential course](https://www.youtube.com/watch?v=kbZejnPXyLM) by Bring your own Laptop (2h 57m) |
 | :-: |
 
 | READ<br><br>Article: [The Definitive Guide: How to create your first wireframe](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/) (15m). |

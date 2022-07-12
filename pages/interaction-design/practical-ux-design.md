@@ -7,14 +7,7 @@ permalink: interaction-design/practical-ux-design.html
 folder: interaction-design
 ---
 
-## Lesson - Practical UX Design
-
-![Tux, the Linux mascot](/assets/images/tux.png)
-
-
-## Lesson Overview  
-
-### Introduction 
+## Introduction 
 
 This lesson contains 2 activities that you should complete as you go through it. 
  
@@ -32,13 +25,13 @@ We should chose the size of elements based on their importance to the goals of t
  
 For example, Uber have two very different clients with different needs. You can see from their home page that they've given equal size to both parties. Interestingly, the clients appear at the top of the list but the drivers have their sign up form already opened. 
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Uber homepage](../../images/interaction-design/3-4-1.jpeg)
  
 _Screenshot of Uber's home page. https://www.uber.com_ 
 
 Compare that to Airbnb, who also have two users to support, but have clearly chosen to focus on their primary user who is the client, and secondarily on the host. 'Become a host' is first in the menu on the right, but it pales in comparison to the large images about 'experiences' and the search bar in the top left of the screen. 
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Explore page on Airbnb](../../images/interaction-design/3-4-2.jpeg)
  
 
 ### Color 
@@ -73,7 +66,7 @@ Primary navigation relates to the navigation that a user is most likely to be en
  
 Take a look at the navigation structure chosen by the following site. It's an e-commerce site selling a variety of goods. Here they have three navigational tools. At the top is the high level navigation letting you 'Sign in / Register' etc. Then below that is the primary navigation where the user is most likely going to use to get around the site, then on the left is a sidebar navigation that allows the user to drilldown for greater clarity on their results. 
  
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Loot serach example](../../images/interaction-design/3-4-3.jpeg)
 
 _Screenshot from Loot.co.za_ 
 
@@ -131,7 +124,7 @@ On the home page for Rightmove.co.uk, although their main heading is a bit vague
  
 Below that they have a map search and 'Featured content' which indirectly helps the user understand more about what the page is about. 
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Homepage of Rightmove](../../images/interaction-design/3-4-4.jpeg)
  
 _Screenshot of Rightmove.co.uk_ 
 
@@ -145,8 +138,6 @@ The important thing with the home page is getting the users back into the flow o
 
 |  | **Activity 2**<br>READ<br><br>From _About Face: The Essentials of Interaction Design_, Paperback, 2014, by Alan Cooper et.al.<br>Chapter 16: 'Designing for Different Needs'<br>Chapter 17: 'Integrating Visual Design' (2h) |
 | :-: | :-- |
-
-## Lesson Task - Practical UX Design 
 
 ## Lesson Task 
 

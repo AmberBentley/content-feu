@@ -6,11 +6,8 @@ sidebar: industry-knowledge
 permalink: industry-knowledge/job-options.html
 folder: industry-knowledge
 ---
-## Lesson - Job Options in Web Development 
 
-## Lesson Overview 
-
-### Introduction 
+## Introduction 
 
 This lesson contains an activity on the last page that you should complete. 
  
@@ -76,8 +73,6 @@ Front-end developers should also be good at working in teams. If you get a job i
 
 | READ<br><br>Article: [Job Titles in the Web Industry](https://css-tricks.com/job-titles-in-the-web-industry/), CSS Tricks. |
 | :-: |
-
-## Lesson Task - Job Options in Web Development 
 
 ## Lesson Task 
 

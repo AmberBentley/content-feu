@@ -25,7 +25,7 @@ Communicating about colour becomes important in design, as the mere words “blu
 
 Every corporate identity has its own colour combination, and this must be applied uniformly across all elements, consistently. To achieve this, we need to be able to code and standardize colours. Pantone is an example of such a colour-code; printers and designers use it to determine which exact colour to use. Pantone also provides a standard to measure colours from. In web development, colours may be specified as an RGB (sRGB) triplet or in hexadecimal (HEX) code. Later in these lessons, we will learn and explore more about how the hexadecimal colour model works.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Youtube colours](../../images/design-1/Colours/Fundamentalsofcolour-1.png)
 
 _Figure 1. YouTube colours (youtube.com, 2020)_
 
@@ -41,13 +41,13 @@ Unfortunately, many different colour-coding systems use different terminology wh
 
 A colour is described in three ways:
 
-- - By its name (hue)
+-  By its name (hue)
 
-- - How pure or unsaturated it is (saturation)
+-  How pure or unsaturated it is (saturation)
 
-- - Its value or brightness (intensity)
+-  Its value or brightness (intensity)
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Color values](../../images/design-1/Colours/Fundamentalsofcolour-2.png)
 
 _Figure 2. An example of hue, saturation and brightness._
 
@@ -57,7 +57,7 @@ Although pink, crimson, and brick are all variations of the colour red, each hue
 
 Hue, saturation, and brightness (HSB, sometimes called HSV) are aspects of colour in the red (R), green (G), and blue (B) scheme. All possible colours can be specified according to hue, saturation, and brightness, just as colours can be represented in terms of the R, G, and B components.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![HSB colour](../../images/design-1/Colours/Fundamentalsofcolour-3.jpeg)
 
 _Figure 3. The HSB colour cylinder (Wikimedia, 2015)_
 
@@ -75,23 +75,23 @@ Value (a.k.a. brightness, lightness/ luminance)
 
 A measure of the amount of light reflected from a hue. Hues with a high content of white have a higher luminance or value. Goes from bright colour or white at 100% to black at 0%.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Color models](../../images/design-1/Colours/Fundamentalsofcolour-4.jpeg)
 
 _Figure 4. The CMYK, RGB and HSB Lab colour models in Illustrator CC 2020. They appear in the same way in Photoshop and other graphic programs._
 
 ### Colour Systems
 
-- - Available colour systems are dependent on the medium with which a designer is working. When painting, an artist has a variety of paints to choose from.
+Available colour systems are dependent on the medium with which a designer is working. When painting, an artist has a variety of paints to choose from.
 
-- - Mixed colours are achieved through the subtractive colour method.
+-  Mixed colours are achieved through the subtractive colour method.
 
-- - When a designer or front-end developer generates digital products and solutions on the computer, colours are achieved through the additive (RGB) colour method.
+-  When a designer or front-end developer generates digital products and solutions on the computer, colours are achieved through the additive (RGB) colour method.
 
-- - When we mix colours for the printing process, we use the subtractive (CMYK) colour system.
+-  When we mix colours for the printing process, we use the subtractive (CMYK) colour system.
 
-  _Subtractive colour and the CMYK system_
+_**Subtractive colour and the CMYK system**_
 
-  When we mix colours using paint, or through the printing process, we are using the subtractive colour method. Subtractive colour mixing means that one begins with white and ends with black. As colour is added, the result grows darker and tends toward black. It also means that colour is created by the effect of light reflecting from a surface. In design, we often speak of the CMYK system:
+When we mix colours using paint, or through the printing process, we are using the subtractive colour method. Subtractive colour mixing means that one begins with white and ends with black. As colour is added, the result grows darker and tends toward black. It also means that colour is created by the effect of light reflecting from a surface. In design, we often speak of the CMYK system:
 
 C = Cyan (a distinct blue)
 
@@ -101,37 +101,39 @@ Y = Yellow
 
 K = Black / key
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![CMYK method](../../images/design-1/Colours/Fundamentalsofcolour-5.png)
 
 _Figure 5. Subtractive (CMYK) colour method._
 
 Theoretically, we should get black when we mix all these colours. However, in reality we get a murky dark colour. Black is mixed as a colour of its own – separate from the others. The K stands for “key”, as this is the key, or main plate, others align to in printing.
 
-Additive colour and the RGB system
+_**Additive colour and the RGB system**_
 
 When we work on a computer, the colours we see on the screen are created with light using the additive colour method. Additive colour mixing begins with black and ends with white – as more colour is added, the result gets lighter, and tends toward white. It also means that colour is created by the effect of light moving directly into the eye.
 
 The R = Red, G = Green and B = Blue colours are light primaries and colours are created with light.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![RGB colours](../../images/design-1/Colours/Fundamentalsofcolour-6.png)
 
 _Figure 6. Addictive (RGB) colour method._
 
-_Working with the colour systems_ There is a difference between additive colour and subtractive colour:
+_**Working with the colour systems**_ 
 
-- - The colour produced in the additive system appears brighter.
+There is a difference between additive colour and subtractive colour:
 
-- - The visible range in the additive system is wider – thus, more colours can be created in the additive than in the subtractive system.
+-  The colour produced in the additive system appears brighter.
+
+-  The visible range in the additive system is wider – thus, more colours can be created in the additive than in the subtractive system.
 
 The visible spectrum consists of billions of colours. A monitor can display millions of colours, but a high-quality printer is only capable of producing thousands. Older computer systems may be limited to 216 cross-platform colours.
 
-_Colour gamut - RGB colours to CMYK colours_
+_**Colour gamut - RGB colours to CMYK colours**_
 
 Colour gamut is the entire range of colours and tones achievable by an imaging system.
 
 Reproducing colour can be problematic in terms of printed and digital media; what we see on a monitor cannot be printed. Although a monitor may be able to display “true colour” (16,000,000 colours), millions of these colours are outside of the spectrum available to printers. Since digital designs are generated using the RGB colour system, colours used in those designs must be part of the CMYK spectrum or they will not be reproduced with proper colour rendering. Working within the CMYK colour system, or choosing colours from Pantone© palettes, ensures proper colour rendering.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Colour gamut](../../images/design-1/Colours/Fundamentalsofcolour-7.jpeg)
 
 _Figure 7. Colour gamut (myworldofcolour.wordpress.com, 2010)_
 
@@ -139,7 +141,7 @@ _Figure 7. Colour gamut (myworldofcolour.wordpress.com, 2010)_
 
 A colour wheel (also referred to as a colour circle) is a visual representation of colours, arranged according to their colour relationship. Begin a colour wheel by positioning primary hues (the main colours from which others are created – red, yellow and blue) at equal distances from one another, and then create a bridge between primaries using secondary and tertiary colours.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Colour wheel](../../images/design-1/Colours/Fundamentalsofcolour-8.png)
 
 _Figure 8. The colour wheel._
 
@@ -147,7 +149,7 @@ _Primary Colours_
 
 As the name suggests, primary colours are the main colours at the top. These can be seen as the parents of all the other colour combinations. They are the foundation of every other colour and can create millions of colours by mixing the three primary pigments which are yellow, red, and blue.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Primary colours](../../images/design-1/Colours/Fundamentalsofcolour-9.png)
 
 _Figure 9. Primary colours._
 
@@ -155,7 +157,7 @@ _Secondary Colour_
 
 They can be seen as the children of the primary colours and consist of green, orange and purple. In colour theory when we mix yellow and red it becomes orange. Red and blue becomes purple and blue and yellow becomes green. The end result of mixing the primary colours are then called secondary colours.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Secondary colours](../../images/design-1/Colours/Fundamentalsofcolour-10.png)
 
 _Figure 10. Secondary colours._
 
@@ -163,7 +165,7 @@ _Tertiary Colours_
 
 Tertiary colours are the colours in between the primary and secondary colours and can be seen as the grandchildren of the three primary colours. They consist of yellow/orange, red/orange, red/purple, blue/purple, blue/green and yellow/green.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Tertiary colours](../../images/design-1/Colours/Fundamentalsofcolour-11.png)
 
 _Figure 11. Tertiary colours._
 
@@ -171,13 +173,13 @@ _Complementary Colour_
 
 These are located opposite one another on a colour wheel. To call those hues that are directly opposite one another “complements of each other” is correct. Complementary colours bring out the best in each other.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Complementary colours](../../images/design-1/Colours/Fundamentalsofcolour-12.png)
 
 _Figure 12. Complementary colours._
 
 When fully saturated complements are brought together, interesting effects are noticeable. This may be a desirable illusion, or a problem if you are creating visuals that needs to be read.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Saturated colours](../../images/design-1/Colours/Fundamentalsofcolour-13.png)
 
 _Figure 13. A problem occurs when reading the red text on the green background._
 
@@ -185,7 +187,7 @@ _Analogous colours_
 
 Analogous colours are colours located close together on a colour wheel.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Analogous colours](../../images/design-1/Colours/Fundamentalsofcolour-14.png)
 
 _Figure 14. Analogous colours._
 
@@ -193,7 +195,7 @@ _Colour Ranges_
 
 A colour wheel can be divided into ranges that are visually active or passive. Active colours will seem to advance (pop) when placed against passive hues. Passive colours seem to recede (fade) when positioned against active hues. This becomes important when dealing with the interaction of colours.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Passive colours](../../images/design-1/Colours/Fundamentalsofcolour-15.png)
 
 _Figure 15. Passive and active colours._
 
@@ -215,7 +217,7 @@ We determine whether or not our colour usage is successful by critically assessi
 
 Using a colour wheel and a template, the relationships between colours are easy to identify:
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Complementary colours](../../images/design-1/Colours/Fundamentalsofcolour-15.png)
 
 _Figure 16. Complementary colours._
 
@@ -227,7 +229,7 @@ When creating designs that are intended to be read, it is important to offer the
 
 Yellow text on a white background or blue text on a black background is difficult to read due to the low level of contrast between figure and ground.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Low contrast](../../images/design-1/Colours/Fundamentalsofcolour-17.jpeg)
 
 _Figure 17. Difficult to read text due to the low level of contrast between figure and ground._
 
@@ -235,7 +237,7 @@ An occurrence known as “simultaneous contrast” (or chromo stereopsis) may ha
 
 Some colour combinations, such as red text on a blue background, cause illusions when positioned together.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Red text](../../images/design-1/Colours/Fundamentalsofcolour-18.jpeg)
 
 _Figure 18. Red text on a blue background._
 
@@ -243,7 +245,7 @@ _Figure 18. Red text on a blue background._
 
 It is good to have some knowledge in understanding the different emotional attributes the main colour groups can bring to a design. The main colours are: Red, Orange, Yellow, Green, Blue, Purple, White and Black.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Colour guide](../../images/design-1/Colours/Fundamentalsofcolour-19.jpeg)
 
 _Figure 19. Color psychology guide (Decary, 2019)_
 
@@ -255,7 +257,7 @@ Red is also often used in food, wine and beverage websites due to its indulgent 
 
 Red is a warm, brighter colour and can make a user more alert since it attracts attention and creates energy.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Example of red](../../images/design-1/Colours/Fundamentalsofcolour-20.jpeg)
 
 _Figure 20. An example of red used on a lifestyle blog (Markiewicz, 2018)_
 
@@ -269,9 +271,9 @@ Orange is also a warm and versatile colour. It can be energizing, but a lighter 
 
 Orange can stimulate metabolism and appetite as well.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Orange in use](../../images/design-1/Colours/Fundamentalsofcolour-21.jpeg)
 
-_Figure 21. A good example of orange being used on wix.com (wix.com, 2020)_
+_Figure 21. A good example of orange being used on (fixate.it, 2022)_
 
 _Yellow_
 
@@ -283,7 +285,7 @@ Yellow is also an energetic colour without the extreme of red.
 
 However, too much yellow can be overpowering.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Yellow in use](../../images/design-1/Colours/Fundamentalsofcolour-22.jpeg)
 
 _Figure 22. A good example of yellow being used on website (pittoridicinema, 2020)_
 
@@ -299,7 +301,7 @@ _Green_
 
 - Green can also represent stability.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Green in use](../../images/design-1/Colours/Fundamentalsofcolour-23.jpeg)
 
 _Figure 23. Green on a website creating a feeling of growth and freshness (fiverr.com, 2020)_
 
@@ -315,7 +317,7 @@ _Blue_
 
 - Blue is found in the sea and the sky and gives a sense of ease, so it is a colour often found in airline and cruise websites.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Blue in use](../../images/design-1/Colours/Fundamentalsofcolour-24.jpeg)
 
 _Figure 24. Blue promotes reliability and stability (evolvewealth.co.uk, 2019)_
 
@@ -329,7 +331,7 @@ _Purple_
 
 - Purple is not often used in websites. But if used correctly, it can create a lavish and indulgent feel.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Purple in use](../../images/design-1/Colours/Fundamentalsofcolour-25.jpeg)
 
 _Figure 25. Purple to create a lavish and indulgent feel (cadbury.co.za, 2020)_
 
@@ -341,7 +343,7 @@ _White_
 
 - White is often used as a background in minimalistic websites. It is great to use when you want to draw attention to other elements/colours on the page. For example, in art websites when you want the user to focus on artwork.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![White in use](../../images/design-1/Colours/Fundamentalsofcolour-26.png)
 
 _Figure 26. White is often used in minimalistic websites (Wieland, 2020)_
 
@@ -355,7 +357,7 @@ _Black_
 
 - It is also often used to give a feeling of sophistication.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Black in use](../../images/design-1/Colours/Fundamentalsofcolour-27.png)
 
 _Figure 27. Black is often associated with elegance and a feeling of sophistication (eattheordinary.com, 2020)_
 
@@ -375,14 +377,15 @@ From David Kadavy’s book Design for Hackers: Section: 'Colour Choices and Web 
 
 ### Activity 3
 
-| WATCH<br><br> Adobe Colour is an excellent online tool to create colour palettes. Watch the following video from LinkedIn Learningas a short introduction to Adobe Color. Remember to be logged in to your Noroff account. Video Course: [Adobe Color Essential Training](https://www.linkedin.com/learning/adobe-color-essential-training/a-colorful-journey?u=43268076) (2m 35s) by Bart Van de Wiele. | | :-: |
+| WATCH<br><br> Adobe Colour is an excellent online tool to create colour palettes. Watch the following video from LinkedIn Learningas a short introduction to Adobe Color. Remember to be logged in to your Noroff account. Video Course: [Adobe Color Essential Training](https://www.linkedin.com/learning/adobe-color-essential-training/a-colorful-journey?u=43268076) (2m 35s) by Bart Van de Wiele. |
+| :-: |
+
 
 ### Activity 4
 
 | READ<br><br>Article: [A Quick Look at Types of Grids for Creating Professional Designs](https://pixel77.com/color-psychology-web-design-color-schemes-big-websites/) by Adriana Marinica. |
 | :-: |
 
-## Lesson Task - Fundamentals of colour
 
 ## Lesson Task
 
@@ -401,13 +404,13 @@ Your task is to create one colour palette with Adobe Color CC from any photograp
 
 ### Level 1 Process
 
-- - Choose one colour photograph of your choice. Make sure the image is of high quality.
+-  Choose one colour photograph of your choice. Make sure the image is of high quality.
 
-- - Upload the image in Adobe Color CC (color.adobe.com).
+-  Upload the image in Adobe Color CC (color.adobe.com).
 
-- - Create a new colour palette with Adobe Color CC. Try to manipulate the colours so that you are able to create a more interesting result.
+-  Create a new colour palette with Adobe Color CC. Try to manipulate the colours so that you are able to create a more interesting result.
 
-- - Save your colour palette in a new library.
+-  Save your colour palette in a new library.
 
 ## Bibliography
 

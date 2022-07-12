@@ -21,7 +21,7 @@ In Design Module Assignment 2, you will have chosen one of the following briefs:
 
 - https://github.com/NoroffFEU/first-year-cross-course-assignment-brief-three
 
-Now, for your Course Assignment, you have been tasked with creating a working prototype using Adobe XD/Figma. Each brief has a 'site architecture' that will show you which pages to create for your chosen brief. Please use the same brief you worked on in Module Assignment 2.
+Now, for your Course Assignment, you have been tasked with creating a working prototype using Adobe XD/Figma. Each brief has a 'site architecture' that will show you which pages to create for your chosen brief. 
 
 The prototype should be interactive, and it should be possible to click links and move between pages. If you have multiple pages where the layout look the same (for example, product pages), you only need to create one version of that page for the prototype.
 
@@ -29,7 +29,7 @@ If you are using the free version of Adobe XD it's important to note that you ca
 
 ## Level 1 Process
 
-- Take the feedback you received on the style tile you made for MA2 and consider if you need to make any changes to your chosen styles.
+- Take the feedback you received on your fonts/icons and colours you made for your Cross-Course lesson and consider if you need to make any changes.
 
 - Draw up wireframes of the various pages - you can do this on paper or use your computer, whatever works best for you.
 

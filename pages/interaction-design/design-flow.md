@@ -7,13 +7,7 @@ permalink: interaction-design/design-flow.html
 folder: interaction-design
 ---
 
-## Lesson Overview 
-
-## Lesson - Design the flow
-
-![Tux, the Linux mascot](/assets/images/tux.png)
- 
-### Introduction 
+## Introduction 
 
 This lesson contains 1 activity that you should complete as you go through it. 
 
@@ -151,9 +145,6 @@ It's no wonder that whenever major websites do large changes to their UI, people
  
 |  | **Activity 1**<br>READ<br><br>From _About Face: The Essentials of Interaction Design_, Paperback, 2014, by Alan Cooper et.al.<br>Chapter 11:'Orchestration and Flow'<br>Chapter 12: Chapter 12: 'Reducing Work and Eliminating Excise' (3h) |
 | :-: | :-- |
-
-
-## Lesson Task - Design the Flow 
 
 ## Lesson Task 
 

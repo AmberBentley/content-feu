@@ -6,13 +6,8 @@ sidebar: industry-knowledge
 permalink: industry-knowledge/portfolio-website.html
 folder: industry-knowledge
 ---
-## Lesson - Creating a Portfolio Website 
 
-## Lesson Overview 
-
-![Tux, the Linux mascot](/assets/images/tux.png)
-
-### Introduction 
+## Introduction 
 
 This lesson contains an activity on the last page that you should complete. 
 

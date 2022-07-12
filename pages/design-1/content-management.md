@@ -31,12 +31,16 @@ You need to have a good understanding of who your client's target audience is be
 
 Look at the example below; which photo would you use for a website selling activewear to young adults aged 20 – 35 years old? You would probably use the photo on the right because the woman is most likely of the same age as the target audience. Therefore, she would be more relatable to the audience your client wants to reach.
 
+![Target audience](../../images/design-1/Contentmanagement-1.jpeg)
+
 _Figure 1. An example of photo choice according to the target audience._
 
 ### Good knowledge of the key demographics and psychographics of a target audience is vital in getting to know them better.
 
 - Demographics refers to the physical, like age, race, and gender.
 - Psychographics refers to psychological factors such as a persons' beliefs, values, spending habits, and motivations.
+
+![Target audience](../../images/design-1/Contentmanagement-2.jpeg)
 
 _Figure 2. An example of the target audience for an athletic shoe brand (Santo, 2019)_
 
@@ -50,7 +54,11 @@ Photos are vital elements to create appealing and engaging websites. Choosing th
 
 Photos with a low resolution or grainy and out of focus images should not be used. Images may be scaled to a smaller size, but never larger as this may lead to pixilation. Furthermore, images should be scaled at a fixed aspect ratio to avoid stretching and distortion. The selected images should clearly illustrate the brand or website topic.
 
+![Stretched image](../../images/design-1/Contentmanagement-3.jpeg)
+
 _Figure 3. When images are of bad quality and stretched out of proportion_
+
+![Good quality](../../images/design-1/Contentmanagement-4.jpeg)
 
 _Figure 4. Good quality images that are in perfect proportion is more attractive._
 
@@ -58,11 +66,15 @@ _Figure 4. Good quality images that are in perfect proportion is more attractive
 
 Look for original photos and avoid photos that look too much like stock imagery or ones that are commonly used. Think of what you are trying to portray and do not go for the obvious photo. As a rule of thumb, avoid any images in the first couple of pages of stock library search results since most people will select these. Find images that are unique with a twist on what you are looking for, so try to be imaginative.
 
+![Unique image](../../images/design-1/Contentmanagement-5.jpeg)
+
 _Figure 5. This image is unique and tells a story between pet and owner._
 
 ### Use believable and appropriate people
 
 Use people in the photos that are believable examples of your target audience. The users should feel that these are real, everyday people using your brand. Use people that your target audience can relate to. For example, a young hip clothing company wouldn't have images of senior people on their website.
+
+![Bean bags](../../images/design-1/Contentmanagement-6.jpeg)
 
 _Figure 6. The company sells bean bags for children. A good example of showcasing the target audience interacting with the product._
 
@@ -70,11 +82,15 @@ _Figure 6. The company sells bean bags for children. A good example of showcasin
 
 Photos of people smiling, for example, give a happy, positive feeling.
 
+![Happy moment](../../images/design-1/Contentmanagement-7.jpeg)
+
 _Figure 7. A good example of a happy moment captured by the camera lens._
 
 ### Employ images with utility
 
 Useful photos help the user better understand how a product is used, showing them the product, so the user can get a feel for how it looks and works. The image of the website below contains a photo showing the product and the app used with the product. Users can quickly see how they work together:
+
+![Garmin](../../images/design-1/Contentmanagement-8.jpeg)
 
 _Figure 8. Garmin Connect providing useful information with regards to their downloadable app (garmin.com, 2020)_
 
@@ -84,11 +100,15 @@ The layout of the elements in a photo or image is known as composition. Photos c
 
 The benefits of white space in photos are that it is easier for the user to focus on the main subject, and in design, the white space can be used for text and headings.
 
+![White space](../../images/design-1/Contentmanagement-9.png)
+
 _Figure 9. An example of white space used for a logo, text, and a call to action button._
 
 ### Crop images to show what is essential
 
 There may be distracting parts of the background that are unnecessary. Also, pick colours that go with the colour palette of the website when choosing images.
+
+![Colour palette](../../images/design-1/Contentmanagement-10.jpeg)
 
 _Figure 10. The colour palette and image work together perfectly._
 
@@ -96,7 +116,11 @@ _Figure 10. The colour palette and image work together perfectly._
 
 These will bring a cluttered, overcrowded feel to a website. It's also best to avoid placing written text on a very busy photo. If the design needs writing to be placed on an image, use a colour with the opacity levels adjusted to make the text stand out more. This ensures that the user can clearly see what the message is.
 
+![Cluttered image](../../images/design-1/Contentmanagement-11.jpeg)
+
 _Figure 11. The information on this design is hardly visible because the background image is too cluttered._
+
+![Overlay image](../../images/design-1/Contentmanagement-12.jpeg)
 
 _Figure 12. The black colour overlay makes the information more visible._
 
@@ -104,13 +128,15 @@ _Figure 12. The black colour overlay makes the information more visible._
 
 The rule of thirds in photography is a composition rule, and as mentioned previously, layout and composition are the placement of individual elements on a page or screen. It's no different when it comes to the rule of thirds. With this rule, a photo is evenly divided into thirds (three columns and three rows). The focal point of the photo, which would be the subject, is then placed either along one of the lines or at the intersection of the dividing lines. The rule of thirds makes for more attractive looking photos.
 
+![Rule of thirds](../../images/design-1/Contentmanagement-13.jpeg)
+
 _Figure 13. An example of the rule of thirds in photography._
 
 ### Photography resources
 
 Sometimes photography can be quite intimidating. That is why useful resources for photography can assist in getting high-quality images that are produced by professional photographers. These websites are all well-known for their free stock images. But before downloading any photos, make sure you understand what is required from you with regards to the licencing and the use of photos.
 
-Free stock sites: [www.freepik.com](http://www.freepik.com/), [www.pixabay.com](http://www.pixabay.com/), [www.unsplash.com](http://www.unsplash.com/) and [www.librestock.com](http://www.librestock.com/)Websites that sell photographs can be quite expensive, but the images will probably be of a higher quality and you would have a bigger selection to choose from. With some free stock sites, you have the option to subscribe as a premium member, meaning certain photos are regarded as ‘premium selection’ and the only way for you to download those is by paying for them.
+Free stock sites: [www.freepik.com](http://www.freepik.com/), [www.pixabay.com](http://www.pixabay.com/), [www.unsplash.com](http://www.unsplash.com/) and [www.librestock.com](http://www.librestock.com/) Websites that sell photographs can be quite expensive, but the images will probably be of a higher quality and you would have a bigger selection to choose from. With some free stock sites, you have the option to subscribe as a premium member, meaning certain photos are regarded as ‘premium selection’ and the only way for you to download those is by paying for them.
 
 Paid stock sites: [www.shutterstock.com](http://www.shutterstock.com/), [www.gettyimages.com](http://www.gettyimages.com/), [www.istockphoto.com](http://www.istockphoto.com/) and [www.stocksy.com](http://www.stocksy.com/)
 
@@ -121,6 +147,8 @@ In web design, we measure the resolution of an image in pixels. Pixels are small
 It's vital to ensure the photos that will be used on a website is appropriately optimised for the web. When images are big in file size, they will take longer to load and in return create much frustration with the online user. This would result in an overall poorer user experience. Photos should be of high quality, but not bigger than a file size of 200kb - 500kb. Adobe Photoshop is an excellent tool for the resizing of images, but many free online tools would also be able to resize pictures effortlessly.
 
 In the image below the picture on the left has a file size of 113mb, whereas the picture on the right has a file size of only 556,4kb after being optimised for the web. Other than the file size, not much difference is noticeable between the two.
+
+![Image optimization](../../images/design-1/Contentmanagement-14.jpeg)
 
 _Figure 14. Image optimisation in Adobe Photoshop._
 
@@ -147,11 +175,15 @@ In web design, an icon refers to a symbol that represents an action. It's useful
 
 If you are tasked to design a website for a pharmaceutical company, for example, you will use icons that are more corporate in style than the more playful icons that might be used on a lifestyle website. The icons shouldn't be seen as a separate entity but should form a unity with the overall genre and design of the website.
 
+![Various icons](../../images/design-1/Contentmanagement-15.png)
+
 _Figure 15. Different style icons for different type of websites._
 
 #### Icons should be in line with the corporate identity of a business
 
 It wouldn't make sense to use icons that don't reflect the corporate identity. For example, the colour palette for your clients' brand consists of red, dark blue, light blue, and white. The icon set you want to use on the site should be the same colour as that of the brand. If an icon includes text, the font used should be the same as that of the company's corporate identity.
+
+![Icons used](../../images/design-1/Contentmanagement-16.jpeg)
 
 _Figure 16. The icons used for this company’s website consist of a colour present in their corporate identity._
 
@@ -159,11 +191,15 @@ _Figure 16. The icons used for this company’s website consist of a colour pres
 
 Creating icons for smaller (mobile) as well as bigger (desktop) screens are critical. That's where the saying 'the simpler, the better' comes in handy. Imagine you use a set of icons that are so intricate in detail that when scaled down, the user can hardly see what the icon represents. How would they know where it would lead them? Would they even be bothered to find out? The short answer is no. Always make sure that icons are simple enough but informative and self-explanatory to guide the user in the direction they wish to go.
 
+![Various icons](../../images/design-1/Contentmanagement-17.jpeg)
+
 _Figure 17. The icon at the top is to intricate in detail that some detail gets lost when scaled down. The icon at the bottom consist of a simple design style and scale better and is more recognisable._
 
 #### Similar in style
 
 It's crucial to be consistent and use icons that have similar visual characteristics. The icons on your website should almost feel like a family. For example, if you decide to go for a more rounded shape icon, it should be consistent across. If one icon has an outline border, then all of them should have the same outline border. In the end, all icons should be consistent in style, colour, and size.
+
+![Ways of using icons](../../images/design-1/Contentmanagement-18.jpeg)
 
 _Figure 18. The icon set at the top is inconsistent in style, size, and shape. The icon set at the bottom are consistent in style, size, and shape._
 
@@ -172,6 +208,8 @@ _Figure 18. The icon set at the top is inconsistent in style, size, and shape. T
 As with everything in design, high-quality work is vital in achieving visually appealing designs. Icons should be of high quality and not pixelate. It's, therefore, best to design and edit icons in software intended specifically for that purpose. Tools such as Adobe Illustrator and Adobe XD are helpful in this regard. These programs assist the user in producing high-quality original icons or in editing ones that have been found online.
 
 Good places to find free icons are [www.flaticon.com](http://www.flaticon.com/), [www.iconfinder.com](http://www.iconfinder.com/) and [www.freepik.com](http://www.freepik.com/). When reusing images, make sure you understand what is required from you in terms of the licencing before you use icons form these websites.
+
+![Use of icons](../../images/design-1/Contentmanagement-19.png)
 
 _Figure 19. Bad vs Good. The icons to the left is pixelated and stretch out of proportion. The icons to the right is of high quality and have a good aspect ratio._
 
@@ -187,11 +225,15 @@ Call to action buttons (CTA) are visible on almost any modern-day website and ar
 
 A CTA should attract attention, and it should be designed in a way that would be irresistible for the user to not click on it. Some might say a CTA that looks like an actual button might attract more attention than one that is flat. Others would say a button that has more of flat design style is more elegant. Regardless whether it is designed to have square or rounded corners, it should fit in with the overall style of your website. Keep it simple and stay consistent with the shape of the button across the site.
 
+![Buttons style](../../images/design-1/Contentmanagement-20.jpeg)
+
 _Figure 20. Different style of buttons._
 
 ### Choose colour carefully
 
 Colour matters and will ultimately be the one thing that would make the buttons stand out and attract attention. If you take a couple of steps back from your screen, the CTA should be clearly visible. Contrasting colours often work best, but make sure the chosen colour still forms part of the overall design of the site.
+
+![CTA button](../../images/design-1/Contentmanagement-21.jpeg)
 
 _Figure 21. The CTA is clearly visible and draw the attention of the user._
 
@@ -199,13 +241,19 @@ _Figure 21. The CTA is clearly visible and draw the attention of the user._
 
 A call-to-action button should change on hover to show the user that they are about to perform an action. It doesn't have to be a significant change. The more subtle the change the better.
 
+![Default state](../../images/design-1/Contentmanagement-22.jpeg)
+
 _Figure 22. A CTA in its default state and on hover._
 
 ### Action text
 
 A successful CTA tells the user precisely what to do. They should be clear, simple and short and sweet. It shouldn't be intimidating but rather instil confidence in the user and do precisely what they say. Therefore, using action text on a button is best. These include: “Add to cart”, “Sign up”, “Free sample” or “Join now” just to name a few. See how short these are, but still, they are telling the user exactly what will happen when the button is clicked. The font used on a button should be easy to read and still be consistent with the fonts used on the website. Don't use a fancy script-like font as they are often hard to read.
 
+![Action text](../../images/design-1/Contentmanagement-23.png)
+
 _Figure 23. Good action text being used on buttons._
+
+![Font choice](../../images/design-1/Contentmanagement-24.jpeg)
 
 _Figure 24. The choice in font used on a CTA is crucial for the user to easily understand what the action is they need to take._
 
@@ -233,6 +281,8 @@ This provides support on how to fill out the form. It usually comes in the form 
 
 These give the user feedback on the inputs they have submitted. Submission validations occur after the user completed the request and live inline validation occurs during the process of completing the form.
 
+![Form example](../../images/design-1/Contentmanagement-25.png)
+
 _Figure 25. An example of a form._
 
 Poorly designed forms can discourage users from completing and submitting.
@@ -250,15 +300,21 @@ Poorly designed forms can discourage users from completing and submitting.
 
 We will discuss colour in more detail as we go along to the next module. But for now, think about what colour does to you. How does red, for example, make you feel? Would you use the colour pink on a law firm’s website? How would the target audience react when entering such a site? Colour forms a vital element on any website and even though it’s not actual information the user reads, it still evokes emotion the same way a photo would.
 
+![Colour](../../images/design-1/Contentmanagement-26.jpeg)
+
 _Figure 26. Colour and emotion (Hauff, 2018)_
 
 ## Typography is powerful
 
 Typography is another topic that needs discussion and that we will more carefully explore in the following module. But for now, it’s important to note that typography is one more vital element to website content. Like colour, it’s not actual information that a user would learn from, but it would make the overall user experience pleasant if done correctly and also bring more appeal to a website. If not, the message to the user will get lost. Think of it like this, would you take Thor, the Marvel superhero seriously if the producers of the movie decided on a font like the one below?
 
+![Thor movie](../../images/design-1/Contentmanagement-27.jpeg)
+
 _Figure 27. A movie poster of the Marvel superhero, Thor. The chosen font makes the movie poster seem fake and not credible (DaNmArK, 2015)_
 
 Probably not. Typography plays a significant role in communicating a brand message to the user. If done right, the user will understand, relate, and most certainly return for more. Thor is a strong character, physically and emotionally, and the chosen typography should communicate that message to the audience. You would probably use a more robust font that better expresses Thor’s personality.
+
+![Font choice](../../images/design-1/Contentmanagement-28.jpeg)
 
 _Figure 28. The chosen font for the Thor movie poster is strong and communicates Thor’s personality to the viewer (Disney, 2011)_
 
@@ -266,13 +322,13 @@ Now that you have a clear idea of what to look for with regards to website conte
 
 ## In summary:
 
-- - Keep your design choices consistent across all platforms, forms, and pages.
-- - Decide on an image and continue with that throughout.
-- - Make sure that icons are similar in style and provide clarity on what they represent.
-- - Call-to-action buttons should stand out and carry a definite action.
-- - Forms should be short and easy to complete with a validation message telling the user if they were successful or not.
-- - Colour should evoke the right emotion.
-- - Fonts should be easy to read and assist all other elements in expressing the brand message to the online user.
+-  Keep your design choices consistent across all platforms, forms, and pages.
+-  Decide on an image and continue with that throughout.
+-  Make sure that icons are similar in style and provide clarity on what they represent.
+-  Call-to-action buttons should stand out and carry a definite action.
+-  Forms should be short and easy to complete with a validation message telling the user if they were successful or not.
+-  Colour should evoke the right emotion.
+-  Fonts should be easy to read and assist all other elements in expressing the brand message to the online user.
 
 ## Activities
 
@@ -313,15 +369,15 @@ The Winery is the name of the company that contacted you for the design of their
 
 ### Key demographics and psychographics:
 
-- - Age range: 30 – 40-year-old
-- - Gender: 40% male, 60% female
-- - The audience loves socialising with friends and family.
-- - They like to shop online and buy most non-essential items online.
-- - Feel loyalty to brands with values similar to theirs.
+-  Age range: 30 – 40-year-old
+-  Gender: 40% male, 60% female
+-  The audience loves socialising with friends and family.
+-  They like to shop online and buy most non-essential items online.
+-  Feel loyalty to brands with values similar to theirs.
 
 ### Some challenges:
 
-- - Struggle to find good quality wine that would age well.
+-  Struggle to find good quality wine that would age well.
 
 ### Preferred channels:
 
@@ -336,14 +392,14 @@ The Winery is the name of the company that contacted you for the design of their
 
 ### For this task create the following design elements:
 
-- - Find photos that would speak to the target audience and showcase the brand’s products.
-- - Create a colour palette for the brand.
-- - Choose some fonts that will relate to the target audience and that are relevant to the brand.
-- - Find icons that are informative and will assist the online user to buy products online. These can be a search, cart, location, message and contact for example.
-- - Create a CTA for the online user to ‘add to cart’.
-- - Create a page (1920 x 1080px) in Adobe XD/Figma.
-- - Create a grid and place the design elements neatly on the page.
-- - Make sure your elements are properly aligned and spaced out evenly. Each element should have its own space on the page.
+-  Find photos that would speak to the target audience and showcase the brand’s products.
+-  Create a colour palette for the brand.
+-  Choose some fonts that will relate to the target audience and that are relevant to the brand.
+-  Find icons that are informative and will assist the online user to buy products online. These can be a search, cart, location, message and contact for example.
+-  Create a CTA for the online user to ‘add to cart’.
+-  Create a page (1920 x 1080px) in Adobe XD/Figma.
+-  Create a grid and place the design elements neatly on the page.
+-  Make sure your elements are properly aligned and spaced out evenly. Each element should have its own space on the page.
 
 ## Bibliography
 

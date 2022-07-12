@@ -7,13 +7,7 @@ permalink: interaction-design/info-architecture.html
 folder: interaction-design
 ---
 
-
-## Lesson - Info Architecture and Design for the Middle 
-
-![Tux, the Linux mascot](/assets/images/tux.png)
-
-
-### Introduction 
+## Introduction 
 
 This lesson contains 2 activities that you should complete as you go through it. 
 
@@ -43,8 +37,7 @@ When the users are grouping the cards it's important that they are neither too b
  
 Once the users have grouped the cards together, ask them to create category labels for the different groupings. This gives us insight into how they see the groups and offer potential options for our hierachy. 
 
- ![Tux, the Linux mascot](/assets/images/tux.png)
-
+ ![Card sorting example](../../images/interaction-design/2-3-1.jpeg)
 
 _"CS003: Figure 1.3" by  Rosenfeld Media, photo licensed under CC BY 2.0 (https://www.flickr.com/photos/rosenfeldmedia/3343498557/in/photostream/)_ 
 
@@ -82,8 +75,6 @@ There is a story from 'Aesop's Fables' about a fox who boasted about having hund
  
 Sometimes users can become overwhelmed by the number of options set before them that they fail to take any action. They are presented with too many choices and experience what is known as the Paradox of Choice. At first it might seem that what everyone wants is more choice, but actually humans want restrictions placed on them. That way they can be more sure of the decision they're making and the likely outcome. 
 
-## Creating your Information Architecture (continued) 
-
 ### Effort vs Reward 
 
 If users see the reward as good, the more effort they're willing to spend getting the reward. 
@@ -111,9 +102,6 @@ When making choices about terminology, navigation etc. it's best to choose the l
 |  | **Activity 2**<br>READ<br><br>From _About Face: The Essentials of Interaction Design_, Paperback, 2014, by Alan Cooper et.al.<br>Chapter 10: 'Optimizing for Intermediates'(2hr) |
 | :-: | :-- |
 
-
-## **Lesson Task - Info Architecture and Design for the Middle** ## 
-
 ## Lesson Task 
 
 ### Brief 
@@ -130,5 +118,4 @@ Design the information architecture for your cross-course site.
 
   You can use a format like the image below, to show your site’s information architecture. 
 
-![Tux, the Linux mascot](/assets/images/tux.png)
- 
+![Site architecture example](../../images/interaction-design/task2-3_information-architecture.jpeg)

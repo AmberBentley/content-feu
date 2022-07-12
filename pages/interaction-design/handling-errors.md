@@ -7,14 +7,7 @@ permalink: interaction-design/handling-errors.html
 folder: interaction-design
 ---
 
-## Lesson - Handling Errors 
-
-![Tux, the Linux mascot](/assets/images/tux.png)
-
-
-## Lesson Overview 
-
-### Introduction 
+Introduction 
 
 This lesson contains 2 activities that you should complete as you go through it. 
 
@@ -36,7 +29,7 @@ Another example from MS Word is their "Want to save your changes" dialog box tha
  
 To avoid issues like this, it's useful to not place important items next to each other, otherwise the user is likely to cause errors by mis-clicking. It's also good to bury very important features behind certain roadblocks. You don't want to have the 'delete all' button too easy to click, just like important buttons and switches which are under a plastic covering to prevent accidents. 
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Switch under plastic covering](../../images/interaction-design/3-3-1.jpeg)
  
 
 There can also be good business reasons for not wanting to make certian actions too easy. You don't want it to be too easy for users to delete their account for example. 
@@ -57,9 +50,9 @@ Errors caused by misunderstandings must be found and fixed to ensure future user
 
 Removing the possibility for errors is the best option. That way users can't even make an error. When designing a form it's best to try reduce the number of open text fields and provide more definite options for the user to select. On a date picker where the user is selecting dates in the future, remove the option to select any dates in the past. 
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![KLM date selector](../../images/interaction-design/3-3-2.jpeg)
  
-_A date picker from KLM with dates in the past greyed out._ 
+ _A date picker from KLM with dates in the past greyed out._ 
 
 ## Error Messages 
 
@@ -71,7 +64,7 @@ Use normal, everyday language to explain what went wrong. Keep it simple and pro
  
 If it aligns with your brand and isn't a serious error, you can try alleviate the stress of the situation by using some friendly humour - but be wary of doing this when the user is stressed as it might seem uncaring. 
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Airbnb error message](../../images/interaction-design/3-3-3.jpeg)
  
 _A 404 error message from Airbnb_ 
 
@@ -81,7 +74,7 @@ It's best to provide feedback on errors as soon as possible. If feedback comes t
  
 Once an error has been found, let the user know at the moment after they've finished interacting. Just don't alert them too early otherwise it can get frustrating. In the example below, Google Forms alerts users that their email address is not correct before they've even finished typing it. This causes the user to slow down and check if they haven't made a real mistake, but once they've realised they haven't made an error it feels like they're being punished for nothing. 
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![An example of an Error page](../../images/interaction-design/3-3-4.gif)
  
 
 ### Position 
@@ -104,9 +97,6 @@ For both color and sound, it's important to think about accessibility and factor
 
 |  | **Activity 2**<br>READ<br><br>From _About Face: The Essentials of Interaction Design Paperback_, 2014, by Alan Cooper et.al<br>Chapter 15: 'Preventing Errors and Informing Decisions'. (1h) |
 | :-: | :-- |
-
-
-## Lesson Task - Handling Errors 
 
 ## Lesson Task 
 

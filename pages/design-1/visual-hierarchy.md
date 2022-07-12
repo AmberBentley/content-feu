@@ -10,8 +10,7 @@ folder: design-1
 
 This lesson presents an introduction in establishing visual hierarchy in design. It presents an overview on how to organise visual elements to guide online users in knowing which actions to take when entering a website.
 
-| | NOTE<br><br>This lesson contains 3 activities that you should complete. |
-| :-: |:---------------------------------------------------------------------- |
+| NOTE<br><br>This lesson contains 3 activities that you should complete. 
 
 ## What is visual hierarchy?
 

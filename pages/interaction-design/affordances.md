@@ -7,16 +7,7 @@ permalink: interaction-design/affordances.html
 folder: interaction-design
 ---
 
-Lesson - Metaphors, Affordances and Signifiers 
-
-![Tux, the Linux mascot](/assets/images/tux.png)
-
-
-## Lesson Overview 
-
-## Lesson - Metaphors, Affordances and Signifiers 
-
-### Introduction 
+## Introduction 
 
 This lesson contains 3 activities that you should complete as you go through it. 
  
@@ -54,10 +45,9 @@ Affordances are great when they work, but can be problematic when they don't. Do
  
 In the example below, do you push or pull? The same handles are on the other side as well, so you can't know until you try. 
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Door handle example](../../images/interaction-design/3-1-1.jpeg)
  
-
-_Alan Levine 'Door of Zero Affordances' https://www.flickr.com/photos/cogdog/7313104802_ 
+ _Alan Levine 'Door of Zero Affordances' https://www.flickr.com/photos/cogdog/7313104802_ 
 
 The user enters the interaction with preconceived ideas of what each object does and when it doesn't perform as expected the user feels like it is their fault, and especially online, receives a terrible error message that doesn't properly describe what went wrong and how to fix it. And even worse, it blames the user for the mistake when really it's the designer's fault. 
  
@@ -81,9 +71,8 @@ You need to analyse the users coming to your site in order to understand what pa
 
 We can indicate an affordance through physically showing the user that they can interact. On a button you can use drop shadows, outlines, blurs etc. to indicate that the object is pressable. By making it seem 3D it stands out from the 2D screen as something we can interact with. 
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Examples of buttons](../../images/interaction-design/3-1-2.jpeg)
  
-
 Some people argue that we can move on from using more obvious affordances where people are used to them because they already have a pattern affordance. It all depends on your user and how they will interpret the affordance. Some users don't need to be lead and can enjoy a cleaner look, others need the physical affordance. 
 
 ### Language 
@@ -110,9 +99,6 @@ On hover states can also be used to provide feedback to users that they can cont
 
 |  | **Activity 3**<br>READ<br><br>From _About Face: The Essentials of Interaction Design_, Paperback, 2014, by Alan Cooper et.al.<br>Chapter 13: 'Metaphors, Idioms, and Affordances'(2hr) |
 | :-: | :-- |
-
-
-## Lesson Task - Metaphors, Affordances and Signifiers 
 
 ## Lesson Task 
 

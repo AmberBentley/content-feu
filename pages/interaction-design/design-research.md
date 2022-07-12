@@ -7,12 +7,7 @@ permalink: interaction-design/design-research.html
 folder: interaction-design
 ---
 
-## Lesson - Design Research 
-
-![Tux, the Linux mascot](/assets/images/tux.png)
-
-
-### Introduction 
+## Introduction 
 
 This lesson contains 4 activities that you should complete as you go through it. 
 
@@ -98,8 +93,6 @@ From About Face: The Essentials of Interaction Design Paperback, 2014, by Alan C
 Chapter 2: 'Understanding the Problem: Design Research'. (2h) |
 | :-: |
 
-## Lesson Task - Design Research 
-
 ## Lesson Task 
 
 ### Brief 
@@ -112,18 +105,18 @@ In normal projects, you’d perform a lot more interviews, but for this task we 
 
 ### Level 1 Process 
 
-- - Choose two or three websites for the user to work with. 
+- Choose two or three websites for the user to work with. 
 
-- - Choose specific tasks that you want the user to do. Eg. Find a red jacket that costs less than $... 
+- Choose specific tasks that you want the user to do. Eg. Find a red jacket that costs less than $... 
 
-- - Next, sit down with the potential user at a computer (if you can’t physically sit down with them, then a video conference call will work). 
+- Next, sit down with the potential user at a computer (if you can’t physically sit down with them, then a video conference call will work). 
 
-- - Ask the users to perform the specific tasks you decided on, and encourage them to give feedback as they work. Try not to lead them, but let them explain why they’re doing certain things, and what they like/don’t like about each site. 
+- Ask the users to perform the specific tasks you decided on, and encourage them to give feedback as they work. Try not to lead them, but let them explain why they’re doing certain things, and what they like/don’t like about each site. 
 
-- - After the interview, consider what surprised you about how the user interacted with the websites, and what they did as expected. Were there any sticking points which could be made easier for the user? What did they like and what didn’t they like on the different sites? 
+- After the interview, consider what surprised you about how the user interacted with the websites, and what they did as expected. Were there any sticking points which could be made easier for the user? What did they like and what didn’t they like on the different sites? 
 
 ### Level 2 Process 
 
-- - Ask the user to interact with your website. Give them the same tasks you asked them to perform with the competitor websites. How did your site fare in comparison? Can you see where you might make adjustments? 
+- Ask the user to interact with your website. Give them the same tasks you asked them to perform with the competitor websites. How did your site fare in comparison? Can you see where you might make adjustments? 
 
-- - Consider performing further contextual inquiry interviews with other users to see what they think. The more users you interview, the more rounded a perspective you can get. 
+- Consider performing further contextual inquiry interviews with other users to see what they think. The more users you interview, the more rounded a perspective you can get. 

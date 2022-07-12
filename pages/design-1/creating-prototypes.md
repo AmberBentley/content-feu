@@ -33,7 +33,7 @@ The following questions are examples of things you should ask yourself when usin
 
 - How will your website look and function on different screen sizes?
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Prototypes](../../images/design-1/Creating-prototypes/Creatingprototypes-1.jpeg)
 
 _Figure 1: High fidelity prototypes for all screen sizes_
 
@@ -95,7 +95,7 @@ Sketch is a vector-based graphics editor and is primarily used for user interfac
 
 To learn more about Sketch, visit their website here: https://www.sketch.com/.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Sketch app](../../images/design-1/Creating-prototypes/Creatingprototypes-3.jpeg)
 
 _Figure 3: sketch.com (Source: sketch.com)_
 
@@ -105,51 +105,7 @@ Adobe XD is an application to design and share user interfaces for apps, website
 
 ### Starting with Adobe XD
 
-You should already have some familiarity with Adobe XD from earlier lessons in the design course, but here we'll go into further detail.
-
-<ol><li>Download</li>
-
-If you have not yet downloaded XD, please go to https://www.adobe.com/products/xd.html. You don't need to buy a subscription to download XD. There is a free version available. Download and install the application as per the prompts.
-
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
-
-_Figure 4: Adobe XD download_
-
-<li>Create a new document</li>
-
-Open up XD, create a new document, choose a device to design for: mobile, tablet or desktop. There are drop-down options where you can select a specific device model/format (like iPhone X/Android Tablet/Web 1280), or select a custom size.
-
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
-
-_Figure 5: Adobe XD create-a-new-document screen_
-
-<li>Design mode</li>
-
-XD has three different modes to help keep your project organised: Design, Prototype and Share.
-
-You can find these options in the top-left corner of the header bar.
-
-When you have created a new document, you will land in Design Mode. Here you can create your interface designs across multiple screens, which are called artboards.
-
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
-
-_Figure 6: Adobe XD design mode_
-
-<li>Prototype mode</li>
-
-When your design is ready to start building your prototype, head over to Prototype mode. Here you can link up screens and apply everything you need to have a functional prototype. You can learn about this more in-depth in the lesson activities.
-
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
-
-_Figure 7: Adobe XD prototype mode_
-
-<li>Share</li>
-
-When you are done building your prototype, ready to test the functionality and have other people view it, select the Share tab. Here you can title your preview, choose a view setting, and set the privacy permissions. When you have generated a URL, this can be shared with anyone and will open in their browser. They don't need to have XD installed to view it. When you make changes to your project after this sharing link has been generated, the link needs to be updated to reflect the latest design version.
-
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
-
-_Figure 8: Share mode_
+You should already have some familiarity with Adobe XD from earlier lessons in the design course, but have a look at the tutorials.
 
 | WATCH<br><br>Video: [Adobe XD for Designers](https://www.linkedin.com/learning/adobe-xd-for-designers/drawing-and-editing-graphics?u=43268076) (1h 40m) |
 | :-: |
@@ -182,7 +138,7 @@ Visit the Figma website to register a free account. Download and install the app
 
 Open Figma, create a new file, choose Design File. Click on the frame tool and select ‘Frame’. Alternatively, you can press on the letter ‘F’ on your keyboard. Click on the canvas area and drag the frame to the required size. Alternatively you can choose a preset frame (like iPhone X/Android Tablet/Web 1280) using the design tab in the properties panel.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![A new file](../../images/design-1/Creating-prototypes/Figure%201_Figma_CreateNewFile.png)
 
 _Figure 9:  Figma create-a-new-file screen_
 
@@ -194,7 +150,7 @@ You can find these options in the top-left corner of the header bar.
 
 When you have created a new design file, you will land in Design Mode. Here you can create your interface designs across multiple screens, which are called frames.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Design mode](../../images/design-1/Creating-prototypes/Figure%202_Figma_DesignMode.png)
 
 _Figure 10. Design mode_
 
@@ -202,7 +158,7 @@ _Figure 10. Design mode_
 
 When your design is ready to start building your prototype, head over to Prototype mode. Here you can link up screens and apply everything you need to have a functional prototype.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Prototype mode](../../images/design-1/Creating-prototypes/Figure%203_Figma_PrototypeMode.png)
 
 _Figure 11: Prototype mode_
 
@@ -220,7 +176,7 @@ There are three permissions when inviting to a design file:
 
 When you have generated a URL, this can be shared with anyone and will open in their browser. They don't need to have Figma installed to view it. When you make changes to your project after this sharing link has been generated, the link needs to be updated to reflect the latest design version.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Share mode](../../images/design-1/Creating-prototypes/Figure%204_Figma_ShareMode.png)
 
 _Fig.12: Share mode_
 
