@@ -11,8 +11,7 @@ folder: design-1
 
 Does design matter? In order to understand why the answer to this question is undoubtably _yes,_ an in-depth understanding of the fundamentals of design is necessary.
 
-|     | NOTE<br><br>This lesson contains 4 activities for your completion. |
-| :-: | :----------------------------------------------------------------- |
+> NOTE This lesson contains 4 activities for your completion. 
 
 ## Design fundamentals
 

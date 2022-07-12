@@ -162,7 +162,7 @@ Draw a UI flow diagram for two different flows in [Netflix](https://www.netf
 
 ### Example of UI Flow Diagrams 
 
-[This article](https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows) gives a helpful shorthand for desinging UI flow. There are a number of ways of representing the flow including flowcharts. 
+[UI flows](https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows) gives a helpful shorthand for desinging UI flow. There are a number of ways of representing the flow including flowcharts. 
 
 Write the name of the page the user is on, then draw a line below and write what action they take. Link that to the next page they go to and what action they perform there. 
 

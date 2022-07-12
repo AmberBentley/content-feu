@@ -7,7 +7,7 @@ permalink: interaction-design/handling-errors.html
 folder: interaction-design
 ---
 
-Introduction 
+## Introduction 
 
 This lesson contains 2 activities that you should complete as you go through it. 
 

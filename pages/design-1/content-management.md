@@ -11,7 +11,7 @@ folder: design-1
 
 It is vital to have on a website the correct images for the target audience, icons that are appealing, and call-to-action buttons that draw the viewer’s attention to specific actions. In this lesson, we discuss how to choose the right content for a website not only for aesthetics, but also to ensure the website is relatable to the target audience and assists them in reaching the end goal.
 
-| NOTE<br><br>This lesson contains 4 activities that you should complete.
+> NOTE This lesson contains 4 activities that you should complete.
 
 ## Content
 

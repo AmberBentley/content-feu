@@ -399,8 +399,7 @@ Choosing the right colours for your website is not always easy. Humans can see a
 
 Your task is to create one colour palette with Adobe Color CC from any photograph of your choice.
 
-|  | NOTE<br><br>It's important to watch the video specified in 'Activity 3' before attempting this task. |
-| :-: | :-- |
+> NOTE It's important to watch the video specified in 'Activity 3' before attempting this task. 
 
 ### Level 1 Process
 

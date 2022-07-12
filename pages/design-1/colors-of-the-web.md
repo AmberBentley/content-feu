@@ -11,8 +11,7 @@ folder: design-1
 
 Understanding the colours of the web and knowing how they work is fundamental for any web developer. In the previous lesson, we’ve touched on the RGB colour system and looked at the differences between CMYK and RGB values; specifically, which is used for print and which is used for the web. In this lesson, we will further discuss the colours of the web. We will also have a look at Web Content Accessibility Guidelines (WCAG) and how colour should be applied to meet these guidelines.
 
-|     | NOTE<br><br>This lesson contains 2 activities that you should complete. |
-| :-: | :---------------------------------------------------------------------- |
+> NOTE This lesson contains 2 activities that you should complete. 
 
 ## Hex and RGB colour codes
 

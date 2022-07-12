@@ -11,8 +11,7 @@ folder: design-1
 
 Typography is the process of arranging letters, words, and text for almost any context you can imagine. It’s simple. If you get it right your target audience will understand your message instantly. If you get wrong, they will be left confused and unimpressed. In this lesson, we look at the basics of typography, what the difference between a font and typeface is, and the small details that will create a lasting impression with your target audience.
 
-|     | NOTE<br><br>This lesson contains 4 activities that you should complete. |
-| :-: | :--|
+> NOTE This lesson contains 4 activities that you should complete.
 
 ## What does typography mean?
 

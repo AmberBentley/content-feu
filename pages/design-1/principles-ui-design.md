@@ -123,7 +123,7 @@ _Figure 8: An example of good feedback and user control._
 | <br>READ<br><br>In the book, _'Don't Make Me Think'_, read the following chapters.<br>Chapter 6: Street signs and Breadcrumbs <br>Chapter 7: The Big Bang Theory of Web Designy |
 | :-: |
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+
 
 | WATCH<br><br>Video: [The UI designer’s role](https://www.linkedin.com/learning/user-experience-ux-for-non-designers/the-ui-designer-s-role?u=43268076) (4h 42s) . |
 | :-: |

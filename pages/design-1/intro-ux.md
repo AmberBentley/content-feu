@@ -135,7 +135,7 @@ _Figure 8: An example of a simple wireframe._
 
 _Figure 9: An example of wireframes within a user flow._
 
-
+## Activities
 
 | WATCH<br><br>Video: [What is UX Design? (Video Guide](https://www.youtube.com/watch?v=v6n1i0qojws) (5m 6s) by CareerFoundry. <br><br> Video: [[UX Design: 1 Overview](https://www.youtube.com/watch?v=v6n1i0qojws) (13m). |
 | :-: |

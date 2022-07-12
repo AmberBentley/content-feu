@@ -131,8 +131,6 @@ _Figure 8: A simple, uncluttered flight booking app._
 | <br><br>Video: [UX Design 2: Analysing User Data](https://www.linkedin.com/learning/ux-design-2-analyzing-user-data/get-data-to-analyze?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56dfbc9b92015a33b4908fdd&u=43268076) (30m) |
 | :-: |
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
-
 | READ<br><br>Case Study 1: [Helping homeowners understand their home value on Zillow](https://www.francestung.com/case-studies-1/2019/4/12/helping-homeowners-understand-their-home-value-on-zillow) . |
 | :-: |
 
