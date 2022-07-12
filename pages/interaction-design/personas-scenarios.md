@@ -7,11 +7,7 @@ permalink: interaction-design/personas-scenarios.html
 folder: interaction-design
 ---
 
-## Lesson Overview 
-
-## Lesson - Personas and Scenarios 
-
-### Introduction 
+## Introduction 
 
 This lesson contains 5 activities that you should complete as you go through it. 
 
@@ -35,8 +31,7 @@ Personas differ from market segmentation which is focussed on dividing users bas
  
 You might find that some personas will be more important to you and can become your primary persona, while other personas form a secondary group. You might even have negative personas, these are users you don't want to build your product for. 
 
-![Tux, the Linux mascot](/assets/images/tux.png)
-
+![Example of Personas](../../images/interaction-design/1-3-1.jpeg)
 
 _"ST020: Figure 7.2" by  Rosenfeld Media, photo licensed under CC BY 2.0 (https://www.flickr.com/photos/rosenfeldmedia/4459979060)_ 
 
@@ -64,7 +59,7 @@ The next level is reflective. This is when the user will look back over their ac
  
 This occurs after the interaction has happened and engages the user's long-term goals. What do they want from life? Do they feel happy, proud, safe? A failure at this level can lead to buyer's remorse and can possibly stop the user from ever wanting to engage with the product, even if there are new changes and updates made. 
 
-### Scenarios 
+## Scenarios 
 
 Once we have our personas, we can now see them in action. After all, interaction design is about behavior and what better way to see the behaviour in the system than by getting your personas to take action. 
  
@@ -76,15 +71,14 @@ Using scenarios gives us an overview of the wider process and helps us avoid mak
  
 There are multiple paths your users can choose from. It's important to analyse the possible interactions from a variety of user's perspectives as the different personas might all use your product differently to achieve different goals. 
 
-### Storyboards 
+## Storyboards 
 
 Mainly used by film-makers to prepare for scenes they want to shoot, storyboards offer us a way of visualizing the scenarios we have come up with and see them in drawings. 
  
 There is no place for unnecessary details in our storyboards and so this forces us to focus on the most critical components of the story. We want to map only the important actions and functions. The focus here is not on the interface design but on how a persona achieves their goal using the product. 
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Example of storyboard](../../images/interaction-design/1-3-2.jpeg)
  
-
 _"Customer journey storyboard" by visualpun.ch, photo licensed under CC BY 2.0 (https://www.flickr.com/photos/visualpunch/7245095196/in/album-72157629838187586/) _
 
 ## Design Requirements 
@@ -94,7 +88,6 @@ Once we have an understanding of the process that our user will go on when using
 We must define the user and business needs for the product and begin to imagine how those needs will be satisfied by the product. 
 
 ## Activities 
-
 
 ### Activity 1 
 
@@ -146,8 +139,8 @@ Create personas to help understand the likely users of your cross-course project
 
 ### Level 1 Process 
 
-- - Consider the different likely users for the website and choose three different types of users. Try to choose potential users from different walks of life and interests. We want these personas to offer ideas for how to create our site. 
+-  Consider the different likely users for the website and choose three different types of users. Try to choose potential users from different walks of life and interests. We want these personas to offer ideas for how to create our site. 
 
-- - Download the persona template. 
+- Download the persona template. 
 
-- - Add details to a template for your three chosen personas. 
+- Add details to a template for your three chosen personas. 

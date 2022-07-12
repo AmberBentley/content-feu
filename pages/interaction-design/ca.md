@@ -7,9 +7,7 @@ permalink: interaction-design/ca.html
 folder: interaction-design
 ---
 
-## Course Assignment 
-
-### Brief 
+## Brief 
 
 In this assignment you will work on your cross-course project to: 
 

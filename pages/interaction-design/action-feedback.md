@@ -7,14 +7,7 @@ permalink: interaction-design/action-feedback.html
 folder: interaction-design
 ---
 
-## Lesson Overview 
-
-## Lesson - Take Action and Get Feedback 
-
-![Tux, the Linux mascot](/assets/images/tux.png)
-
-
-### Introduction 
+## Introduction 
 
 This lesson contains 2 activities that you should complete as you go through it. 
 
@@ -24,11 +17,11 @@ Bill Moggridge and Bill Verplank were busy designing the first laptop when they 
  
 Verplank says there are 3 main questions a designer should ask: 
 
-- How do people do?<br> What sort of ways can the user interact with the system and change it? Can they input text and search or must they click on links to move forward. Verplank talks about a difference between buttons and handles. When users use buttons they are exact and the user only engages in a minimal way. When users have handles, they are actively involved in changing what they see and how they interact with it. Does a website's users want to interact in a simple but exact way, or do they want to play around? 
+  How do people do?<br> What sort of ways can the user interact with the system and change it? Can they input text and search or must they click on links to move forward. Verplank talks about a difference between buttons and handles. When users use buttons they are exact and the user only engages in a minimal way. When users have handles, they are actively involved in changing what they see and how they interact with it. Does a website's users want to interact in a simple but exact way, or do they want to play around? 
 
-- How do people feel?<br>This is concerned with what feedback the users receive and how that makes them feel. Marshall MacLuhan identifies two types of media: hot media which is strong and immovable with rich data, while cool media draws you in to engage with it. 
+  How do people feel?<br>This is concerned with what feedback the users receive and how that makes them feel. Marshall MacLuhan identifies two types of media: hot media which is strong and immovable with rich data, while cool media draws you in to engage with it. 
 
-- How do people know?<br>This question is concerned with how the user can know what to do and where to go. How do you guide the user through the process? 
+  How do people know?<br>This question is concerned with how the user can know what to do and where to go. How do you guide the user through the process? 
 
 ## What To Do 
 
@@ -90,7 +83,7 @@ Use dropdowns, check-boxes, and dialog boxes. These reduce errors and increase e
  
 Warnings and visual clues are a good way to alert users to potential problems, but don't hold everything up just to force them to write the data correctly. 
  
-![Tux, the Linux mascot](/assets/images/tux.png)
+![A warning example](../../images/interaction-design/3-2-1.jpeg)
 
 
 ## What to Feel 
@@ -99,8 +92,7 @@ As the user starts to interact with the interface we need to provide quick and d
  
 Without feedback the user wouldn't know if their actions were getting them closer to their goal. It lets the user know whether they should keep doing what they're doing, or stop it and change. 
 
-![Tux, the Linux mascot](/assets/images/tux.png)
- 
+![Ease of use example](../../images/interaction-design/3-2-2.gif)
 
 It is essential that the feedback we create enhance the user's experience and makes things more easily understood, rather than adding unnecessary complications. If the feedback is too dominant it can distract the user. Feedback that is too removed and quiet can be missed by users. 
 
@@ -152,8 +144,6 @@ A good way to help the user is by auto-saving information so that they don’t h
 
 |  | **Activity 2**<br>WATCH<br><br>Videos: [Interaction Design Foundations](https://www.linkedin.com/learning/interaction-design-foundations/defining-behavior-for-interaction-design?u=43268076) <br>10. Designing for Behaviour and Interaction <br>11. Best Practices for Providing Feedback (45m) |
 | :-: | :-- |
-
-## Lesson Task - Take Action and Get Feedback 
 
 ## Lesson Task 
 

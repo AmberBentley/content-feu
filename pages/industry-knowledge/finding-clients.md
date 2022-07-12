@@ -7,13 +7,7 @@ permalink: industry-knowledge/finding-clients.html
 folder: industry-knowledge
 ---
 
-## Lesson - Finding Clients 
-
-## Lesson Overview 
- 
-![Tux, the Linux mascot](/assets/images/tux.png)
-
-### Introduction 
+## Introduction 
 
 Finding freelance clients can be quite tricky because where do you start. You might try cold-calling people, but this takes quite a lot of determination and to be a good salesperson. 
 
@@ -54,8 +48,6 @@ As you develop your connections, it’s a good idea to try and meet people with 
 You should also be using the connections you make in your studies as you enter the workplace. Although you might all be entering the job market at a similar time, keeping in touch can be very useful as you go your separate ways to work on different projects. 
  
 Whatever methods you use to build connections, they can be really useful for sharing your passion for front-end development as well as bouncing ideas around or working on a project. Your network can also help you find a job or share freelance work, although this shouldn’t be the primary motivation for creating a network. 
-
-### Lesson Task - Finding Clients 
 
 ## Lesson Task 
 

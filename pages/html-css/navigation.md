@@ -43,6 +43,8 @@ Below is a video explaining how to create a hamburger menu using only CSS.
 
 This tutorial video on building a responsive navigation. (11m 42s)
 
+<iframe src="https://player.vimeo.com/video/662883528?h=a4cae2c618&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1914" height="1036" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Responsive Navigation"></iframe>
+
 ## Lesson Task
 
 ### Brief

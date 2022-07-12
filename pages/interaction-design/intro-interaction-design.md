@@ -7,36 +7,7 @@ permalink: interaction-design/intro-interaction-design.html
 folder: interaction-design
 ---
 
-## Module 1
-
-In this module we will discuss:
-
-- What is good interaction design?
-
-- Why is it important to have good design for your users?
-
-- The user-centered design process.
-
-- Research, personas, storyboards, and usability testing.
-
-| | NOTE<br><br>Please note that completing Task 1.4 is important, so please ensure that by the end of the module you have installed Hotjar on your cross-course project from the first semester.  <br><br>  If anything is unclear, check your progression plan, and/or contact a tutor on the forums. |
-| :-: | :-- |
-
-### Overview
-
-## Lesson Overview
-
-|  | NOTE<br><br>It is always a good idea to read through the Module Assignment  (if it is written MA or CA) before starting on the lessons and lesson tasks, to get a grasp of what you will do in the end. |
-| :-: | :-- |
-
-### Lesson Overview
-
-## Lesson - What is Interaction Design?
-
-![Tux, the Linux mascot](/assets/images/tux.png)
-
-
-### Introduction
+## Introduction
 
 This lesson contains 3 activities that you should complete as you go through it.
 
@@ -60,11 +31,11 @@ Interaction design is a very broad field that forces us to look outside of our s
 
 An interaction designer must take into account the three following areas:
 
-Business goals: An interaction designer must understand what the business is trying to achieve with its website or app and how the marketing team is looking to achieve those goals.
+- **Business goals:** An interaction designer must understand what the business is trying to achieve with its website or app and how the marketing team is looking to achieve those goals.
 
-Technology limitations: They must also understand the constraints of technology and how to overcome those hurdles.
+- **Technology limitations:** They must also understand the constraints of technology and how to overcome those hurdles.
 
-User goals: Finally and most importantly, interaction designers need to be able to know and understand what the user wants and how best to design the system to suit them.
+- **User goals:** Finally and most importantly, interaction designers need to be able to know and understand what the user wants and how best to design the system to suit them.
 
 On most web projects there are two sides to the work. The one is the marketing department/management who have done research into what they want to sell, but often their requirements for the site and design tend to be vague and open-ended. The worst example of this is "make the design pop". What does that even mean? This vague instruction must now be interpreted by the designer and developer and made into an actual working design.
 
@@ -78,7 +49,7 @@ You might wonder, what the difference between User Experience and Interaction De
 
 UX design includes interaction design alongside the visuals and content.
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Disciplines of Interaction Design](../../images/design-1/UX/1-1-1.png)
 
 _By Thomas-pluralvonglas(Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons_
 
@@ -130,9 +101,7 @@ There are three main ways of modelling a product: the developer's view, the user
 
 The developer's view will usually be a technical one about how the product is built etc. The user isn't focussed on how a product is made, but what it does and how it works. The designer's job is to make the product as close to this image as possible for the user.
 
-## Activities
-
-### Activity 1 
+## Activities 
 
 |  | **Activity 1**<br>WATCH<br><br>Video: [Interaction Design](https://www.linkedin.com/learning/ux-foundations-interaction-design/interaction-design?u=43268076) <br>1. Today's Interaction Designer <br>2. A Model of Psychology and Interaction Design |
 | :-: | :-- |
@@ -143,7 +112,6 @@ The developer's view will usually be a technical one about how the product is bu
 |  | **Activity 3**<br>READ<br><br>From _About Face: The Essentials of Interaction Design_, Paperback, 2014, by Alan Cooper et.al.<br>Chapter 1: 'Goal-Directed Design' (1h) |
 | :-: | :-- |
 
-## Lesson Task - What is Interaction Design?
 
 ## Lesson Task
 
@@ -153,7 +121,7 @@ To get a holistic understanding of interaction design and develop the skills nec
 
 ### Brief
 
-Watch the following lecture by Don Norman on 'Living with Complexity'.
+Watch the following lecture by Don Norman on _'Living with Complexity'._
 
 |  | <br>WATCH<br><br> [Living With Complexity](https://www.youtube.com/watch?v=flRuSn0df8Q)  |
 | :-: | :-- | 

@@ -6,9 +6,8 @@ sidebar: interaction-design
 permalink: interaction-design/context-platforms.html
 folder: interaction-design
 ---
-## Lesson - Context and Platforms 
 
-### Introduction 
+## Introduction 
 
 This lesson contains 2 activities that you should complete as you go through it. 
  
@@ -116,9 +115,6 @@ Some sites also push users to download the app with no way of browsing the site 
 |  | **Activity 2**<br>READ<br><br>From _About Face: The Essentials of Interaction Design Paperback_,  2014, by Alan Cooper et.al. <br>Chapter 9: 'Platform and Posture' (2h) |
 | :-: | :-- |
  
-
-## Lesson Task - Context and Platforms 
-
 ## Lesson Task 
 
 ### Goal 

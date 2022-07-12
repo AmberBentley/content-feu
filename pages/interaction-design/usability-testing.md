@@ -7,16 +7,11 @@ permalink: interaction-design/usability-testing.html
 folder: interaction-design
 ---
 
-## Lesson - Usability Testing 
-
-![Tux, the Linux mascot](/assets/images/tux.png)
-
- 
-### Introduction 
+## Introduction 
 
 This lesson introduces usability testing. 
 
-## Usability Testing? 
+## Usability Testing 
 
 ### Why Do We Conduct Usability Testing? 
 
@@ -36,11 +31,13 @@ One of the main advantages of usability testing over something like a survey is 
 
 There are two main decisions to make when determining how to test your users: 
 
-- - Should the sessions be in-person or remote? 
-In-person testing allows you to get more details from the user. You can see their body language, ask them questions, and see things such as how they hold their mobile phone when working with your mobile site. This gives a deep level of information, but it is more time consuming and expensive. 
+- **Should the sessions be in-person or remote?** 
+   
+   In-person testing allows you to get more details from the user. You can see their body language, ask them questions, and see things such as how they hold their mobile phone when working with your mobile site. This gives a deep level of information, but it is more time consuming and expensive. 
 
-- - Should we ask specific questions or leave the session open-ended? 
-This decision depends slightly on the stage of the process and also what information you are aiming to gather. If you’re doing a broad test of whether the website has good user experience, you might consider leaving things open-ended to allow the user to explore the site. However, if you have specific areas of the site you want to test, then guiding the user with questions such as “can you ‘favourite’ an item on the site?” might be a better choice. 
+  -**Should we ask specific questions or leave the session open-ended?**
+
+  This decision depends slightly on the stage of the process and also what information you are aiming to gather. If you’re doing a broad test of whether the website has good user experience, you might consider leaving things open-ended to allow the user to explore the site. However, if you have specific areas of the site you want to test, then guiding the user with questions such as “can you ‘favourite’ an item on the site?” might be a better choice. 
 
 ## Tools 
 
@@ -54,7 +51,7 @@ This decision depends slightly on the stage of the process and also what informa
 
 - Visitor Recordings
 
- The other main functionality on Hotjar is the screen recordings where you can see actual users and their interactions as they move around the page. This gives you a very detailed view of how the user has interacted on the site, where their cursor goes, what they try to click etc. It is worthwhile noting that Hotjar are GDPR compliant. 
+  The other main functionality on Hotjar is the screen recordings where you can see actual users and their interactions as they move around the page. This gives you a very detailed view of how the user has interacted on the site, where their cursor goes, what they try to click etc. It is worthwhile noting that Hotjar are GDPR compliant. 
 
 - Video on Hotjar 
 Watch the following video on Hotjar: 
@@ -92,8 +89,6 @@ Google Analytics tracks:
 - and many other insights. 
 
 Using Google Analytics exposes potential issues. It is a higher-level view than something like Hotjar, but it is still a useful part of analyzing the effectiveness of a website. 
-
-## Lesson Task - Usability Testing 
 
 ## Lesson Task 
 

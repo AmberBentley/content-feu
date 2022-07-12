@@ -6,13 +6,8 @@ sidebar: industry-knowledge
 permalink: industry-knowledge/contracts.html
 folder: industry-knowledge
 ---
-## Lesson - Contracts 
 
-## Lesson Overview 
-
-![Tux, the Linux mascot](/assets/images/tux.png)
-
-### Introduction 
+## Introduction 
 
 Setting up a contract with a client is an important part of your freelance business. Even if it’s for friends, it’s still worth having a contract which clearly stipulates who is being hired to do what, how much it will cost, and how long it will take to deliver. The contract is useful for both sides of the transaction as both then know exactly what is happening and there should be no room for doubts. 
  

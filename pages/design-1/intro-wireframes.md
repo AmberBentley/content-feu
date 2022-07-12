@@ -17,7 +17,7 @@ As you continue the journey to becoming a front-end developer, you will hear the
 
 Not only are wireframes there to get the structure and layout of a page in order, but it is an excellent way to organise ideas and test new ones. It also allows designers to see how users can interact with an interface beforehand.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Hand-drawn wireframe](../../images/design-1/Wireframes-intro/Introductiontowireframes-1.jpeg)
 
 _Figure 1: An example of a hand-drawn wireframe (Source: careerfoundry.com)_
 
@@ -25,15 +25,15 @@ _Figure 1: An example of a hand-drawn wireframe (Source: careerfoundry.com)_
 
 Wireframes are static representations of the design, and should essentially answer the following questions:
 
-- How will the structure and layout of the page look?
+1. How will the structure and layout of the page look?
 
-- What information will be displayed on the page?
+2. What information will be displayed on the page?
 
-- How will the interface function?
+3. How will the interface function?
 
 Simply put, the wireframing process is essential as it is the foundation of a design and helps map out the information architecture, the user flow and overall structure of a page.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![A basic wireframe](../../images/design-1/Wireframes-intro/Introductiontowireframes-2.jpeg)
 
 _Figure 2: A basic wireframe created by using Balsamiq (Source: balsamiq.com)_
 
@@ -41,7 +41,7 @@ _Figure 2: A basic wireframe created by using Balsamiq (Source: balsamiq.com)_
 
 Wireframes are created early in the design process before designers start thinking about an interface's visual elements. This allows designers to make significant changes early on in the process and not later when the design is close to being finalised.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Wireframes process](../../images/design-1/Wireframes-intro/Introductiontowireframes-3.jpeg)
 
 _Figure 3: Wireframes and the design process_
 
@@ -49,7 +49,7 @@ _Figure 3: Wireframes and the design process_
 
 Wireframes should be kept simple and to the point, as the essential purpose is not to communicate the site's visual characteristics but instead the structure and layout of the interface. Wireframes are a simple representation of a design, and as such, normally consist of black, white and grey basic layout designs. For example, a block with a cross can show image placement, and grey lines can represent written text.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Wireframe elements](../../images/design-1/Wireframes-intro/Introductiontowireframes-4.jpeg)
 
 _Figure 4: Wireframe elements_
 
@@ -57,11 +57,11 @@ _Figure 4: Wireframe elements_
 
 There are three different types of wireframes:
 
-- Low-fidelity.
+1. Low-fidelity.
 
-- Mid-fidelity.
+2. Mid-fidelity.
 
-- High-fidelity.
+3. High-fidelity.
 
 The difference between these three types is mainly based on each type of wireframe's level of detail.
 
@@ -73,7 +73,7 @@ Low-fidelity wireframes can be seen as the starting blocks of the design process
 
 Another thing that makes low fidelity wireframes so useful is that it creates conversations around the overall layout, the navigation of the interface and outlining the user's flow.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Low-fidelity wireframe](../../images/design-1/Wireframes-intro/Introductiontowireframes-5.png)
 
 _Figure 5: An example of low-fidelity wireframes (Source: uxdesign.cc)_
 
@@ -81,9 +81,9 @@ _**Mid-fidelity wireframes**_
 
 Mid-fidelity wireframes are a bit more detailed than low-fidelity wireframes but still reasonably simple. Mid-fidelity wireframes should show an exact, detailed representation of the overall layout of the website or app.
 
-Designers can add text weights to highlight headings and paragraph text and boxes that represent images. It also assists in visualising the hierarchy of the elements in the design. Mid-fidelity wireframes are digitally created using tools such as Balsamiq and Adobe XD.
+Designers can add text weights to highlight headings and paragraph text and boxes that represent images. It also assists in visualising the hierarchy of the elements in the design. Mid-fidelity wireframes are digitally created using tools such as Balsamiq and Figma.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Mid-fidelity wireframe](../../images/design-1/Wireframes-intro/Introductiontowireframes-6.png)
 
 _Figure 6: A mid-fidelity wireframe of the Emov app (Source: medium.com)_
 
@@ -93,13 +93,13 @@ High-fidelity wireframes should communicate the interface's look and feel. These
 
 Here placeholder text like Lorem Ipsum is replaced with relevant written content, and instead of a box indicating an image, real images are used. Other visual elements such as colour, typography and the company's branding elements are also added.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Wireframe examples](../../images/design-1/Wireframes-intro/Introductiontowireframes-7.png)
 
 _Figure 7: An example of low-fidelity, medium-fidelity and high-fidelity wireframes_
 
 ## Advantages
 
-There are five advantages of wireframing. Please click on the tabs below to get more insight into these.
+There are five advantages of wireframing. Please click on the sections below to get more insight into these.
 
 _Clarity_
 
@@ -131,7 +131,7 @@ A good wireframe can give developers a clear idea of what elements should be cod
 | :-: |
 
 | <br>Video: [How to wireframe a website](https://www.youtube.com/watch?v=2hQA1ZsGAH8) (13m 50s) |
-| :--------------------------------------------------------------------------------------------: |
+| :-: |
 
 | READ<br><br>Article: [Website and App wireframes for creating a solid UX Design](https://www.invisionapp.com/inside-design/wireframe-examples/) |
 | :-: |

@@ -31,7 +31,7 @@ It's safe to say that users scan through information rather than read through it
 
 Here are some key question to ask yourself when designing an interface:
 
-### **Could the interaction between the user interface and the user be more straightforward and more comfortable to use?**
+### Could the interaction between the user interface and the user be more straightforward and more comfortable to use?
 
 Think of a website that uses a hamburger menu as the main navigation. On a mobile device, this is acceptable since the screen's size is small. On a desktop device, however, it creates an extra step for the user to perform.
 
@@ -39,7 +39,7 @@ Creating proper navigation that the user will see when they enter the site will 
 
 The interaction between the user and the interface immediately comes across as user-friendly and informative.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Good navigation](../../images/design-1/UI-Design/Principlesofuserinterfacedesign-1.jpeg)
 
 _Figure 1: Good navigation gives the user a clear indication of what they can achieve on the website (Source: [https://superbalist.com/women](https://superbalist.com/women))._
 
@@ -51,27 +51,29 @@ Think of a website with a busy background image, and on top of this image is ano
 
 The example below demonstrates a design with bad colour use and an overall cluttered look and feel. The user won't know what to do or how to interact with the website. The choice in colour is also overwhelming and strenuous on the eye.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Poor use of colour](../../images/design-1/UI-Design/Prinicplesofuserinterfacedesign-2.jpeg)
 
 _Figure 2: An example of bad use of colour and imagery._
 
 Good use of colour ensures a more comfortable experience and will allow users to see what they need to do to reach their goal.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title") _Figure 3: Better use of colour and imagery._
+![Better use of colour](../../images/design-1/UI-Design/Principlesofuserinterfacedesign-3.jpeg)
+
+_Figure 3: Better use of colour and imagery._
 
 ### Does each design element serve a purpose?
 
 User interface design should be meaningful. Each element used in the design should serve a purpose. As soon as elements are added to the interface with no purpose, the design becomes meaningless and confusing.
 
-**Before you add any component to your design, ask these questions:**
+Before you add any component to your design, ask these questions:
 
-**- does my design choice serve a purpose?**
+- does my design choice serve a purpose?
 
-**- will it help the user reach their goal faster and more efficiently or prevent them from reaching their goal and make the overall experience unpleasant?**
+- will it help the user reach their goal faster and more efficiently or prevent them from reaching their goal and make the overall experience unpleasant?
 
 Don't use elements to make the overall design appealing. Use elements to make the design purposeful. In the image below, we can see which choices were made to make the overall design purposeful.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Good use of design elements](../../images/design-1/UI-Design/Principlesofuserinterfacedesign-4.png)
 
 _Figure 4: Good use of design elements that serve a purpose on the app design._
 
@@ -85,7 +87,7 @@ Navigation should always be straightforward. Look at the example below. The user
 
 Also, pay attention to the use of colour on the page. It's consistent from top to bottom, and the buttons are bright and prominent.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Consistent page structure](../../images/design-1/UI-Design/Principlesofuserinterfacedesign-5.png)
 
 _Figure 5: Good page structure and consistency_
 
@@ -93,7 +95,7 @@ _Figure 5: Good page structure and consistency_
 
 The design should be adaptable and look good in all situations - on a brand-new iPhone, an old desktop PC and a slick MacBook Pro. This ties in with accessibility and legibility, important factors to consider when you start the design process.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Good responsive design](../../images/design-1/UI-Design/Prinicplesofuserinterfacedesign-6.jpeg)
 
 _Figure 6: An example of good responsive design._
 
@@ -103,7 +105,7 @@ Users respond well to patterns they know and feel comfortable using. There is no
 
 The example below shows two different confirmation messages. The one on the left will be more familiar to users than the one on the right because of how the pattern is presented. The confirmation message on the right is confusing, and users could instantly feel uncomfortable.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Examples of confirmation](../../images/design-1/UI-Design/Prinicplesofuserinterfacedesign-7.png)
 
 _Figure 7: Two examples of confirmation messages._
 
@@ -113,11 +115,10 @@ A user should always feel in control when using an interface. They should know w
 
 The example below shows how the user is in control of the checkout process. Every step is indicated by the process bar. The user even has a way to back out and start over. The information icon will provide them with extra information if there is uncertainty. The bright green CTA is prominent and guides them further through the process.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![An example of user control](../../images/design-1/UI-Design/Prinicplesofuserinterfacedesign-8.png)
 
 _Figure 8: An example of good feedback and user control._
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
 
 | <br>READ<br><br>In the book, _'Don't Make Me Think'_, read the following chapters.<br>Chapter 6: Street signs and Breadcrumbs <br>Chapter 7: The Big Bang Theory of Web Designy |
 | :-: |
@@ -141,12 +142,19 @@ The target audience for this app is aged between 25 and 35. They have busy sched
 ## Level 1 Process
 
 - Make a quick sketch of how the layout and placement of elements will potentially look.
+  
 - In Adobe XD/Figma create an artboard for any mobile device.
+  
 - Focus on what you've learned about UI principles and apply your knowledge to your app's design.
+  
 - Ensure the navigation on the app is straightforward and easy to comprehend.
 
 - Ensure the elements are neatly displayed and have a purpose. Make use of a grid structure to help you place elements on the page.
+  
 - Design components and elements should align correctly. This will ensure a neat layout throughout.
+
 - The use of colour and typography should be consistent.
+
 - Consider the app's navigation.
+
 - Most importantly, remember to KISS (keep it simple stupid).

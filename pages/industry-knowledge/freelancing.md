@@ -7,13 +7,7 @@ permalink: industry-knowledge/freelancing.html
 folder: industry-knowledge
 ---
 
-## Lesson - Freelancing 
-
-## Lesson Overview 
-
-![Tux, the Linux mascot](/assets/images/tux.png)
-
-### Introduction 
+## Introduction 
 
 Freelancing is both exciting and daunting, because on the one hand you have freedom to find projects that you’re interested in working on and gain the financial reward from a job well done. On the other hand, freelancing can be very up-and-down and you are never sure of if there will be enough clients. 
 
@@ -42,8 +36,6 @@ Opportunities might come through friends and family connections. Be careful not 
 ## Setting Boundaries 
 
 When you only have a few clients, it’s easy to say yes to projects and try and take on as much as you can, but do be careful to set boundaries for yourself and manage your time. That can mean not doing freelancing work after a specific time, or making sure you have breaks between projects. Freelancing comes in waves and sometimes you will be very busy while at other times you won’t be. It’s good to make sure you are looking after yourself, as well as making sure you are financially covered for lean periods when you don’t have as many clients. 
-
-## Lesson Task - Freelancing 
 
 ## Lesson Task 
 

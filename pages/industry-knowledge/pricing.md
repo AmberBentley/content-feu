@@ -7,13 +7,7 @@ permalink: industry-knowledge/pricing.html
 folder: industry-knowledge
 ---
 
-## Lesson - Positioning and Pricing 
-
-## Lesson Overview 
-
-![Tux, the Linux mascot](/assets/images/tux.png)
-
-### Introduction 
+## Introduction 
 
 As with any business, it’s important to know who your target market is, what they are looking for, and find a way to position yourself to take advantage of opportunities. 
  
@@ -42,8 +36,6 @@ It’s also good to know how much value you believe you can offer the client wit
 ### Pricing changes 
 
 As you develop more clients and gain more experience as a freelancer, you might find that you get the opportunity to be pickier about what projects you choose and what price you charge. Because freelance work can be unpredictable, at some points you might be very busy and so your rate might increase. At other times you might be needing work and so could offer a lower rate.  
-
-## Lesson Task - Positioning and Pricing 
 
 ## Lesson Task 
 

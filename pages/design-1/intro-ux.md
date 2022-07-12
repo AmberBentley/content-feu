@@ -21,19 +21,22 @@ UX permeates all of our interactions in the digital and physical world. Anything
 
 But herein lies the problem; when the mouse is connected to the USB charger, the user can't use it. Even though the design of the mouse is sleek and stylish, it's unusable while charging. Would you say this is good or bad UX?
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Poor user experience](../../images/design-1/UX-Design/IntroductiontoUXdesign-1.jpeg)
 
 _Figure 1: This is a bad UX experience for a user who has to work while the mouse is charging._
 
 To design a successful user experience, you need to be adaptable, a good communicator and someone with high empathy levels. You should be able to place yourself in the user's position and understand what is important to them.
 
-**The UX design process includes various tasks like:**
+The UX design process includes various tasks like:
 
 - user research
+  
 - user persona creation
 
 - setting up information architecture
+  
 - creating user flows
+  
 - conducting user testing.
 
 These concepts are discussed in depth later in this lesson. UX design can also include working with a UI designer to design wireframes and create prototypes.
@@ -48,7 +51,7 @@ The UX designer has one goal: to ensure the website/app is easy to understand an
 
 A product that leaves users frustrated, confused or lost doesn't have good UX. The ideal is to have a website/app that looks good and has a useful UI. If an app only looks nice but doesn't work as you intend it to, there's no point in using it.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![A UX designer defining user experience](../../images/design-1/UX-Design/IntroductiontoUXdesign-2.jpeg)
 
 _Figure 2: A UX designer defining user experience._
 
@@ -78,21 +81,21 @@ What are the reasons and motivations behind this decision? It could be because o
 ### Examples of qualitative data
 
 - Q: Was the checkout process effortless?
-- A: No, I found the process frustrating because I couldn’t find the 'add to cart' button.
+- - A: No, I found the process frustrating because I couldn’t find the 'add to cart' button.
 - Q: Was it easy for you to get in touch with us?
-- A: Yes, the contact form made it easy to submit a query, and the confirmation message I received gave me peace of mind.
+- - A: Yes, the contact form made it easy to submit a query, and the confirmation message I received gave me peace of mind.
 
 ## User personas and storyboards
 
 Target audience research will assist in the creation of user personas. These personas are fictional, but they represent users' needs, goals and lifestyles to help you better understand your audience and identify where the users’ needs lie.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![User Persona example](../../images/design-1/UX-Design/IntroductiontoUXdesign-3.jpeg)
 
 _Figure 3: An example of a user persona._
 
 Storyboards take these user personas and place them in real-life situations to determine how a person could use your product and where they will interact with it.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Storyboard example](../../images/design-1/UX-Design/IntroductiontoUXdesign-4.jpeg)
 
 _Figure 4: Storyboard of Audi’s customer engagement (source: slickandquick.com)._
 
@@ -104,7 +107,7 @@ Information should be laid out logically so that content across the website or a
 
 Humans crave structure and will interact much better with a system that is intuitive and sensible.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Information Architecture](../../images/design-1/UX-Design/IntroductiontoUXdesign-5.png)
 
 _Figure 5: Information on the architecture of a simple website._
 
@@ -112,11 +115,11 @@ _Figure 5: Information on the architecture of a simple website._
 
 Mapping the basic user journey and route a user will follow - from beginning to end - when using your product is the user flow and helps you optimise and plan the user's process and experience.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![User flow example](../../images/design-1/UX-Design/IntroductiontoUXdesign-6.png)
 
 _Figure 6: User flow beginning (planning) stage (Source: [careerfoundry.com](http://careerfoundry.com/))._
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![User flow end stage](../../images/design-1/UX-Design/IntroductiontoUXdesign-7.png)
 
 _Figure 7: User flow end stage (Source: [careerfoundry.com](http://careerfoundry.com/))._
 
@@ -124,20 +127,20 @@ _Figure 7: User flow end stage (Source: [careerfoundry.com](http://careerfoundry
 
 Wireframes and prototypes are things that UI designers usually work on with UX designers and are the beginning stages of the visual design process. This topic will be covered more thoroughly later on in the programme.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![A simple wireframe](../../images/design-1/UX-Design/IntroductiontoUXdesign-8.png)
 
 _Figure 8: An example of a simple wireframe._
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Wireframes with user flow](../../images/design-1/UX-Design/IntroductiontoUXdesign-9.png)
 
 _Figure 9: An example of wireframes within a user flow._
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+
 
 | WATCH<br><br>Video: [What is UX Design? (Video Guide](https://www.youtube.com/watch?v=v6n1i0qojws) (5m 6s) by CareerFoundry. <br><br> Video: [[UX Design: 1 Overview](https://www.youtube.com/watch?v=v6n1i0qojws) (13m). |
 | :-: |
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title") | READ<br><br>Article: [UX Design Defined](https://www.invisionapp.com/design-defined/ux-design/) (5m). | | :-: |
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title") | READ<br><br>Article: [UX Design Defined](https://www.invisionapp.com/design-defined/ux-design/) (5m). 
 
 | <br><br>Article: [All Design is UX Design](https://www.invisionapp.com/inside-design/all-design-is-ux-design/) (5m). |
 | :-: |

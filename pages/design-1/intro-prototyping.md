@@ -15,7 +15,7 @@ This lesson will look at what prototyping is and why designers must complete thi
 
 A prototype is a mid to high fidelity design deliverable of the final UI of your website or app. It is also functional and should show how the website would function.
 
-**A prototype is also:**
+A prototype is also:
 
 - a model or sample of a new product
 
@@ -31,7 +31,7 @@ A prototype is a mid to high fidelity design deliverable of the final UI of your
 
 - a process that should be seen as a time-saving tool.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Example of high-fidelity prototype](../../images/design-1/Prototyping/Introductiontoprototyping-1.gif)
 
 _Figure 1: An example of a high-fidelity prototype created in Adobe XD (Source: letsxd.com)_
 
@@ -41,11 +41,11 @@ We have spoken about the different levels of fidelity with regards to wireframin
 
 Below we will explore the following levels of fidelity:
 
-- Low fidelity - paper.
+1. Low fidelity - paper.
 
-- Medium fidelity - clickable.
+2. Medium fidelity - clickable.
 
-- High fidelity - advanced.
+3. High fidelity - advanced.
 
 ### Low fidelity - paper
 
@@ -53,7 +53,7 @@ This is the most basic prototype level, with minimal detail. It is usually done 
 
 The advantage of this type of prototype is that there is no visual aspect to distract from the project outlook. It is a very accessible way to prototype, as everyone can draw! It's also quick to set up.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Paper prototyping](../../images/design-1/Prototyping/Introductiontoprototyping-2.jpeg)
 
 _Figure 2: Paper prototyping_
 
@@ -63,7 +63,7 @@ This process usually consists of wireframe designs with limited visual design. T
 
 It is a lesser-used level of the prototype but still brings useful feedback to the project. A medium-fidelity prototype should essentially demonstrate the screen layouts and have basic clickability and navigation between screens.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Medium fidelity prototype example](../../images/design-1/Prototyping/Introductiontoprototyping-3.gif)
 
 _Figure 3: An example of a low to medium fidelity prototype (Source: Jad Limcaco)_
 
@@ -75,11 +75,11 @@ It's a great way to present final designs and concepts for clients, as it looks 
 
 This version should be almost fully functional, with as many features, motions, functionality and visual elements as possible.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![High-fidelity prototype](../../images/design-1/Prototyping/Introductiontoprototyping-4.png)
 
 _Figure 4: High fidelity prototyping by Jae-seong Jeong (Source: dribbble.com/johnjbrown)_
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![High-fidelity prototyping](../../images/design-1/Prototyping/Introductiontoprototyping-5.gif)
 
 _Figure 5: High fidelity prototyping by Jae-seong Jeong (Source: dribbble.com/johnjbrown)_
 
@@ -89,7 +89,7 @@ So, which one should you use? There is no one-size-fits-all solution. Each situa
 
 When you have done more work on the product's functionality than the UI, medium-fidelity will work well. However, when the process has advanced to where your designs are close to a final phase, a high-fidelity prototype will probably showcase the product best.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Various wireframes](../../images/design-1/Prototyping/Introductiontoprototyping-6.jpeg)
 
 _Figure 6: Low, medium and high-fidelity prototypes_
 
@@ -124,13 +124,11 @@ Remember that feedback is your biggest asset in the design process. It allows fo
 |  | <br>READ<br>[What is Prototyping?](https://www.interaction-design.org/literature/topics/prototyping)(p.168-190) (3 hours) |
 | :-: | :-- |
 
-| WATCH<br><br>Video: [Rapid Prototyping in UX design | Importance of Prototyping](https://www.youtube.com/watch?v=Krw_GQfoYG0) (2m 25s) |
-| :-: | --- |
+| WATCH<br><br>Video: [Rapid Prototyping in UX design - Importance of Prototyping](https://www.youtube.com/watch?v=Krw_GQfoYG0) (2m 25s)|
+| :-: |
 
 | <br><br>Video: [UX Design: 6 Paper Prototyping](https://www.linkedin.com/learning/ux-design-6-paper-prototyping/benefits-of-paper-prototyping?u=43268076) (24m) |
 | :-: |
-
-## Lesson Task - Introduction to prototyping
 
 ## Lesson Task
 
