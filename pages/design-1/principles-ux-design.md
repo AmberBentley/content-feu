@@ -121,7 +121,6 @@ Clarity and simplicity ensure a good user experience. It leads the user on a smo
 
 _Figure 8: A simple, uncluttered flight booking app._
 
-
 | WATCH<br><br>Video: [What the #$%@ is UX Design?](https://www.youtube.com/watch?v=Ovj4hFxko7c&feature=emb_logo) (5m 30s) |
 | :-: |
 
