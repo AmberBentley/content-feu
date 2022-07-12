@@ -13,10 +13,6 @@ entries:
             url: /project-methodology/module-1.html
             output: web, pdf
 
-          - title: Front-end Practice
-            url: /project-methodology/front-end-practice.html
-            output: web, pdf
-
           - title: SDLC
             url: /project-methodology/sdlc.html
             output: web, pdf
@@ -27,5 +23,13 @@ entries:
 
           - title: Kanban and User Stories
             url: /project-methodology/kanban-user-stories.html
+            output: web, pdf
+
+          - title: Gantt Charts
+            url: /project-methodology/gantt.html
+            output: web, pdf
+
+          - title: Trello
+            url: /project-methodology/trello.html
             output: web, pdf
 # Copyright 2021 Google LLC
