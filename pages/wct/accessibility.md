@@ -61,6 +61,6 @@ If you search for a web topic on Google, it’s likely that W3Schools will rank 
 
 ### Activity 1
 
-READ
+**READ**
 
 Chapters: 10, 11, 12, and 13 from Don’t Make Me Think by Steve Krug (2h)

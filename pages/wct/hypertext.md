@@ -76,24 +76,20 @@ In summary, here is what the Domain Name System offers:
 
 <hr>
 
-<hr>
-
 ## Activities
 
 ### Activity 1
 
 **READ**
 
-Interview: Vint Cerf: We Knew What We Were Unleashing on the World (30m)  
+Interview: [Vint Cerf: We Knew What We Were Unleashing on the World](https://www.wired.com/2012/04/epicenter-isoc-famers-qa-cerf/) (30m)  
 Vint Cerf talks about the history of how TCP/IP came to be the standard for network communication.
 
 ### Activity 2
 
 **READ**
 
-Article: Dec. 9, 1968: The Mother of All Demos (30m)
-
-<hr>
+Article: [Dec. 9, 1968: The Mother of All Demos](https://www.wired.com/2010/12/1209computer-mouse-mother-of-all-demos/) (30m)
 
 <hr>
 
