@@ -30,9 +30,7 @@ We suggest using either Firefox or Chrome when developing with JavaScript.
 
 In the video below, we'll look at logging variable values using the console.
 
- <div style="padding:42.19% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/443132927?h=bb68f831f5&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Console Commands"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-[Vimeo link](https://vimeo.com/443132927/bb68f831f5) for the above video.
+<iframe src="https://player.vimeo.com/video/443132927?h=bb68f831f5&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="2560" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Console Commands"></iframe>
 
 ## ES6
 
@@ -42,11 +40,11 @@ ES6, or ES2015, was released in 2015 and introduced many improvements to the lan
 
 ES6 is often, somewhat confusingly, used to refer to the modern versions of JavaScript.
 
-You can check the browser support for a feature (JavaScript and CSS) by using caniuse.com
+You can check the browser support for a feature (JavaScript and CSS) by using [caniuse.com](https://caniuse.com/)
 
-### const and let
+## const and let
 
-ES6 introduced the const and let keywords for declaring variables.
+ES6 introduced the <b>const</b> and <b>let</b> keywords for declaring variables.
 
 A key difference between const and let is that let can have its value reassigned, whereas const cannot.
 
@@ -57,20 +55,15 @@ const count = 1;
 ```
 
 We cannot give it a different value. We cannot now do this, for example:
-
 ```js
 count = 2;
 ```
 
-There are more details on const and let in the Scrimba below.
+[There are more details on const and let in this Scrimba video.](https://scrimba.com/scrim/cDkbEWTM)
 
 The cast begins with a brief look at the undefined value.
 
-LINK
-
-Scrimba for the above video.
-
-Strings using backticks
+## Strings using backticks
 
 Previously, we've seen that we can create strings using double or single quotes, and that you should pick one and use it consistently (for any Noroff code use double quotes).
 
@@ -78,18 +71,16 @@ There is another way to create strings - with backticks, which is this character
 
 Using backticks:
 
-    Provides an easy way to split strings across lines.
-
-    Provides a cleaner way to embed variables in strings.
+- Provides an easy way to split strings across lines. 
+- Provides a cleaner way to embed variables in strings.
 
 On many keyboards the key is situated top left.
 
-LINKS
+<iframe src="https://player.vimeo.com/video/443988703?h=fa6ab718df&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="2560" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Creating strings with backticks (template literals)"></iframe>
 
-Vimeo for the above video.  
-Code from the video.
+[Code](https://github.com/NoroffFEU/creating-strings-with-backticks) from the video.
 
-Accessing object properties using brackets
+## Accessing object properties using brackets
 
 Previously we have accessed object properties using dot notation – using a full stop.
 
@@ -100,23 +91,17 @@ const pet = { type: "dog" };
 console.log(pet["type"]);
 ```
 
-The Scrimba below explores this further.
+[This Scrimba video explores this further.](https://scrimba.com/scrim/cMgvkECv)
 
-LINK
-
-Scrimba for the above video.
-
-Functions inside objects
+## Functions inside objects
 
 We've previously seen objects with properties having string, number, or Boolean values.
 
-Objects can also have functions as properties. These are often called methods.
+Objects can also have functions as properties. These are often called <b>methods</b>.
 
-LINK
+[Scrimba video.](https://scrimba.com/c/cMgvJKHK)
 
-Scrimba for the above video.
-
-Imports/exports
+## Imports/exports
 
 We can split our code up into files using modules.
 
@@ -124,63 +109,58 @@ To import code from another file, we need to export it first.
 
 There are two kinds of exports:
 
-    Named exports
+1.	Named exports
+2.	Default exports.
 
-    Default exports.
+### Named exports
 
-Named exports
+Named exports are exported with the <b>export</b> keyword and imported using their name between braces.
 
-Named exports are exported with the export keyword and imported using their name between braces.
+![Named exports](../../images/js/1-1-namedexports.png)
 
 One file can contain many named exports.
 
-You can alias a named export using the as keyword.
+You can alias a named export using the <b>as</b> keyword.
 
-Default exports
+![Named exports](../../images/js/1-1-namedexports2.png)
+ 
+### Default exports
 
-Default exports are exported with the export default keywords and imported without braces.
+Default exports are exported with the <b>export default</b> keywords and imported without braces.
+
+![Default exports](../../images/js/1-1-defaultexports.png)
 
 When you import a default export, you can import it using any name, the name you use in the import is just an alias.
 
-Navigating directories
+### Navigating directories
 
-    Go up a folder
-    ../ - go back (or up) one directory (folder) from the current directory.
-    You can use several of these, the below will go back three folders:
-    ../../../
+**- Go up a folder**
 
-    Look in the current folder
-    ./ - look in the current folder for the path
+../ - go back (or up) one directory (folder) from the current directory. 
+You can use several of these, the below will go back three folders:
+../../../
 
+**- Look in the current folder**
+
+./ - look in the current folder for the path
 Using imports and exports
 
 The following video looks at using imports and exports.
 
-LINK
+<iframe src="https://player.vimeo.com/video/457199012?h=f3e2f37cfe&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="2560" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Imports and exports with modules"></iframe>
 
-Vimeo for the above video.
-
-Import/export example
+**Import/export example**
 
 The following video converts a small existing project to use modules, splitting the code up using imports and exports.
 
-LINKS
+<iframe src="https://player.vimeo.com/video/456346771?h=61a3fcad19&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="2560" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Import and export example"></iframe>
 
-Vimeo for the above video.  
-Code from the video.
+[Code](https://github.com/NoroffFEU/import-export-example) from the video.
 
-Activity
+## Lesson Task
 
-WATCH
+### Brief
 
-Video: ECMAScript, TC39, and the History of JavaScript (11m 32s)
+There are practise questions in the master branch of [this repo](https://github.com/NoroffFEU/lesson-task-js1-module1-lesson1).
 
-Lesson Task - Introductory concepts
-
-Lesson Task
-
-Brief
-
-There are practise questions in the master branch of this repo.
-
-Attempt to answer the questions before checking them against the answers in the script.js file in the answer branch of the repo.
+Attempt to answer the questions before checking them against the answers in the script.js file in the [answer branch](https://github.com/NoroffFEU/lesson-task-js1-module1-lesson1/tree/answer) of the repo.

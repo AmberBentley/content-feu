@@ -1234,6 +1234,10 @@ h4.panel-title {
     margin: 10px;
   }
 
+  iframe {
+    width: 100%;
+  }
+
   /* This hides sub-items from table of contents */
   #toc ul li ul {
     display: none;
