@@ -6,6 +6,7 @@ sidebar: cms
 permalink: cms/site-administration.html
 folder: cms
 ---
+
 ## Introduction
 
 To get to the administration page for your website, you can add ‘wp-admin’ to the end of the URL. If you aren’t logged in, you’ll be asked to do so.
@@ -16,18 +17,15 @@ All content creation and management occur from the admin panel. It’s worth rem
 
 There are three content types. Please click on the tabs below for details:
 
-_Posts_
-When WordPress was developed, a blogging platform and ‘posts’ were the primary content created. 
+_Posts_ When WordPress was developed, a blogging platform and ‘posts’ were the primary content created.
 
 Posts are generally editorial – like blogs - and authors, dates and any tags the author wants to add are assigned to posts. This makes it easy for users to search through posts to find topics and posts from a specific author.
 
-_Pages_
-Pages are typically what you’d expect from a website. Things like home pages, about pages etc. They are static and not connected to authors and dates because they don’t change, and it doesn’t matter who wrote them.
+_Pages_ Pages are typically what you’d expect from a website. Things like home pages, about pages etc. They are static and not connected to authors and dates because they don’t change, and it doesn’t matter who wrote them.
 
 You can have child-parent relationships for pages where a page is a sub-page of another. An example could be an FAQ page that you can click on from the Contact page. Generally, a page is something that you’d find on a menu and isn’t updated often.
 
-_Media_
-Media items like images can be uploaded and are stored on the web host, while data about the media item is stored on the database. The stored data are things like titles and alt text. Media items can be used on different pages and posts across the site.
+_Media_ Media items like images can be uploaded and are stored on the web host, while data about the media item is stored on the database. The stored data are things like titles and alt text. Media items can be used on different pages and posts across the site.
 
 ## Block editor
 
@@ -59,8 +57,9 @@ You can watch the video further if you’re interested and want to learn more ab
 
 **WATCH**
 
-Video: [WordPress 5 Essential Training](https://www.linkedin.com/learning/wordpress-5-essential-training/the-three-main-content-types-of-wordpress?u=43268076)
-2. Content Management (11m)
+Video: [WordPress 5 Essential Training](https://www.linkedin.com/learning/wordpress-5-essential-training/the-three-main-content-types-of-wordpress?u=43268076) 2. Content Management (11m)
+
+<hr>
 
 ## Lesson Task
 

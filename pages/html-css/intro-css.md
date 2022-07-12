@@ -6,15 +6,17 @@ sidebar: html-css
 permalink: html-css/intro-css.html
 folder: html-css
 ---
+
 ## Introduction
-While HTML is used for creating the content of web pages, CSS is used to style web pages. One of the most compelling demonstrations of this is a website called [CSS Zen Garden](http://www.csszengarden.com/). On this site you may apply different CSS styles to fixed HTML content. It is impressive how the entire layout and look of the page can transformed by changing the CSS applied to HTML content (the HTML stays exactly the same). 
+
+While HTML is used for creating the content of web pages, CSS is used to style web pages. One of the most compelling demonstrations of this is a website called [CSS Zen Garden](http://www.csszengarden.com/). On this site you may apply different CSS styles to fixed HTML content. It is impressive how the entire layout and look of the page can transformed by changing the CSS applied to HTML content (the HTML stays exactly the same).
 
 ## Create stylesheet and link to HTML
 
 To begin adding styles to our HTML pages, we need to create a .css file and link it to our HTML files. To connect a .css file to a .html file we use the `<link>` tag in our HTML file. The tag we'd use looks like this:  
 `<link href="css/styles.css" rel="stylesheet">`
 
-The `href` is used to tell the browser where to look for the stylesheet. In this case, look inside the 'css' folder for a file called 'styles.css'. 
+The `href` is used to tell the browser where to look for the stylesheet. In this case, look inside the 'css' folder for a file called 'styles.css'.
 
 We've created a simple example of linking a CSS file to an HTML file in [this repo on GitHub](https://github.com/NoroffFEU/html-css-module1-lesson3).
 
@@ -27,7 +29,7 @@ To style elements you need to use a specific syntax.
 Here is an example:
 
 - First, we state which element(s) we want to style using a selector. In this case the `h1`.
-- Then we use curly braces to group styles together that we're applying to that selector. In this case we're setting the font size to be 20px and the color to be green. 
+- Then we use curly braces to group styles together that we're applying to that selector. In this case we're setting the font size to be 20px and the color to be green.
 - After we've written each style rule, we close the line with a semi-colon so the browser knows we've finished that rule.
 
 ## Selectors
@@ -46,7 +48,7 @@ Generally, the best way to style elements is using a class. Classes can be appli
 
 We can then style the classes we've added to the HTML by referencing them in our CSS file by using a dot followed by the class name:
 
-In the example above, we applied the `content` class to two sections, and added a unique class called `highlighted` to the second section. This illustrates how you can combine classes on your elements. 
+In the example above, we applied the `content` class to two sections, and added a unique class called `highlighted` to the second section. This illustrates how you can combine classes on your elements.
 
 Naming classes clearly is very important. Giving an introductory paragraph in a header the class of `intro` is much more meaningful than `p1`. Remember that other developers will usually need to read and understand your code, so make it as clear as possible.
 
@@ -78,7 +80,7 @@ Now let's say we wanted to style all elements with the class of sale to be red, 
 
 This would be applied to the link in the navigation as well as the span in the main, but what if I wanted the link in the main to have an underline. I've already removed all underlined links in the nav using `nav a`. To specifically target the link in the nav with class of 'sale', we can do the following: `a.sale {}`
 
-This targets each anchor tag that has the class 'sale'. It's important to note that there is no space between `a` and `.sale`. If there were a space, it would select every anchor tag that had a child element with the class `.sale` which in this case wouldn't apply to any elements. 
+This targets each anchor tag that has the class 'sale'. It's important to note that there is no space between `a` and `.sale`. If there were a space, it would select every anchor tag that had a child element with the class `.sale` which in this case wouldn't apply to any elements.
 
 Another combinator we can use is called the adjacent sibling combinator which selects elements which are next to each other in the HTML. To increase the font size of each paragraph that follows an h2, we could use the following: `h2 + p {}`
 
@@ -88,7 +90,7 @@ This styling would only be applied to paragraphs that are siblings (ie. they sha
 
 We can also apply styling by using what is called pseudo-classes, which allow us to use keywords to target elements based on their state. A good example is when a user hovers over an element. Let's say we wanted the navigation links to change when a user hovers over it. We could use the following code (notice the colon between `a` and the keyword `hover): nav a:hover {}`
 
-Other pseudo-classes include `:active` for when a user is busy interacting with the element, for example clicking a button. Another is `:first-child` which targets the first child element inside the chosen parent. 
+Other pseudo-classes include `:active` for when a user is busy interacting with the element, for example clicking a button. Another is `:first-child` which targets the first child element inside the chosen parent.
 
 **READ**
 
@@ -104,24 +106,14 @@ We could add the icon in the HTML in front of the date, but the question we shou
 
 ## Cheat sheet of Selectors and Combinators
 
-Example	What is selected
-`section {}`	`section` elements
-`.highlighted {}`	Elements with a class of `highlighted`
-`#logo {}`	Elements with an ID of `logo`
-`section.highlighted {}`	`section` elements with a class of `highlighted`
-`section .highlighted {}`	Elements with a class of `highlighted` inside of `section` elements
-`section > .highlighted {}`	Elements with a class of `highlighted` that are direct descendants of a `section`
-`section + .highlighted {}`	The first element with a class of `highlighted` after each `section`
-`section, .highlighted {}`	All `section` elements, and all elements with a class of `highlighted`
-`section ~ .highlighted {}`	All elements with a class of `highlighted` that are siblings of a `section`
-`input[type="text"] {}`	`input` elements that have a type of `text`
+Example What is selected `section {}` `section` elements `.highlighted {}` Elements with a class of `highlighted` `#logo {}` Elements with an ID of `logo` `section.highlighted {}` `section` elements with a class of `highlighted` `section .highlighted {}` Elements with a class of `highlighted` inside of `section` elements `section > .highlighted {}` Elements with a class of `highlighted` that are direct descendants of a `section` `section + .highlighted {}` The first element with a class of `highlighted` after each `section` `section, .highlighted {}` All `section` elements, and all elements with a class of `highlighted` `section ~ .highlighted {}` All elements with a class of `highlighted` that are siblings of a `section` `input[type="text"] {}` `input` elements that have a type of `text`
 
 ## Cascading, Specificity and Inheritance
 
-- CSS stands for Cascading Style Sheets. 
+- CSS stands for Cascading Style Sheets.
 - Cascading is the order in which we write CSS, going from top to bottom.
 
-In the following example, two conflicting rules are applied, but which styling should the browser apply? Since CSS runs from top to bottom, it cascades. Thus, the browser will choose the styling applied last and make the background blue. 
+In the following example, two conflicting rules are applied, but which styling should the browser apply? Since CSS runs from top to bottom, it cascades. Thus, the browser will choose the styling applied last and make the background blue.
 
 ### Specificity
 
@@ -130,8 +122,8 @@ In the above example we have two selectors that have the same level of specifici
 In the order of specificity:
 
 - A tag selector is the least specific.
-- Then a class as it can be applied to multiple elements. 
-- Then an ID as it can only be applied to one element. 
+- Then a class as it can be applied to multiple elements.
+- Then an ID as it can only be applied to one element.
 
 The more specific selector will be the one that gets chosen. Inline styling in the HTML is the most specific you can get, but this shouldn't be added into the HTML and should only be added using JavaScript, which we will get to in the JavaScript course.
 
@@ -143,11 +135,15 @@ ID: 100 Class, attribute, pseudo-class: 10
 Type Selector: 1
 ```
 
+<hr>
+
 ## Activities
 
 **WATCH**
 
 [This tutorial video on CSS.](https://scrimba.com/scrim/cPJpJWCq?pl=paaBbTa) (12m 20s)
+
+<hr>
 
 ## Lesson Task
 

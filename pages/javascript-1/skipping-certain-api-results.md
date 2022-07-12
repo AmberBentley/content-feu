@@ -6,7 +6,9 @@ sidebar: javascript-1
 permalink: javascript-1/skipping-certain-api-results.html
 folder: javascript-1
 ---
+
 ## Introduction
+
 In this lesson we will look at:
 
 - Inspecting the results of API calls.
@@ -33,12 +35,15 @@ We can do this using the **continue** keyword inside a for loop.
 **continue** causes the loop not to execute the code in its current iteration and jumps to the next iteration.
 
 Like **break**, continue cannot be used inside a forEach function.
+
 - **break** - exit the loop entirely.
 - **continue** - skip this particular iteration of the loop.
 
 <iframe src="https://player.vimeo.com/video/452856488?h=7bd3c974a7&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="2560" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Skipping certain objects when looping over an array of objects"></iframe>
 
 [Code](https://github.com/NoroffFEU/get-requests-skipping-certain-results) from the video.
+
+<hr>
 
 ## Lesson Task
 

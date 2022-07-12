@@ -6,6 +6,7 @@ sidebar: javascript-1
 permalink: javascript-1/html-in-functions.html
 folder: javascript-1
 ---
+
 ## Introduction
 
 In this lesson we will look at:
@@ -24,7 +25,7 @@ In the code below, name is the parameter. (It's up to the developer to decide wh
 
 ```js
 function printName(name) {
-   console.log(name); 
+  console.log(name);
 }
 ```
 
@@ -41,8 +42,8 @@ So, the console log inside the function will display Sofie in the console.
 We want to pass different values into a function so that the code inside can perform the same actions on different values (data).
 
 ![Function arguments](../../images/js/1-4-functionarguments.png)
- 
-[This Scrimba  takes a further look at function arguments.](https://scrimba.com/c/crqy9NuP)
+
+[This Scrimba takes a further look at function arguments.](https://scrimba.com/c/crqy9NuP)
 
 ## Returning values from functions
 
@@ -67,6 +68,8 @@ A common task you will perform when fetching data from APIs is how to use functi
 - The string is returned from the function and assigned to a variable.
 - The variable is assigned to the innerHTML property of an existing HTML element.
 
+<hr>
+
 ## Activities
 
 **WATCH**
@@ -74,6 +77,8 @@ A common task you will perform when fetching data from APIs is how to use functi
 The below tutorial video on HTML in Loops (1h 51m).
 
 <iframe src="https://player.vimeo.com/video/698117262?h=a442c4c07f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="HTML in Loops"></iframe>
+
+<hr>
 
 ## Lesson Task
 

@@ -83,6 +83,8 @@ WATCH
 
 The below video introducing you to GitHub and Visual Studio Code. (17m 12s)
 
+<hr>
+
 ## Lesson Task
 
 ### Goal

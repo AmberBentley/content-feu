@@ -74,20 +74,28 @@ In summary, here is what the Domain Name System offers:
 - All mapping is stored in a database
 - The DNS database is distributed
 
+<hr>
+
+<hr>
+
 ## Activities
 
 ### Activity 1
 
-READ
+**READ**
 
 Interview: Vint Cerf: We Knew What We Were Unleashing on the World (30m)  
 Vint Cerf talks about the history of how TCP/IP came to be the standard for network communication.
 
 ### Activity 2
 
-READ
+**READ**
 
 Article: Dec. 9, 1968: The Mother of All Demos (30m)
+
+<hr>
+
+<hr>
 
 ## Lesson Task
 
@@ -99,9 +107,7 @@ Familiarize yourself with IP addresses.
 
 Try using an IP address instead of just typing the domain name of a website into your browser. Go to [https://dnschecker.org](https://dnschecker.org) and find the IP address of a website you regularly use. Then copy the IP address and paste it into your browser.
 
-INFO
-
-Hint: Remember to check whether the website uses http or https.
+> INFO Hint: Remember to check whether the website uses http or https.
 
 ### Level 2 Process
 

@@ -384,6 +384,8 @@ products.sort(function (productA, productB) {
 
 This method can be used to sort arrays of objects based on any comparible property values.
 
+<hr>
+
 ## Lesson Task
 
 There are practice questions in the master branch of <a href="https://github.com/NoroffFEU/lesson-task-pf-module2-lesson3" target="_blank">this repo</a>.

@@ -55,6 +55,8 @@ If you search for a web topic on Google, it’s likely that W3Schools will rank 
 
 > Mac and Linux users: A warning about installing Node Please NEVER use the sudo command to install Node or any npm package as this will cause a lot of permission problems and is difficult to fix.
 
+<hr>
+
 ## Activity
 
 ### Activity 1

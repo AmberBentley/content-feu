@@ -131,10 +131,12 @@ A good wireframe can give developers a clear idea of what elements should be cod
 | :-: |
 
 | <br>Video: [How to wireframe a website](https://www.youtube.com/watch?v=2hQA1ZsGAH8) (13m 50s) |
-| :-: |
+| :--------------------------------------------------------------------------------------------: |
 
 | READ<br><br>Article: [Website and App wireframes for creating a solid UX Design](https://www.invisionapp.com/inside-design/wireframe-examples/) |
 | :-: |
+
+<hr>
 
 ## Lesson Task
 

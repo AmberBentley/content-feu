@@ -286,6 +286,8 @@ This video looks at the assignment operator (=) versus the comparison operator (
 
 ---
 
+<hr>
+
 ## Lesson Task
 
 There are practice questions in the master branch of <a href="https://github.com/NoroffFEU/lesson-task-pf-module1-lesson3" target="_blank">this repo</a>.

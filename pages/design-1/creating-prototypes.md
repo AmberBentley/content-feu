@@ -189,6 +189,8 @@ _Fig.12: Share mode_
 | <br>Video: [Free Figma UX Design UI Essential course](https://www.youtube.com/watch?v=kbZejnPXyLM) (2h 57m) by Bring your own Laptop. |
 | :-: |
 
+<hr>
+
 ## Lesson Task
 
 ### Goal

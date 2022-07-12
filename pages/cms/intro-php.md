@@ -6,9 +6,10 @@ sidebar: cms
 permalink: cms/intro-php.html
 folder: cms
 ---
-## Introduction
-WordPress is written with PHP, so it’s worth knowing PHP’s basics to work with WordPress files.
 
+## Introduction
+
+WordPress is written with PHP, so it’s worth knowing PHP’s basics to work with WordPress files.
 
 The first thing to note about PHP is that it’s a server-side scripting language, so it needs to run on a server which is why we have Xampp (or another local server) running when developing locally.
 
@@ -62,6 +63,7 @@ echo $age;
 ```
 
 ## Concatenation
+
 If we want to combine variables and HTML, we could use concatenation. To do this, we use the dot operator (.). The dots act like plus signs in JavaScript.
 
 Let’s say we wanted to add a line to the page that says “John Doe is 35 years old”. We could write the following:
@@ -76,13 +78,15 @@ echo "<p>" . $name . " is " . $age . " years old</p>";
 
 See how we use ‘.’ to concatenate variables and write HTML directly into the echo to build the HTML page.
 
-## Activity 
+## Activity
 
 **WATCH**
 
 There’s plenty to learn about PHP, but for now, these are the absolute basics and will help you better understand what’s happening in WordPress’s PHP files.
 
 If you would like to learn more about PHP, you can watch the following video: [PHP Essential Training](https://www.linkedin.com/learning/php-essential-training-2/introduction?u=43268076)
+
+<hr>
 
 ## Lesson Task
 
@@ -92,10 +96,10 @@ Get some experience working with PHP. Having a basic understanding of PHP will h
 
 ### Level 1 Process
 
-1.	Turn on your local server.
-2.	Go to your ‘htdocs’ folder and create a folder called ‘cms-task2-1.’
-3.	Inside this folder create an index.php file and open it in your browser as it runs on your local server. The file path will probably be localhost/cms-task2-1/index.php, but it depends on which local server you’re running.
-4.	Open index.php in your code editor.
-5.	Create a basic HTML framework, and add PHP tags into the body of the page.
-6.	Create variables for two numbers and add them together and then echo the result onto the page.
-7.	Create a variable for the user’s name and echo that with the string “Hello ____. Welcome back”. 
+1. Turn on your local server.
+2. Go to your ‘htdocs’ folder and create a folder called ‘cms-task2-1.’
+3. Inside this folder create an index.php file and open it in your browser as it runs on your local server. The file path will probably be localhost/cms-task2-1/index.php, but it depends on which local server you’re running.
+4. Open index.php in your code editor.
+5. Create a basic HTML framework, and add PHP tags into the body of the page.
+6. Create variables for two numbers and add them together and then echo the result onto the page.
+7. Create a variable for the user’s name and echo that with the string “Hello \_\_\_\_. Welcome back”.

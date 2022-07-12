@@ -190,6 +190,8 @@ The official docs reflect the latest version of Sass available in Dart Sass. Bec
 
 Be sure to attempt the lesson task.
 
+<hr>
+
 ## Lesson Task
 
 ### Brief

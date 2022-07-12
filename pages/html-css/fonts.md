@@ -6,6 +6,7 @@ sidebar: html-css
 permalink: html-css/fonts.html
 folder: html-css
 ---
+
 ## Introduction
 
 Most websites rely on text to communicate with their users. It is therefore important to use strong fonts that you’re confident will load correctly.
@@ -39,9 +40,10 @@ To make sure our font works on a user's computer, we need to load the font to th
 We use the @font-face rule to load a font to the browser. The font file can be local to the stylesheet from which it is being called, or it can be on another server.
 
 The important things to get right are:
+
 - following the syntax
 - ensuring the file path is correct
-- setting the font before you use it 
+- setting the font before you use it
 
 Thus, it is always a good idea to have the @font-face rule at the top of your stylesheet.
 
@@ -52,7 +54,7 @@ We use the `font-family` property to set the font's name (note that this isn't a
 We can also load fonts to the browser using stylesheets which have pre-written @font-face rules for us to use. Google Fonts is a popular resource for fonts and they give us the stylesheet we can link to from our HTML files in order to load the font to the browser.
 
 ![Google Fonts](../../images/htmlcss/1-4-1.jpg)
- 
+
 It is very important when adding these external stylesheets in your HTML, that you place them above your own stylesheet. Otherwise you will reference a font in your stylesheet before the browser has loaded the font.
 
 ## Font-sizes
@@ -82,11 +84,15 @@ Font sizes are managed using the `font-size` property. By default, your browser 
 - `rem` is calculated based on the `<html>` element and not the parent element.
 - Using this above code would mean both the outer and nested span element would be set to be 24px.
 
+<hr>
+
 ## Activities
 
 **WATCH**
 
 [This tutorial video on the @font-face rule.](https://scrimba.com/scrim/cNq6q8hq?pl=paaBbTa) (4m)
+
+<hr>
 
 ## Lesson Task
 

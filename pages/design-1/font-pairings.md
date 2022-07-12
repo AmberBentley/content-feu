@@ -211,7 +211,7 @@ Choose your font and click on the + icon. A great way to preview your font and t
 
 _Figure 11. Applying a sample of text to all fonts (Google Fonts, 2020)_
 
-The embed tab shows the code to use. Copy and paste this code into your HTML and CSS files. There is link code for your font, which you can use in the  /head/ tag of your html page. There is a standard option or import option.
+The embed tab shows the code to use. Copy and paste this code into your HTML and CSS files. There is link code for your font, which you can use in the /head/ tag of your html page. There is a standard option or import option.
 
 ![Embed tab](../../images/design-1/Fonts/Fontpairingsusabilityandthestyletile-12.png)
 
@@ -241,6 +241,8 @@ _Figure 13. The decovar font in different variations._
 
 |  | INFO<br><br>If these concepts seem unfamiliar at the moment, don’t feel discouraged, it will be discussed later in more detail in the HTML and CSS course. |
 | :-: | :-- |
+
+<hr>
 
 ## Activities
 

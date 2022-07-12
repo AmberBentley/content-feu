@@ -178,6 +178,8 @@ WATCH
 
 The below video (2m 44s):
 
+<hr>
+
 ## Lesson Task
 
 ### Goal

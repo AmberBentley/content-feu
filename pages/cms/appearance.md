@@ -6,6 +6,7 @@ sidebar: cms
 permalink: cms/appearance.html
 folder: cms
 ---
+
 ## Introduction
 
 While posts and pages are all about content, they aren’t very focused on how that content gets displayed to the user; this is set by the theme you choose.
@@ -30,9 +31,9 @@ To update the navigation for your website, you can go to the ‘Menus’ section
 
 You can change the value of the text that appears in the links. You can create submenus by merely dragging the menu item to the right under its parent element.
 
-**WATCH**
-Video: [WordPress 5 Essential Training: Site Administration](https://www.linkedin.com/learning/wordpress-5-essential-training-site-administration/site-identity?u=43268076)
-2. Configuration with the customizer
+**WATCH** Video: [WordPress 5 Essential Training: Site Administration](https://www.linkedin.com/learning/wordpress-5-essential-training-site-administration/site-identity?u=43268076) 2. Configuration with the customizer
+
+<hr>
 
 ## Lesson Task
 

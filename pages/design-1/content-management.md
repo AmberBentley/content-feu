@@ -322,13 +322,15 @@ Now that you have a clear idea of what to look for with regards to website conte
 
 ## In summary:
 
--  Keep your design choices consistent across all platforms, forms, and pages.
--  Decide on an image and continue with that throughout.
--  Make sure that icons are similar in style and provide clarity on what they represent.
--  Call-to-action buttons should stand out and carry a definite action.
--  Forms should be short and easy to complete with a validation message telling the user if they were successful or not.
--  Colour should evoke the right emotion.
--  Fonts should be easy to read and assist all other elements in expressing the brand message to the online user.
+- Keep your design choices consistent across all platforms, forms, and pages.
+- Decide on an image and continue with that throughout.
+- Make sure that icons are similar in style and provide clarity on what they represent.
+- Call-to-action buttons should stand out and carry a definite action.
+- Forms should be short and easy to complete with a validation message telling the user if they were successful or not.
+- Colour should evoke the right emotion.
+- Fonts should be easy to read and assist all other elements in expressing the brand message to the online user.
+
+<hr>
 
 ## Activities
 
@@ -357,6 +359,8 @@ Now that you have a clear idea of what to look for with regards to website conte
 | WATCH<br><br>Video: [Form Design in Figma with Interactive Components](https://www.youtube.com/watch?v=ZWwE0GWEXDc&t=184s) (36m 32s) by DesignCourse. |
 | :-: |
 
+<hr>
+
 ## Lesson Task
 
 ### Goal
@@ -369,37 +373,37 @@ The Winery is the name of the company that contacted you for the design of their
 
 ### Key demographics and psychographics:
 
--  Age range: 30 – 40-year-old
--  Gender: 40% male, 60% female
--  The audience loves socialising with friends and family.
--  They like to shop online and buy most non-essential items online.
--  Feel loyalty to brands with values similar to theirs.
+- Age range: 30 – 40-year-old
+- Gender: 40% male, 60% female
+- The audience loves socialising with friends and family.
+- They like to shop online and buy most non-essential items online.
+- Feel loyalty to brands with values similar to theirs.
 
 ### Some challenges:
 
--  Struggle to find good quality wine that would age well.
+- Struggle to find good quality wine that would age well.
 
 ### Preferred channels:
 
 - Follow lifestyle influencers’ accounts on Instagram.
--  Enjoy watching YouTube videos about wine making.
+- Enjoy watching YouTube videos about wine making.
 
 ### Preferred content types:
 
--  Social media posts.
--  Event marketing.
--  Videos.
+- Social media posts.
+- Event marketing.
+- Videos.
 
 ### For this task create the following design elements:
 
--  Find photos that would speak to the target audience and showcase the brand’s products.
--  Create a colour palette for the brand.
--  Choose some fonts that will relate to the target audience and that are relevant to the brand.
--  Find icons that are informative and will assist the online user to buy products online. These can be a search, cart, location, message and contact for example.
--  Create a CTA for the online user to ‘add to cart’.
--  Create a page (1920 x 1080px) in Adobe XD/Figma.
--  Create a grid and place the design elements neatly on the page.
--  Make sure your elements are properly aligned and spaced out evenly. Each element should have its own space on the page.
+- Find photos that would speak to the target audience and showcase the brand’s products.
+- Create a colour palette for the brand.
+- Choose some fonts that will relate to the target audience and that are relevant to the brand.
+- Find icons that are informative and will assist the online user to buy products online. These can be a search, cart, location, message and contact for example.
+- Create a CTA for the online user to ‘add to cart’.
+- Create a page (1920 x 1080px) in Adobe XD/Figma.
+- Create a grid and place the design elements neatly on the page.
+- Make sure your elements are properly aligned and spaced out evenly. Each element should have its own space on the page.
 
 ## Bibliography
 

@@ -6,6 +6,7 @@ sidebar: javascript-1
 permalink: javascript-1/dom-events.html
 folder: javascript-1
 ---
+
 ## Introduction
 
 In this lesson we will look at:
@@ -43,8 +44,8 @@ The video below is an introduction to DOM events and the click event in particul
 ## The remainder operator
 
 The remainder operator %, sometimes referred to as the modulus operator, returns the remaining integer value after dividing two integers:
-```js
 
+```js
 const remainder = 5 % 2;
 // remainder will equal 1
 ```
@@ -66,6 +67,8 @@ In the next a video, a setTimeout function is used to mimic a loading state when
 <iframe src="https://player.vimeo.com/video/448278416?h=ad6d582ef7&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="2560" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="onchange event - mimicing a loading state"></iframe>
 
 [Code](https://github.com/NoroffFEU/dom-events-onchange-event/tree/extra) from the video.
+
+<hr>
 
 ## Lesson Task
 

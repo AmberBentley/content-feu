@@ -6,6 +6,7 @@ sidebar: javascript-1
 permalink: javascript-1/single-api-results.html
 folder: javascript-1
 ---
+
 ## Introduction
 
 In this lesson, we examine fetching and displaying a single result from an API call. We also look at filtering data using the filter() method.
@@ -59,6 +60,8 @@ The video below builds on the one above, adding data from an API call and moving
 The find method is similar to the filter method, though it only returns a single item (or undefined) rather than an array of items.
 
 [Scrimba video](https://scrimba.com/scrim/cVvLZLhp)
+
+<hr>
 
 ## Lesson Task
 

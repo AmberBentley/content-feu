@@ -11,7 +11,7 @@ folder: design-1
 
 Planning and structuring when placing elements on a web page do not only achieve an appealing design. These tasks also help the online user to comprehend information. In this lesson, we will discuss the principles of layout/composition and have a look at the anatomy of a grid structure.
 
-|  NOTE<br><br>This lesson contains 4 activities for your completion. 
+| NOTE<br><br>This lesson contains 4 activities for your completion.
 
 ## Basics of layout/composition
 
@@ -195,6 +195,8 @@ _Figure 19. An example of a modular grid._
 
 Grids are everywhere you look. Our whole world is built on grids since they add structure to art, design, and our daily lives. With time and experience, you can learn to work outside the grid. But before you can break the rules, you need to know them. Often when designers know how to break the rules, they manage to create art that would set them apart in the industry of design.
 
+<hr>
+
 ## Activities
 
 ### Activity 1
@@ -221,6 +223,8 @@ Grids are everywhere you look. Our whole world is built on grids since they add 
 
 | WATCH<br><br>Video course: [Figma Essential Training: The Basics](https://www.linkedin.com/learning/figma-essential-training-the-basics/the-basics-of-figma?u=43268076) (1h 37m) by Brian Wood. |
 | :-: |
+
+<hr>
 
 ## Lesson Task
 

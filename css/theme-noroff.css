@@ -138,3 +138,7 @@ margin-top:20px;
 .previousSubjects {
   display: none !important;
 }
+
+hr {
+  border: 1px solid #ff2f02;
+}
