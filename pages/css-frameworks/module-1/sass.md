@@ -2,58 +2,138 @@
 title: Sass
 keywords: sample
 tags: CSS Frameworks
-sidebar: css-frameworks
-permalink: css-frameworks/sass.html
-folder: css-frameworks
+sidebar: css-frameworks/module-1
+permalink: css-frameworks/module-1/sass.html
+folder: css-frameworks/module-1
 ---
 
 ## Introduction
 
-Sass stands for Syntactically Awesome Style Sheets.
+SASS is a `CSS preprocessor` that helps you write CSS efficiently and organize your styles. A `language preprocessor` is a tool that adds additional features to an existing language with new rules.
 
-It is a widely used CSS pre-processor. Essentially it provides a way to organise your styles before being compiled into regular CSS that the browsers can understand, as they don't understand Sass syntax.
+Since these new rules do not exist in the original language, they are called `syntax extensions`. Syntax extensions need to be `compiled` before they can be used by a browser to load a web application.
 
-There are other pre-processors such as LESS and Stylus, but Sass is by far the most popular.
+SASS is a `syntax extension` that adds a new `syntax` to the `CSS` language, as well as a `compiler` that can be used to convert SASS into CSS.
+
+Like Bootstrap, SASS has become *ubiquitous* in the modern web development landscape. Although there are alternatives to SASS, it is currently the most dominant tool.
+
+> Please ensure that you have NodeJS & NPM setup before you continue with this lesson. You can find the tutorial here: [NodeJS setup](/node)
 
 ## Syntax
 
-There are two syntaxes used in Sass, one that uses semi-colons (;) and curly braces ({}) with the .scss file extension, and one that omits both those symbols and uses the .sass extension. Instead of braces, the .sass extension uses indentation.
+SASS provides two syntaxes for writing styles. We will focus on the `SCSS` syntax as this is most popular and closest to CSS syntax.
 
-We will use the .scss syntax as that is by far the most common in real-world projects and is compatible with regular CSS as it uses semi-colons and braces.
+### SCSS
 
-All CSS is valid .scss Sass, meaning we can paste any regular CSS into a .scss file and it will work.
+SCSS (Sassy CSS or Sassy Cascading Style Sheets) is designed to be very similar to CSS syntax, using curly braces (`{}`) to demark a style declaration and semicolons (`;`) to demark the end of a style assertion. In fact, all CSS styles are valid SCSS styles. You can copy/paste any CSS declaration into an SCSS file and it will be parsed correctly.
+
+For example:
+
+```scss
+.my-class {
+  color: red;
+}
+```
+
+This is valid SCSS as well as valid CSS syntax. However there are aspects of this syntax that are not valid CSS:
+
+```scss
+.my-class {
+  color: red;
+
+  &-child {
+    color: blue;
+  }
+}
+```
+
+Here we can see an example of SASS `nesting` which cannot be done in CSS. Files using the SCSS syntax are given the file extension `.scss`.
+
+### SASS
+
+Alternatively, the SASS syntax is also available. This syntax uses indentation to demark style declarations and a line break to demark the end of a style assertion. For example:
+
+```sass
+.my-class
+  color: red
+
+  &-child
+    color: blue
+```
+
+Files using the SCSS syntax are given the file extension `.sass`.
 
 ## Compiler
 
-We will use the Live Sass Compiler extension for VSCode to compile the Sass to CSS.
+The SASS compiler converts SASS code into CSS that can be run by a browser. Although there are VS Code extensions designed to help you compile SASS, it is best to include SASS in your project to make it easier for others to use and work on in future.
 
-This is the easiest option, but if you prefer you can use the Sass npm package:
+### Install the Sass Compiler
 
-npm install -g sass
+In order to use the SASS compiler, you will need to install it as a `dev dependency` using NPM:
 
-We won't cover that package in the video.
+```bash
+npm install -D sass
+```
+
+SASS should now show up in your `package.json` file and `node_modules` folder.
+
+### Running the SASS Compiler
+
+In order to run SASS from your project, you should include a `build script` in your `package.json` file:
+
+```json
+{
+  "scripts": {
+    "build": "sass src/scss:dist/css"
+  }
+}
+```
+
+This command tells SASS to look inside the `src/scss` folder and compile all files ending in `.scss` into the `dist/css` folder. You may store your SASS code in a different location, and may desire for your output to be stored in a different location too. In order to handle this simply change the values in this command:
+
+```
+sass input-directory:output-directory
+```
+
+### Running SASS Watch
+
+Although the script above will successfully convert SASS to CSS, you will need to run this every single time you make a change to your SASS code. To avoid this inconvenience, we can use the `watch` command to automatically convert SASS to CSS whenever a file changes:
+
+```json
+{
+  "scripts": {
+    "watch": "sass --watch src/scss:dist/css"
+  }
+}
+```
+
+When combined with `live-server` this will automatically reload your page. You can use the `Live Server` VS Code extension, or install this as a `dev dependency` using NPM:
+
+```bash
+npm install -D live-server
+```
+
+Then you can run the `live-server` command in your project:
+
+```json
+{
+  "scripts": {
+    "watch": "sass --watch src/scss:dist/css & live-server"
+  }
+}
+```
 
 ## Core Sass concepts
 
-We will briefly mention the core Sass concepts below. They are covered in more detail in the video.
+As mentioned above, SASS adds additional features to CSS in order to enable powerful structures that keep your code clean and readable.
 
 ### Variables
 
-Regular CSS does now support variables (custom properties) but the variable syntax in Sass is simpler to use.
-
-Variables in Sass are prefixed with the dollar symbol $.
-
-Like variables in JavaScript, we can assign a value to a variable and use it throughout the code. Unlike variables in JavaScript we can use hyphens (dashes) in variables names.
-
-We can set a primary colour like this:
+Like CSS, SASS offers a system for creating and using `variables`. Variables can hold any kind of style information and be used anywhere in a SASS file. For example, you can create a variable called `$primary-color` and set it to a hexadecimal color value. Then you can use this variable in your SASS code:
 
 ```scss
 $primary-colour: #e85a4f;
-```
 
-and then use it like this:
-
-```scss
 p {
   color: $primary-colour;
 }
@@ -61,13 +141,15 @@ p {
 
 We could use the $primary-colour variable in multiple places in our code and if we needed to update the colour we would only need to change it in one place.
 
+You can read more about SASS variables here: [SASS variables](https://sass-lang.com/documentation/variables)
+
 ### Maps
 
 Maps in Sass hold key value pairs, similar to an object in JavaScript.
 
-We can use them to store variables.
+We can use them to store multiple variables with a single name.
 
-Instead of creating several independent colour variables, we could place them inside a map.
+For example, we may have more than one important colour variable:
 
 ```scss
 $colours: (
@@ -82,17 +164,67 @@ We access a variable value inside a map using the map-get function:
 color: map-get($colours, primary);
 ```
 
+You can read more about SASS maps here: [SASS maps](https://sass-lang.com/documentation/values/maps)
+
 ### Partials
 
 Sass allows us to split our styles into smaller files and then import them in a single file that will get compiled to CSS.
 
 Files that begin with an underscore (\_) will not be compiled to CSS and need to be imported in a file with a name that doesn't begin with an underscore.
 
+For example, we may have the following files:
+
+```
+/src/scss/styles.scss
+/src/scss/layout/_header.scss
+/src/scss/layout/_main.scss
+/src/scss/layout/_footer.scss
+```
+
+In this example, the SASS compiler will output only one file: `styles.css` and will not compile each `_partial.scss` file individually.
+
 ### Nesting
 
-We can nest styles in parent selectors. This is demonstrated in the video.
+SASS also provides support for `nesting` which is a way to group styles together. For example, we may have a group of related styles that we want to group with a common name:
 
-We recommended not nesting too deep and keeping a relatively flat structure. This will help to avoid long selectors in the compiled CSS and make the code more readable.
+```scss
+.hero-banner {
+  background-color: #e85a4f;
+  color: #fff;
+  padding: 20px;
+
+  &-title {
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+
+  &-subtitle {
+    font-size: 1em;
+    font-weight: bold;
+  }
+
+  &-button {
+    background-color: #fff;
+    color: #e85a4f;
+    border: 1px solid #e85a4f;
+    padding: 10px;
+    font-size: 1em;
+    font-weight: bold;
+    cursor: pointer;
+  }
+}
+```
+
+This example code would output styles for the following classes:
+
+```
+.hero-banner
+.hero-banner-title
+.hero-banner-subtitle
+.hero-banner-button
+```
+
+By nesting these styles together we can clearly see the relationship they should have in HTML. You can read more about SASS nesting here: [SASS Nesting](https://sass-lang.com/documentation/style-rules#nesting).
 
 ### Mixins
 
@@ -113,6 +245,25 @@ We can include the mixin in a selector like this:
 @include button-border(15px);
 ```
 
+Mixins accept arguments in order to control their behaviour. Using the example above we could add two additional arguments:
+
+```scss
+@mixin button-border($radius, $width, $color) {
+  border-radius: $radius;
+  border: $width solid $color;
+}
+
+@include button-border(15px, 3px, white);
+```
+
+We could also use a `map` or `variable` value here:
+
+```scss
+@include button-border($radius-size, $border-size, map-get($colours, primary));
+```
+
+You can read more about SASS mixins here: [SASS mixins](https://sass-lang.com/documentation/at-rules/mixin)
+
 ### Functions
 
 Functions are similarly structured to mixins but they return a value and don't output styles.
@@ -130,6 +281,8 @@ To get the primary key value rom the $colours map we would use the function like
 ```scss
 color: getColour(primary);
 ```
+
+You can read more about SASS functions here: [SASS functions](https://sass-lang.com/documentation/at-rules/function)
 
 ### Inheritance
 
@@ -152,49 +305,88 @@ input {
 }
 ```
 
+Extend allows for styles to be kept very DRY, by reusing the same styles in multiple selectors. You can read more about SASS extend here: [SASS extend](https://sass-lang.com/documentation/at-rules/extend)
+
 ### Modules
 
-At the time of writing, only the Dart implementation of Sass supports modules and the @use syntax.
+In order to use one SASS file from another, it must be imported as a `module`. We can do this by using the `@use` keyword. For example:
 
-Modules are meant to replace the @import syntax.
+`/src/scss/styles.scss`
+```scss
+@use "./components/buttons";
+@use "./utilities/flex";
+```
 
-Since both the VSCode Live Sass Compiler and Create React App both use the libsass implementation which doesn't support modules, we won't be covering them.
+In this example we have imported the `src/scss/components/_buttons.scss` and `src/scss/utilities/_flex.scss` files into our main stylesheet. Not only does this mean that the contents of these two files will be compiled into the `styles.css` file - but it also allows us to use the contents within `styles.scss`:
+
+```scss
+@use "./components/buttons";
+@use "./utilities/flex";
+
+.unique-button {
+  @extend .button;
+  @extend .display-flex;
+  @extend .flex-column;
+}
+```
+
+This will include the styles from the `src/scss/components/_buttons.scss` file and the `src/scss/utilities/_flex.scss` file.
+
+When using variables and mixins imported from another file, you must use the `namespace` for that file. For example, if we had a variable named `$button-color` in our `_buttons.scss` file, we would refer to it like so in `styles.scss`:
+
+```scss
+@use "./components/buttons";
+
+.unique-button {
+  color: buttons.$button-color;
+}
+```
+
+The namespace of the file will be the same as it's name, in this case `_buttons.scss` will be `buttons`. You can read more about `@use` here: [SASS Use](https://sass-lang.com/documentation/at-rules/use) and more about namespaces here: [SASS namespaces](https://sass-lang.com/documentation/at-rules/use#choosing-a-namespace)
 
 ## Organising a Sass project
 
-There is no one correct way to organise a Sass project - it will vary depending on project size, number of project members, and those members' personal preferences and experience.
+There is no right or wrong way to organise a SASS project, and your needs will differ from other developers. In general, we use the same DRY approach with SASS as with CSS - if you find yourself repeating something over and over, you should explore which SASS feature can be used to streamline your code.
 
-It is common to arrange partials in folders and include them in a file at the root of a sass/scss/styles folder.
+In terms of file structure, it makes sense to split your SASS code into small files that describe their purpose clearly. For example:
 
-All the above concepts are covered in the video.
+```
+/src/scss/styles.scss
+/src/scss/components/_buttons.scss
+/src/scss/components/_forms.scss
+/src/scss/components/_header.scss
+```
 
-## Videos and Activities
+You can take advantage of `barrel files` in order to group all the files in a folder together:
 
-Video Lesson
+```
+/src/scss/components/_index.scss
+/src/scss/components/_buttons.scss
+/src/scss/components/_forms.scss
+/src/scss/components/_header.scss
+```
 
-<iframe src="https://player.vimeo.com/video/435392698?h=74ab1425ff" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+Where the `_index.scss` file would simply `@use` it's siblings:
 
-INFO
+```scss
+@use "./components/buttons";
+@use "./components/forms";
+@use "./components/header";
+```
 
-Here are the links for the above video: [Code from the video](https://github.com/NoroffFEU/introduction-to-sass) [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) [Settings docs](https://github.com/ritwickdey/vscode-live-sass-compiler/blob/master/docs/settings.md)
-
-## Activity
-
-READ
-
-Pages: [style rules](https://sass-lang.com/documentation/style-rules) and [variables](https://sass-lang.com/documentation/variables) in the official docs. (30m)
-
-INFO
-
-The official docs reflect the latest version of Sass available in Dart Sass. Because we use the LibSass version of Sass in the Live Sass Compiler extension (and will use it when we use Sass in React), many parts of the official docs don’t apply to what is using at this time (July 2020). Check the compatibility notes in each section of the docs.
-
-Be sure to attempt the lesson task.
+Now, in our `styles.scss` file we can simply `@use "components"` to include all code for the components folder. Using this strategy we can keep styles `modular` or `atomic` while easily importing them into a useful global stylesheet.
 
 ## Lesson Task
 
 ### Brief
 
-In this task you will practise using Sass to code a layout.
+Start with the page created in the [Bootstrap introduction](/css-frameworks/module-1/intro-to-bootstrap). Design a theme adjustment that adds custom details to the basic Bootstrap theme. For example, a dark mode theme or a contrasting colour scheme.
+
+Next, copy your page HTML and remove all references to CSS. You should have an HTML file with the necessary information and elements, but no styling whatsoever.
+
+Your task is to rebuild the styles for your page, only using your own custom SASS.
+
+You do not need to copy Bootstrap's implementation exactly - but do not change any classnames in HTML. 
 
 ### Resources
 
