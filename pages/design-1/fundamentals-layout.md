@@ -11,7 +11,7 @@ folder: design-1
 
 Planning and structuring when placing elements on a web page do not only achieve an appealing design. These tasks also help the online user to comprehend information. In this lesson, we will discuss the principles of layout/composition and have a look at the anatomy of a grid structure.
 
-> NOTE This lesson contains 4 activities for your completion. 
+> NOTE This lesson contains 4 activities for your completion.
 
 ## Basics of layout/composition
 
@@ -201,28 +201,33 @@ Grids are everywhere you look. Our whole world is built on grids since they add 
 
 ### Activity 1
 
-| WATCH<br><br>Video: [Beginning Graphic Design: Layout & Composition](https://www.youtube.com/watch?v=a5KYlHNKQB8) (5m 14s) by GCFLearnFree.org. |
-| :-: |
+**WATCH**
+
+Video: [Beginning Graphic Design: Layout & Composition](https://www.youtube.com/watch?v=a5KYlHNKQB8) (5m 14s) by GCFLearnFree.org.
 
 ### Activity 2
 
-| READ<br><br>Article: [A Quick Look at Types of Grids for Creating Professional Designs](https://visme.co/blog/layout-design/) by Orana Velarde. |
-| :-: |
+**READ**
+
+Article: [A Quick Look at Types of Grids for Creating Professional Designs](https://visme.co/blog/layout-design/) by Orana Velarde.
 
 ### Activity 3
 
-| READ<br><br>Article: [How to Use C.R.A.P. Design Principles For Better UX?](https://vwo.com/blog/crap-design-principles/) by Nitin Deshdeep. |
-| :-: |
+**READ**
+
+Article: [How to Use C.R.A.P. Design Principles For Better UX?](https://vwo.com/blog/crap-design-principles/) by Nitin Deshdeep.
 
 ### Activity 4
 
-| WATCH<br><br>Video course: [Adobe XD Essential Training](https://www.linkedin.com/learning/adobe-xd-essential-training-design/design-at-the-speed-of-thought?u=43268076) (3h 2m) by Dani Beaumont. |
-| :-: |
+**WATCH**
+
+Video course: [Adobe XD Essential Training](https://www.linkedin.com/learning/adobe-xd-essential-training-design/design-at-the-speed-of-thought?u=43268076) (3h 2m) by Dani Beaumont.
 
 ### Activity 5
 
-| WATCH<br><br>Video course: [Figma Essential Training: The Basics](https://www.linkedin.com/learning/figma-essential-training-the-basics/the-basics-of-figma?u=43268076) (1h 37m) by Brian Wood. |
-| :-: |
+**WATCH**
+
+Video course: [Figma Essential Training: The Basics](https://www.linkedin.com/learning/figma-essential-training-the-basics/the-basics-of-figma?u=43268076) (1h 37m) by Brian Wood.
 
 <hr>
 

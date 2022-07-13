@@ -336,28 +336,33 @@ Now that you have a clear idea of what to look for with regards to website conte
 
 ### Activity 1
 
-| WATCH<br><br>The following video from Linkedin Learning is a short introduction into determining the target audience.<br><br>Video: [Determining the target audience](https://www.linkedin.com/learning/layout-and-composition-marketing-collateral/determining-the-target-audience?autoplay=true&u=43268076) (2m 40s) by Sean Adams. |
-| :-: |
+**WATCH**
+
+The following video from Linkedin Learning is a short introduction into determining the target audience.<br><br>Video: [Determining the target audience](https://www.linkedin.com/learning/layout-and-composition-marketing-collateral/determining-the-target-audience?autoplay=true&u=43268076) (2m 40s) by Sean Adams.
 
 ### Activity 2
 
-| WATCH<br><br>Video: [Website Photos 101: The Photos You SHOULD Be Using & Where to Get Them](https://www.youtube.com/watch?v=hLAB69iCjg4) (12m 45) by Wes McDowell. |
-| :-: |
+**WATCH**
+
+Video: [Website Photos 101: The Photos You SHOULD Be Using & Where to Get Them](https://www.youtube.com/watch?v=hLAB69iCjg4) (12m 45) by Wes McDowell.
 
 ### Activity 3
 
-| WATCH<br><br>The following video from Linkedin Learning on using images and videos in Adobe XD.<br><br>Video section: [2. Images and vectors](https://www.linkedin.com/learning/learning-adobe-xd-2/import?u=43268076) (39m 38s) by Tom Green. |
-| :-: |
+**WATCH**
+
+The following video from Linkedin Learning on using images and videos in Adobe XD.<br><br>Video section: [2. Images and vectors](https://www.linkedin.com/learning/learning-adobe-xd-2/import?u=43268076) (39m 38s) by Tom Green.
 
 ### Activity 4
 
-| WATCH<br><br>Video: [How to create forms, checkboxes & buttons - UI/UX & Web Design using Adobe XD](https://www.youtube.com/watch?v=Vm4mHkWktm8) (8m 33s) by Daniel Scott. |
-| :-: |
+**WATCH**
+
+Video: [How to create forms, checkboxes & buttons - UI/UX & Web Design using Adobe XD](https://www.youtube.com/watch?v=Vm4mHkWktm8) (8m 33s) by Daniel Scott.
 
 ### Activity 5
 
-| WATCH<br><br>Video: [Form Design in Figma with Interactive Components](https://www.youtube.com/watch?v=ZWwE0GWEXDc&t=184s) (36m 32s) by DesignCourse. |
-| :-: |
+**WATCH**
+
+Video: [Form Design in Figma with Interactive Components](https://www.youtube.com/watch?v=ZWwE0GWEXDc&t=184s) (36m 32s) by DesignCourse.
 
 <hr>
 

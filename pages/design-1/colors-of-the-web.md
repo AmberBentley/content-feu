@@ -11,7 +11,7 @@ folder: design-1
 
 Understanding the colours of the web and knowing how they work is fundamental for any web developer. In the previous lesson, we’ve touched on the RGB colour system and looked at the differences between CMYK and RGB values; specifically, which is used for print and which is used for the web. In this lesson, we will further discuss the colours of the web. We will also have a look at Web Content Accessibility Guidelines (WCAG) and how colour should be applied to meet these guidelines.
 
-> NOTE This lesson contains 2 activities that you should complete. 
+> NOTE This lesson contains 2 activities that you should complete.
 
 ## Hex and RGB colour codes
 
@@ -207,15 +207,15 @@ It’s vital that your website that caters for everybody’s needs. For instance
 
 ### Activity 1
 
-| WATCH<br><br>
+**WATCH**
 
-| Video: [Accessibility for Web Design](https://www.linkedin.com/learning/accessibility-for-web-design/welcome?u=43268076) (2m 35s) by Derek Featherstone. He uses real scenarios to explain how a website can cater for individuals with disabilities. |
-| :-: |
+Video: [Accessibility for Web Design](https://www.linkedin.com/learning/accessibility-for-web-design/welcome?u=43268076) (2m 35s) by Derek Featherstone. He uses real scenarios to explain how a website can cater for individuals with disabilities.
 
 ### Activity 2
 
-| READ<br><br>From David Kadavy's book Design for Hackers: Section: 'How the visual system works' (pages 201-206) (1h)] |
-| :-: |
+**READ**
+
+From David Kadavy's book Design for Hackers: Section: 'How the visual system works' (pages 201-206) (1h)]
 
 <hr>
 

@@ -121,20 +121,39 @@ _Responsiveness_
 
 A good wireframe can give developers a clear idea of what elements should be coded, how the overall layout needs to adjust from big screens to smaller screens, what content is essential, how developers should implement the overall hierarchy and if navigation on smaller screens is sufficient.
 
-| WATCH<br><br>Video: [What are Wireframes - Balsamiq Wireframing Academy](https://www.youtube.com/watch?v=I2N7Vl6IOVc&feature=emb_logo) (4h 17s) |
-| :-: |
+<hr>
 
-| <br>Video: [Wireframing best practices](https://www.linkedin.com/learning/practical-ux-weekly-season-one/wireframing-best-practices?u=43268076) (5h 57s) |
-| :-: |
+## Activities
 
-| <br>Video: [Tips on Sketching Your Wireframes](https://www.youtube.com/watch?v=ykHClgOUUj8) (4h 45s) |
-| :-: |
+### Activity 1
 
-| <br>Video: [How to wireframe a website](https://www.youtube.com/watch?v=2hQA1ZsGAH8) (13m 50s) |
-| :--------------------------------------------------------------------------------------------: |
+**WATCH**
 
-| READ<br><br>Article: [Website and App wireframes for creating a solid UX Design](https://www.invisionapp.com/inside-design/wireframe-examples/) |
-| :-: |
+Video: [What are Wireframes - Balsamiq Wireframing Academy](https://www.youtube.com/watch?v=I2N7Vl6IOVc&feature=emb_logo) (4h 17s)
+
+### Activity 2
+
+**WATCH**
+
+Video: [Wireframing best practices](https://www.linkedin.com/learning/practical-ux-weekly-season-one/wireframing-best-practices?u=43268076) (5h 57s)
+
+### Activity 3
+
+**WATCH**
+
+Video: [Tips on Sketching Your Wireframes](https://www.youtube.com/watch?v=ykHClgOUUj8) (4h 45s)
+
+### Activity 4
+
+**WATCH**
+
+Video: [How to wireframe a website](https://www.youtube.com/watch?v=2hQA1ZsGAH8) (13m 50s)
+
+### Activity 5
+
+**READ**
+
+Article: [Website and App wireframes for creating a solid UX Design](https://www.invisionapp.com/inside-design/wireframe-examples/)
 
 <hr>
 

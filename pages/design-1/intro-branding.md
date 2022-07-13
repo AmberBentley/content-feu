@@ -11,7 +11,7 @@ folder: design-1
 
 Does design matter? In order to understand why the answer to this question is undoubtably _yes,_ an in-depth understanding of the fundamentals of design is necessary.
 
-> NOTE This lesson contains 4 activities for your completion. 
+> NOTE This lesson contains 4 activities for your completion.
 
 ## Design fundamentals
 
@@ -23,8 +23,9 @@ Below describes the fundamentals of good design.
 
 Front-end developers must design the look and feel of a website in a manner that is appealing and user-friendly for the target audience. This includes the consideration of factors such as user age group, overall theme, and category of the website. Thus, the designer’s ability and skill are not all that matter. The front-end web developer must be skilled in (apart from design techniques) analysing the target audience so that web development tools such as HTML5 and CSS3, and languages such as JavaScript, can create websites that users want to view on a daily basis.
 
-|  | **Example:**<br><br>A developer wants to build a website for Minecraft, a decade-old, computer-based video game. 70% of Minecraft players fall within the 12 to 17-year age bracket. Thus, the developer should choose design elements wisely that young gamers would find it appealing. |
-| :-- | :-- |
+**Example:**
+
+A developer wants to build a website for Minecraft, a decade-old, computer-based video game. 70% of Minecraft players fall within the 12 to 17-year age bracket. Thus, the developer should choose design elements wisely that young gamers would find it appealing.
 
 ![Minecraft characters](../../images/design-1/Introductiontobranding-1.jpg)
 
@@ -97,8 +98,7 @@ It is usually much easier to create a brand identity on paper than bring it to l
 - the type of marketplace.
 - the target market.
 
-|  | NOTE<br><br>Budelmann, et al. (2010) further outlines that once a business strategy is in place; other factors such as the company’s audience, play a role in its brand identity (p. 90). There is interaction and cross-referencing between design, business strategy, and the result of brand identity. For now, this is all you need to know about this. |
-| :-: | :-- |
+> NOTE: Budelmann, et al. (2010) further outlines that once a business strategy is in place; other factors such as the company’s audience, play a role in its brand identity (p. 90). There is interaction and cross-referencing between design, business strategy, and the result of brand identity. For now, this is all you need to know about this.
 
 Through the process of problem solving, designers often land on a better understanding of the meaning and values of the brand. Often the work of building the brand helps for the brand’s strengths to come forward.
 
@@ -110,7 +110,7 @@ Successful brands build a personality with consistent behaviour. Decisions about
 
 ### Brand integration
 
-> \_'The ultimate purpose of a designer is to make every brand element work independently, but also to make them work together as a whole. This is brand integration. Remember, you are not only the designer but also the creator of the brand identity. That means that visual integration lies with you. You have great power - you can decide how the brand is shown to the world. Collaboration with the client is, of course, vital.
+The ultimate purpose of a designer is to make every brand element work independently, but also to make them work together as a whole. This is brand integration. Remember, you are not only the designer but also the creator of the brand identity. That means that visual integration lies with you. You have great power - you can decide how the brand is shown to the world. Collaboration with the client is, of course, vital.
 
 <hr>
 
@@ -120,25 +120,42 @@ Successful brands build a personality with consistent behaviour. Decisions about
 
 ### Activity 1
 
-| READ<br><br>The following chapters from the book _Don't Make Me Think_ by Steve Krug (p.10-28): <br>Chapter 1: Don't Make Me Think<br>Chapter 2: How We Really Use the Web<br>Chapter 3: Billboard Design 101 (Design for scanning, not reading) (1h) |
-| :-: |
+**READ**
+
+The following chapters from the book _Don't Make Me Think_ by Steve Krug (p.10-28):
+
+- Chapter 1: Don't Make Me Think
+- Chapter 2: How We Really Use the Web
+- Chapter 3: Billboard Design 101 (Design for scanning, not reading) (1h)
 
 ### Activity 2
 
-| READ<br><br>From the book _Design for Hackers_ by David Kadavy: <br>Chapter 2: The Purpose of Design (p.19-33) (1h) |
-| :-: |
+**READ**
+
+From the book _Design for Hackers_ by David Kadavy:
+
+- Chapter 2: The Purpose of Design (p.19-33) (1h)
 
 ### Activity 3
 
-WATCH<br><br>The following LinkedIn Learning videos from Brad Batesole (remember to be logged into your account) as a short introduction to brand touch points.<br><br>Video: [The influence of touchpoints](https://www.linkedin.com/learning/advanced-branding/the-influence-of-touch-points?u=43268076) (3m 40s). <br><br>Video: [Branding through storytelling](https://www.linkedin.com/learning/advanced-branding/branding-through-storytelling-2?u=43268076) (3m 1s). <br><br>Video: [Exploring the customer journey](https://www.linkedin.com/learning/advanced-branding/exploring-the-customer-journey-2?u=43268076) (3m 4s).
+**WATCH**
+
+The following LinkedIn Learning videos from Brad Batesole (remember to be logged into your account) as a short introduction to brand touch points.
+
+- Video: [The influence of touchpoints](https://www.linkedin.com/learning/advanced-branding/the-influence-of-touch-points?u=43268076) (3m 40s).
+- Video: [Branding through storytelling](https://www.linkedin.com/learning/advanced-branding/branding-through-storytelling-2?u=43268076) (3m 1s).
+- Video: [Exploring the customer journey](https://www.linkedin.com/learning/advanced-branding/exploring-the-customer-journey-2?u=43268076) (3m 4s).
 
 ### Activity 4
 
-WATCH<br><br>Video: [The 3 Rules of Good Logo Design](https://www.youtube.com/watch?v=VnBUOjxmn1g) (2m 4s) by The Futur Academy. <br><br>Video: [What Is Branding? 4 Minute Crash Course](https://www.youtube.com/watch?v=sO4te2QNsHY) (3m 48s) by The Futur Academy.
+**WATCH**
+
+- Video: [The 3 Rules of Good Logo Design](https://www.youtube.com/watch?v=VnBUOjxmn1g) (2m 4s) by The Futur Academy.
+- Video: [What Is Branding? 4 Minute Crash Course](https://www.youtube.com/watch?v=sO4te2QNsHY) (3m 48s) by The Futur Academy.
 
 <hr>
 
-## Lesson Task - Introduction to branding
+## Lesson Task
 
 ### Goal
 

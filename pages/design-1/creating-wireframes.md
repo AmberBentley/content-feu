@@ -158,20 +158,39 @@ After the feedback phase, you should have enough information to make some change
 
 Keep in mind that the wireframe serves as the skeleton of the website. The content and copy is the skin, and the functionality is the muscle. Each part plays a vital role in making the website function correctly.
 
-| WATCH<br><br>Video: [Wireframe basics: The easy way to get started](https://www.youtube.com/watch?v=aqdn7vVKygA&t=8s) (3m 10s) |
-| :-: |
+<hr>
 
-| <br>Video: [Wireframing for newbies by Balsamiq](https://www.youtube.com/watch?v=KnZrypOaVCg) (18m 45s) |
-| :-: |
+## Activities
 
-| <br>Video: [Better wireframes & sketches with Freehand from Invision](https://www.youtube.com/watch?v=lKPgRK0llO8) (7m 28s) |
-| :-: |
+### Activity 1
 
-| <br>Video: [Free Figma UX Design UI Essential course](https://www.youtube.com/watch?v=kbZejnPXyLM) by Bring your own Laptop (2h 57m) |
-| :-: |
+**WATCH**
 
-| READ<br><br>Article: [The Definitive Guide: How to create your first wireframe](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/) (15m). |
-| :-: |
+Video: [Wireframe basics: The easy way to get started](https://www.youtube.com/watch?v=aqdn7vVKygA&t=8s) (3m 10s)
+
+### Activity 2
+
+**WATCH**
+
+Video: [Wireframing for newbies by Balsamiq](https://www.youtube.com/watch?v=KnZrypOaVCg) (18m 45s)
+
+### Activity 3
+
+**WATCH**
+
+Video: [Better wireframes & sketches with Freehand from Invision](https://www.youtube.com/watch?v=lKPgRK0llO8) (7m 28s)
+
+### Activity 4
+
+**WATCH**
+
+Video: [Free Figma UX Design UI Essential course](https://www.youtube.com/watch?v=kbZejnPXyLM) by Bring your own Laptop (2h 57m)
+
+### Activity 5
+
+**READ**
+
+Article: [The Definitive Guide: How to create your first wireframe](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/) (15m).
 
 <hr>
 

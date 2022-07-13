@@ -11,7 +11,7 @@ folder: design-1
 
 This lesson presents an introduction in establishing visual hierarchy in design. It presents an overview on how to organise visual elements to guide online users in knowing which actions to take when entering a website.
 
-> NOTE This lesson contains 3 activities that you should complete. 
+> NOTE This lesson contains 3 activities that you should complete.
 
 ## What is visual hierarchy?
 
@@ -135,20 +135,29 @@ The Nielsen Norman Group describes visual hierarchy as having control of deliver
 
 ## Activities
 
-| **Activity 1**<br>READ<br><br>To get a better understanding of emphasis in design read the following article by Mads Soegaard: [Emphasis: Setting up the focal point of your design](https://www.interaction-design.org/literature/article/emphasis-setting-up-the-focal-point-of-your-design) (12m) |
-| :-: |
+### Activity 1
 
-> _"For a user to be able to navigate through all the information in a website or application, that information needs to be clearly presented and have a clear hierarchy". - David Kadavy_
+**READ**
 
-|  | **Activity 2**<br>READ<br><br>In David Kadavy's book, _Design for Hackers_, explore some useful tips and techniques for establishing good layouts and visual hierarchies.<br>Chapter 7: Enlivening Information: Establishing a Visual Hierarchy (p.168-190) (3 hours) |
-| :-: | :-- |
+To get a better understanding of emphasis in design read the following article by Mads Soegaard: [Emphasis: Setting up the focal point of your design](https://www.interaction-design.org/literature/article/emphasis-setting-up-the-focal-point-of-your-design) (12m)
+
+_"For a user to be able to navigate through all the information in a website or application, that information needs to be clearly presented and have a clear hierarchy"._ - David Kadavy
+
+### Activity 2
+
+**READ**
+
+In David Kadavy's book, _Design for Hackers_, explore some useful tips and techniques for establishing good layouts and visual hierarchies.<br>Chapter 7: Enlivening Information: Establishing a Visual Hierarchy (p.168-190) (3 hours)
 
 In 2014 Google developed a new design language - Material Design. Expanding upon the "card" motifs that debuted in Google Now, Material Design makes more liberal use of grid-based layouts, responsive animations and transitions, padding, and depth effects such as lighting and shadows. On their webpage they write:
 
-> _"We challenged ourselves to create a visual language for our users that synthesises the classic principles of good design with the innovation and possibility of technology and science. This is material design. This spec is a living document that will be updated as we continue to develop the tenets and specifics of material design.”_
+_"We challenged ourselves to create a visual language for our users that synthesises the classic principles of good design with the innovation and possibility of technology and science. This is material design. This spec is a living document that will be updated as we continue to develop the tenets and specifics of material design.”_
 
-|  | **Activity 3**<br>WATCH<br><br>Video: [The Intricate and Beautiful World of Material Design](https://www.youtube.com/watch?v=VqJm8Xqgmq8) (8m 26s) by XDA. |
-| :-: | :-- |
+### Activity 3
+
+**WATCH**
+
+Video: [The Intricate and Beautiful World of Material Design](https://www.youtube.com/watch?v=VqJm8Xqgmq8) (8m 26s) by XDA.
 
 <hr>
 

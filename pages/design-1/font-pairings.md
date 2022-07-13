@@ -19,11 +19,9 @@ In this lesson, we will:
 
 - take a look at the style tile where we will take everything discussed in the previous lessons and put it all together in one design deliverable.
 
-|     | NOTE<br><br>This lesson contains 5 activities that you should complete. |
-| :-: | :---------------------------------------------------------------------- |
+> NOTE: This lesson contains 5 activities that you should complete.
 
-|  | NOTE<br><br>The right choice for your typography on your website is essential. Not only from an aesthetic point of view (if it looks good and suits the genre of the site) but also from a functional and usable point of view (is it easy to read for users and clear enough). Aesthetics and usability need to work together to form the perfect fit for the brand and the target audience. |
-| :-: | :-- |
+> NOTE: The right choice for your typography on your website is essential. Not only from an aesthetic point of view (if it looks good and suits the genre of the site) but also from a functional and usable point of view (is it easy to read for users and clear enough). Aesthetics and usability need to work together to form the perfect fit for the brand and the target audience.
 
 ## Headings
 
@@ -239,7 +237,7 @@ With CSS3, one can use the font-stretch property with different values which - u
 
 _Figure 13. The decovar font in different variations._
 
-> INFO If these concepts seem unfamiliar at the moment, don’t feel discouraged, it will be discussed later in more detail in the HTML and CSS course. 
+> INFO: If these concepts seem unfamiliar at the moment, don’t feel discouraged, it will be discussed later in more detail in the HTML and CSS course.
 
 <hr>
 
@@ -247,27 +245,35 @@ _Figure 13. The decovar font in different variations._
 
 ### Activity 1
 
-| READ<br><br>Article: [Introduction to variable fonts on the web](https://web.dev/variable-fonts/) |
-| :-: |
+**READ**
+
+Article: [Introduction to variable fonts on the web](https://web.dev/variable-fonts/)
 
 ### Activity 2
 
-| READ<br><br> From David Kadavy’s book Design for Hackers Section: 'Enriching your typography' (pages 262-264) (45m) |
-| :-: |
+**READ**
+
+From David Kadavy’s book Design for Hackers Section: 'Enriching your typography' (pages 262-264) (45m)
 
 ### Activity 3
 
-| READ<br><br>Article: [Find the perfect Google Font pairing for your website (20m)](https://web.dev/variable-fonts/) |
-| :-: |
+**READ**
 
+Article: [Find the perfect Google Font pairing for your website (20m)](https://web.dev/variable-fonts/)
+
+### Activity 4
+
+**READ**
+
+Article: [Style Tiles and How They Work](https://alistapart.com/article/style-tiles-and-how-they-work/)
 
 ### Activity 5
 
-| WATCH<br><br> Video: [Typography Basics: Font Pairing 101 - The Adobe Fonts Show - Episode 30 (58m 10s)](https://www.youtube.com/watch?v=KSld_BODV7Q) |
-| :-: |
+**WATCH**
 
-| Video: [Adobe XD Style Guide Tutorial (14m 54s) by FollowAndrew](https://webdesign.tutsplus.com/articles/style-tiles-an-alternative-to-full-design-comps--webdesign-7232) |
-| :-: |
+This video on YouTube is a quick guide in how to create a style guide in Adobe XD. Note that the video description says style guide and not style tile. Even though there is a big difference between the two, the way you would go about in adding the various elements to a page in Adobe XD is pretty much the same. In this video the focus is on adding typography and a colour palette.
+
+Video: [Adobe XD Style Guide Tutorial (14m 54s) by FollowAndrew](https://webdesign.tutsplus.com/articles/style-tiles-an-alternative-to-full-design-comps--webdesign-7232)
 
 ### Bibliography
 

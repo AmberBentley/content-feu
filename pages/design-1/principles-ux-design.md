@@ -121,26 +121,53 @@ Clarity and simplicity ensure a good user experience. It leads the user on a smo
 
 _Figure 8: A simple, uncluttered flight booking app._
 
-| WATCH<br><br>Video: [What the #$%@ is UX Design?](https://www.youtube.com/watch?v=Ovj4hFxko7c&feature=emb_logo) (5m 30s) |
-| :-: |
+## Activities
 
-| <br><br>Video: [What is the UX design process?](https://www.youtube.com/watch?v=Um3BhY0oS2c) (4m 02s) |
-| :-: |
+### Activity 1
 
-| <br><br>Video: [UX Design 2: Analysing User Data](https://www.linkedin.com/learning/ux-design-2-analyzing-user-data/get-data-to-analyze?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56dfbc9b92015a33b4908fdd&u=43268076) (30m) |
-| :-: |
+**WATCH**
 
-| READ<br><br>Case Study 1: [Helping homeowners understand their home value on Zillow](https://www.francestung.com/case-studies-1/2019/4/12/helping-homeowners-understand-their-home-value-on-zillow) . |
-| :-: |
+Video: [What the #$%@ is UX Design?](https://www.youtube.com/watch?v=Ovj4hFxko7c&feature=emb_logo) (5m 30s)
 
-| <br><br>Case Study 2: [Redesigning the New York Times app](https://uxdesign.cc/the-new-york-times-timely-app-concept-27efe88e5d4b) . |
-| :-: |
+### Activity 2
 
-| <br><br>Case Study 2: [Redesigning Airbnb for the new normal](https://uxdesign.cc/airbnb-redesigning-for-the-new-normal-66fb273de769) . |
-| :-: |
+**WATCH**
 
-| <br><br>In book: _'Don't Make Me Think'_, <br>Chapter 8: The Farmer and the cowman should be friends<br>Chapter 9: Usability testing on 10 cents a day <br>Chapter 12: Accessibility and you |
-| :-: |
+Video: [What is the UX design process?](https://www.youtube.com/watch?v=Um3BhY0oS2c) (4m 02s)
+
+### Activity 3
+
+**WATCH**
+
+Video: [UX Design 2: Analysing User Data](https://www.linkedin.com/learning/ux-design-2-analyzing-user-data/get-data-to-analyze?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56dfbc9b92015a33b4908fdd&u=43268076) (30m)
+
+### Activity 4
+
+**READ**
+
+Case Study 1: [Helping homeowners understand their home value on Zillow](https://www.francestung.com/case-studies-1/2019/4/12/helping-homeowners-understand-their-home-value-on-zillow)
+
+### Activity 5
+
+**READ**
+
+Case Study 2: [Redesigning the New York Times app](https://uxdesign.cc/the-new-york-times-timely-app-concept-27efe88e5d4b)
+
+### Activity 6
+
+**READ**
+
+Case Study 2: [Redesigning Airbnb for the new normal](https://uxdesign.cc/airbnb-redesigning-for-the-new-normal-66fb273de769)
+
+### Activity 7
+
+**READ**
+
+In the book, _'Don't Make Me Think'_, read the following chapters.
+
+- Chapter 8: The Farmer and the cowman should be friends
+- Chapter 9: Usability testing on 10 cents a day
+- Chapter 12: Accessibility and you
 
 <hr>
 
