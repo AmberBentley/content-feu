@@ -152,6 +152,8 @@ The video below discusses comments.
 
 <a href="https://vimeo.com/489566490/338e17f909" target="_blank">Watch on Vimeo</a>
 
+<hr>
+
 ## Activities
 
 ### Watch
@@ -159,6 +161,8 @@ The video below discusses comments.
 [The Weird History of JavaScript](https://www.youtube.com/watch?v=Sh6lK57Cuk4)
 
 ---
+
+<hr>
 
 ## Lesson Task
 

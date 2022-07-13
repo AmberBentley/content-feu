@@ -322,6 +322,8 @@ _Figure 22. A good example of different fonts working together (byrosanna.co.uk,
 
 Training your eyes to see what works and what doesn’t, takes time. And as with everything in life, the more you practise the better you’ll get. This is particularly true when it comes to design, especially the art in typography and colour. Hopefully, after these lessons you will see colour more clearly and look at typography in a different way.
 
+<hr>
+
 ## Activities
 
 ### Activity 1
@@ -353,6 +355,8 @@ _"A nearly limitless choice of fonts, of varying degrees of quality. Letters tha
 
 From Design for Hackers by David Kadavy:  
 Chapter: 'Choosing and Pairing Fonts' (pages 291-310). Pay close attention to the informational graphic on page 308 and use it as a cheat-sheet for your future projects. (2h) | | :-: |
+
+<hr>
 
 ## Lesson Task
 

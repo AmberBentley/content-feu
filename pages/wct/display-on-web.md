@@ -170,13 +170,21 @@ You can go to [https://app.netlify.com/signup](https://app.netlify.com/signup) t
 
 Once you’ve finished you should have a link to your site on Netlify.
 
+<hr>
+
 ## Activity
 
 ### Activity 1
 
-WATCH
+**WATCH**
 
 The below video (2m 44s):
+
+<div style="padding:53.97% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/446484470?h=30c67b74bf&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Deploying a site using Netlify"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+[View on Vimeo](https://vimeo.com/446484470/30c67b74bf)
+
+<hr>
 
 ## Lesson Task
 

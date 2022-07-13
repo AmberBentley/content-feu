@@ -55,6 +55,7 @@ const count = 1;
 ```
 
 We cannot give it a different value. We cannot now do this, for example:
+
 ```js
 count = 2;
 ```
@@ -71,7 +72,7 @@ There is another way to create strings - with backticks, which is this character
 
 Using backticks:
 
-- Provides an easy way to split strings across lines. 
+- Provides an easy way to split strings across lines.
 - Provides a cleaner way to embed variables in strings.
 
 On many keyboards the key is situated top left.
@@ -109,8 +110,8 @@ To import code from another file, we need to export it first.
 
 There are two kinds of exports:
 
-1.	Named exports
-2.	Default exports.
+1. Named exports
+2. Default exports.
 
 ### Named exports
 
@@ -123,7 +124,7 @@ One file can contain many named exports.
 You can alias a named export using the <b>as</b> keyword.
 
 ![Named exports](../../images/js/1-1-namedexports2.png)
- 
+
 ### Default exports
 
 Default exports are exported with the <b>export default</b> keywords and imported without braces.
@@ -136,14 +137,11 @@ When you import a default export, you can import it using any name, the name you
 
 **- Go up a folder**
 
-../ - go back (or up) one directory (folder) from the current directory. 
-You can use several of these, the below will go back three folders:
-../../../
+../ - go back (or up) one directory (folder) from the current directory. You can use several of these, the below will go back three folders: ../../../
 
 **- Look in the current folder**
 
-./ - look in the current folder for the path
-Using imports and exports
+./ - look in the current folder for the path Using imports and exports
 
 The following video looks at using imports and exports.
 
@@ -156,6 +154,8 @@ The following video converts a small existing project to use modules, splitting 
 <iframe src="https://player.vimeo.com/video/456346771?h=61a3fcad19&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="2560" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Import and export example"></iframe>
 
 [Code](https://github.com/NoroffFEU/import-export-example) from the video.
+
+<hr>
 
 ## Lesson Task
 

@@ -328,6 +328,8 @@ The video below is an introduction to the `typeof` operator.
 
 ---
 
+<hr>
+
 ## Lesson Task
 
 There are practice questions in the master branch of <a href="https://github.com/NoroffFEU/lesson-task-pf-module1-lesson2" target="_blank">this repo</a>.

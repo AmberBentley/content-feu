@@ -30,13 +30,10 @@ To design a successful user experience, you need to be adaptable, a good communi
 The UX design process includes various tasks like:
 
 - user research
-  
 - user persona creation
 
 - setting up information architecture
-  
 - creating user flows
-  
 - conducting user testing.
 
 These concepts are discussed in depth later in this lesson. UX design can also include working with a UI designer to design wireframes and create prototypes.
@@ -140,7 +137,7 @@ _Figure 9: An example of wireframes within a user flow._
 | WATCH<br><br>Video: [What is UX Design? (Video Guide](https://www.youtube.com/watch?v=v6n1i0qojws) (5m 6s) by CareerFoundry. <br><br> Video: [[UX Design: 1 Overview](https://www.youtube.com/watch?v=v6n1i0qojws) (13m). |
 | :-: |
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title") | READ<br><br>Article: [UX Design Defined](https://www.invisionapp.com/design-defined/ux-design/) (5m). 
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title") | READ<br><br>Article: [UX Design Defined](https://www.invisionapp.com/design-defined/ux-design/) (5m).
 
 | <br><br>Article: [All Design is UX Design](https://www.invisionapp.com/inside-design/all-design-is-ux-design/) (5m). |
 | :-: |
@@ -152,6 +149,8 @@ _Figure 9: An example of wireframes within a user flow._
 
 | Chapter 5: Omit needless words (1h) |
 | :---------------------------------: |
+
+<hr>
 
 ## Lesson Task
 

@@ -101,17 +101,20 @@ There are three main ways of modelling a product: the developer's view, the user
 
 The developer's view will usually be a technical one about how the product is built etc. The user isn't focussed on how a product is made, but what it does and how it works. The designer's job is to make the product as close to this image as possible for the user.
 
-## Activities 
+<hr>
+
+## Activities
 
 |  | **Activity 1**<br>WATCH<br><br>Video: [Interaction Design](https://www.linkedin.com/learning/ux-foundations-interaction-design/interaction-design?u=43268076) <br>1. Today's Interaction Designer <br>2. A Model of Psychology and Interaction Design |
 | :-: | :-- |
 
-|  | **Activity 2**<br>WATCH<br><br>Video: [UX Design: Overview](https://www.linkedin.com/learning/ux-design-1-overview-2/understanding-the-benefits-of-user-centered-design?u=43268076)  |
-| :-: | :-- | 
+|  | **Activity 2**<br>WATCH<br><br>Video: [UX Design: Overview](https://www.linkedin.com/learning/ux-design-1-overview-2/understanding-the-benefits-of-user-centered-design?u=43268076) |
+| :-: | :-- |
 
 |  | **Activity 3**<br>READ<br><br>From _About Face: The Essentials of Interaction Design_, Paperback, 2014, by Alan Cooper et.al.<br>Chapter 1: 'Goal-Directed Design' (1h) |
 | :-: | :-- |
 
+<hr>
 
 ## Lesson Task
 
@@ -123,8 +126,8 @@ To get a holistic understanding of interaction design and develop the skills nec
 
 Watch the following lecture by Don Norman on _'Living with Complexity'._
 
-|  | <br>WATCH<br><br> [Living With Complexity](https://www.youtube.com/watch?v=flRuSn0df8Q)  |
-| :-: | :-- | 
+|     | <br>WATCH<br><br> [Living With Complexity](https://www.youtube.com/watch?v=flRuSn0df8Q) |
+| :-: | :-------------------------------------------------------------------------------------- |
 
 For this lesson assignment you need to find an everyday object that you think could be improved upon, and then re-design the object to create a better interaction. The object can be in your home or at work or anywhere really.
 

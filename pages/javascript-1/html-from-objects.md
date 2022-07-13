@@ -6,6 +6,7 @@ sidebar: javascript-1
 permalink: javascript-1/html-from-objects.html
 folder: javascript-1
 ---
+
 ## Introduction
 
 In this lesson we'll look at:
@@ -22,7 +23,7 @@ We've seen that objects can have strings, numbers, Booleans and functions as pro
 Object properties can also hold arrays:
 
 ```js
-const dogs = {    breeds: ["golden retriever", "labrador", "poodle"]};
+const dogs = { breeds: ["golden retriever", "labrador", "poodle"] };
 ```
 
 [Scrimba video](https://scrimba.com/c/cKg2e7uP)
@@ -44,6 +45,7 @@ This video looks at how JSON is sent from a server via an API call.
 You can link to multiple JavaScript files from an HTML page, and variables and functions will be available in the order they are included.
 
 If you load multiple files like this:
+
 ```js
 <script src="js/script1.js"></script>
 <script src="js/script2.js"></script>
@@ -80,6 +82,8 @@ In this video HTML is created by looping through an array of objects.
 <iframe src="https://player.vimeo.com/video/444696340?h=adfa854388&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="2560" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Creating HTML from objects - Part 3"></iframe>
 
 [Code](https://github.com/NoroffFEU/creating-html-from-an-array-of-objects/tree/part-3) from the video.
+
+<hr>
 
 ## Lesson Task
 

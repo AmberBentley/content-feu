@@ -6,6 +6,7 @@ sidebar: javascript-1
 permalink: javascript-1/handling-errors.html
 folder: javascript-1
 ---
+
 ## Introduction
 
 In this lesson we will focus on:
@@ -20,7 +21,7 @@ To provide default values for parameters we assign values in the function parame
 
 ```js
 function printMessage(message = "No message provided") {
-    // do something 
+  // do something
 }
 ```
 
@@ -47,11 +48,14 @@ In the following video we look at how to use the **try-catch-finally** statement
 [Code](https://github.com/NoroffFEU/try-catch-finally) from the video.
 
 ## API call error handling
+
 In this video we will add error handling to our API call with a try-catch statement.
 
 <iframe src="https://player.vimeo.com/video/450417105?h=28c585beaa&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="2560" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="GET requests - handling errors"></iframe>
 
 [Code](https://github.com/NoroffFEU/get-requests-handling-errors) from the video.
+
+<hr>
 
 ## Lesson Task
 

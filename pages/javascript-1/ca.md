@@ -24,8 +24,9 @@ Choosing appropriate variable and function names will form part of your assessme
 Search for a public, free-to-use API.
 
 You will need to make two calls to this API:
-1.	to fetch an array of results
-2.	to fetch a single result using an id, name, or other property.
+
+1. to fetch an array of results
+2. to fetch a single result using an id, name, or other property.
 
 You will need to read the API's documentation to see what URLs are available, if they require a key to be sent in the header, and any other configuration they might need.
 
@@ -33,7 +34,7 @@ There are many free APIs discoverable by a Google search.
 
 You may not use the APIs used in the lessons.
 
-### Styling 
+### Styling
 
 The focus of the CA is on JavaScript, not styling. Yet, as a front-end developer you will always need to produce user-interfaces that make sense and are easy to follow. You will need to provide navigation to and from the home page (index.html) and the contact page.
 
@@ -43,7 +44,7 @@ Both API calls should include a loading indicator.
 
 Make a call to your API URL. Loop through the results and create HTML for each result.
 
-You must display **at least 3 different properties** inside the HTML. It's not required to display an image. 
+You must display **at least 3 different properties** inside the HTML. It's not required to display an image.
 
 You will need to link each result to a details.html page and to pass a parameter in the query string to that page.
 
@@ -65,7 +66,7 @@ Once you have the parameter, add it to the API URL in the format the API require
 
 Make an API call using the URL you create.
 
-Display **at least 3 different properties** from the received JSON on this page. 
+Display **at least 3 different properties** from the received JSON on this page.
 
 Set the title of the HTML page to be one of the property values, like name, title or another relevant property.
 
@@ -100,6 +101,6 @@ If all validation passes, add a message above the form indicating the form passe
 - Create a folder called your-name-js1-ca, e.g. mary-smith-js1-ca
 - Add all your code to this folder, zip the folder and submit the zip file
 
-### Time 
+### Time
 
 40 hours

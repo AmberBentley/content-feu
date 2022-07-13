@@ -124,11 +124,13 @@ Remember that feedback is your biggest asset in the design process. It allows fo
 |  | <br>READ<br>[What is Prototyping?](https://www.interaction-design.org/literature/topics/prototyping)(p.168-190) (3 hours) |
 | :-: | :-- |
 
-| WATCH<br><br>Video: [Rapid Prototyping in UX design - Importance of Prototyping](https://www.youtube.com/watch?v=Krw_GQfoYG0) (2m 25s)|
+| WATCH<br><br>Video: [Rapid Prototyping in UX design - Importance of Prototyping](https://www.youtube.com/watch?v=Krw_GQfoYG0) (2m 25s) |
 | :-: |
 
 | <br><br>Video: [UX Design: 6 Paper Prototyping](https://www.linkedin.com/learning/ux-design-6-paper-prototyping/benefits-of-paper-prototyping?u=43268076) (24m) |
 | :-: |
+
+<hr>
 
 ## Lesson Task
 

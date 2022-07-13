@@ -110,6 +110,8 @@ Page: [Naming](http://getbem.com/naming/) in the Get BEM docs. (30m)
 
 _Practice what you’ve learned about BEM in the lesson task and compare your work to the example answer._
 
+<hr>
+
 ## Lesson Task
 
 ### Brief

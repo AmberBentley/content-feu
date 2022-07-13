@@ -194,6 +194,8 @@ In the code above and in the video only one of the conditions needs to be met in
 
 ---
 
+<hr>
+
 ## Lesson Task
 
 There are practice questions in the master branch of <a href="https://github.com/NoroffFEU/lesson-task-pf-module2-lesson1" target="_blank">this repo</a>.

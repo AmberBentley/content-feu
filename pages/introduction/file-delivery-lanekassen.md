@@ -91,6 +91,8 @@ If you are unable to make an assignment delivery, you must contact a student suc
 
 Only extensions for health reasons will be accepted with a valid doctor's note.
 
+<hr>
+
 ## Lesson task
 
 If you haven't done so already, now will be a good time to set up your personal learning environment on your home computer. It can be a good idea to work inside a cloud folder.

@@ -6,6 +6,7 @@ sidebar: javascript-1
 permalink: javascript-1/arrow-functions-promises.html
 folder: javascript-1
 ---
+
 ## Introduction
 
 In this lesson we look at:
@@ -16,20 +17,21 @@ In this lesson we look at:
 - making API calls with the **then** and **catch** methods - regular promise syntax.
 
 ## Arrow functions
-Arrow functions don't use the function keyword and use the => characters instead, hence their name. 
+
+Arrow functions don't use the function keyword and use the => characters instead, hence their name.
 
 We can rewrite the following function:
 
 ```js
 function logMessage(message) {
-   console.log(message); 
+  console.log(message);
 }
 ```
 
 like this:
 
 ```js
-const logMessage = (message) =>  console.log(message);
+const logMessage = (message) => console.log(message);
 ```
 
 [Scrimba video](https://scrimba.com/c/cg29pns6)
@@ -56,14 +58,14 @@ If you declare a function
 
 ```js
 function logMessage() {
-    console.log("Function called"); 
+  console.log("Function called");
 }
 ```
 
 the function is run as soon as it's called:
 
 ```js
-logMessage();// Function called
+logMessage(); // Function called
 ```
 
 The following will be executed after the function has been called.
@@ -83,7 +85,7 @@ Running all the statements above will log:
 The code is called statement by statement and each statement waits for the previous one to finish before running. This is called synchronous code.
 
 ![Asynchronous code](../../images/js/3-3-asyncode.png)
- 
+
 That might seem obvious, but sometimes it's not a good idea to wait for the previous statement to finish before executing the next one.
 
 If we made a call to a server and the user's Internet connection was slow or the server was busy, waiting for the call to return before running the next code would create a poor user experience as the interface would appear unresponsive.
@@ -95,7 +97,7 @@ If we made a call to a server and the user's Internet connection was slow or the
 Promises are a way to execute code asynchronously. When we call a promise, our code doesn’t wait for a response, but moves on to the next line of code.
 
 ![Promises](../../images/js/3-3-promises.png)
- 
+
 Once executed, the promise is **pending**. At some point it will return and will either have been **fulfilled** or **rejected**.
 
 ![Promises2](../../images/js/3-3-promises2.png)
@@ -114,7 +116,7 @@ Sometimes what is executed in our fulfilled function also returns a promise. Thi
 
 ![Promises chaining](../../images/js/3-3-promisechaining.png)
 
-- **Fulfilled** states are handled by a Promise's **then** method. 
+- **Fulfilled** states are handled by a Promise's **then** method.
 - **Rejected** states are handled by a **catch** method.
 
 Both these methods take a function as an argument. This is where we can write code to handle the return value of the promise.
@@ -132,6 +134,8 @@ In this video we will rewrite the async/await API call to use regular promise sy
 <iframe src="https://player.vimeo.com/video/450776515?h=1adda6b1fd&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="2560" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="GET request with regular promises"></iframe>
 
 [Code](https://github.com/NoroffFEU/get-request-with-regular-promise-syntax) from the video.
+
+<hr>
 
 ## Lesson Task
 

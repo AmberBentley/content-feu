@@ -6,6 +6,7 @@ sidebar: javascript-1
 permalink: javascript-1/get-requests.html
 folder: javascript-1
 ---
+
 ## Introduction
 
 In this lesson, we will look at what truthy and falsy values are, and then examine query strings and GET requests.
@@ -29,7 +30,7 @@ If we are trying to check if a value exists (if it isn't null or undefined) for 
 
 ```js
 if (someVariable) {
-  console.log("someVariable exists"); 
+  console.log("someVariable exists");
 }
 ```
 
@@ -37,7 +38,7 @@ rather than having to check for both null and undefined like this:
 
 ```js
 if (someValue !== null && someValue !== undefined) {
-    console.log("someValue exists"); 
+  console.log("someValue exists");
 }
 ```
 
@@ -45,7 +46,7 @@ That applies to all the falsy values, so we can check that a variable's value is
 
 ```js
 if (someVariable) {
-   // someVariable has a truthy value 
+  // someVariable has a truthy value
 }
 ```
 
@@ -75,6 +76,8 @@ The following video takes another look at the same code.
 <iframe src="https://player.vimeo.com/video/450070174?h=77cfd12556&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="2560" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="GET requests Introduction - Part 2"></iframe>
 
 [Code](https://github.com/NoroffFEU/get-requests-introduction) from the video.
+
+<hr>
 
 ## Lesson Task
 

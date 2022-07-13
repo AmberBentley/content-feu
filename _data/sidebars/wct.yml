@@ -36,11 +36,4 @@ entries:
           - title: Intellectual Property
             url: /wct/intellectual-property.html
             output: web, pdf
-
-      - title: Course Assignment
-        output: web, pdf
-        folderitems:
-          - title: Course Assignment
-            url: /wct/ca.html
-            output: web
 # Copyright 2021 Google LLC

@@ -91,6 +91,8 @@ Note that all the full-time groups will be listed in the same full-time progress
 
 Please note that the progression plan dates might change slightly, especially for dates that are more than 6 months from the published version. Published dates are always included in the progression plan name. Keep an eye on Discord and the Announcements board on Moodle for any changes in the progression plan.
 
+<hr>
+
 ## Lesson task
 
 ### Extracting from progression plan

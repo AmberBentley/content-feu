@@ -6,6 +6,7 @@ sidebar: javascript-1
 permalink: javascript-1/length-trim-eventlistener.html
 folder: javascript-1
 ---
+
 ## Introduction
 
 In this lesson we will look at:
@@ -35,6 +36,8 @@ The following explores the onkeyup event by building a character counter for a m
 <iframe src="https://player.vimeo.com/video/448275148?h=729cff210a&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="2560" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="DOM events - onkeyup"></iframe>
 
 [Code](https://github.com/NoroffFEU/dom-events-onkeyup) from the video.
+
+<hr>
 
 ## Lesson Task
 

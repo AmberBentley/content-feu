@@ -46,7 +46,7 @@ _Figure 2: Poor information hierarchy._
 The image below is the same website, but the designers paid more attention to the information hierarchy. The main header is big enough to attract attention to the title of the story, the subheader gives more information into what happened, and the body text explains in full detail what went down. Pay attention to how spacing and grouping are used on the page:
 
 1. The main header is first, and below it is more information on the journalist and the article's time and date. The main header and information are grouped together.
- 
+
 2. Then there is an open space.
 
 3. We can see the main image underneath the open space with details about the image and the photographer's name. The image and details below are also grouped together.
@@ -59,7 +59,7 @@ The image below is the same website, but the designers paid more attention to th
 
 7. Then the user is presented with the rest of the news story.
 
-8. More open space. 
+8. More open space.
 
 9. Then the sign up. The CTA button is prominent for users to see the action immediately.
 
@@ -141,6 +141,8 @@ _Figure 8: A simple, uncluttered flight booking app._
 
 | <br><br>In book: _'Don't Make Me Think'_, <br>Chapter 8: The Farmer and the cowman should be friends<br>Chapter 9: Usability testing on 10 cents a day <br>Chapter 12: Accessibility and you |
 | :-: |
+
+<hr>
 
 ## Lesson Task
 

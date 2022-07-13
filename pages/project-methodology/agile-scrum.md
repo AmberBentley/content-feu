@@ -13,8 +13,7 @@ The English definition of "agile" means to move quickly or at a rapid pace. In t
 
 One example of a business using Agile is Spotify. Spotify has some big competitors and is made up of many teams across worldwide locations. They constantly have to be on top of their game to be better than the competition and - because they use Agile and specifically Scrum, which we will learn about later - they are able to continually develop and push out new software without disturbing other teams or waiting on documentation. They love the Agile method so much so that management even employs outside Agile coaches to be on teams.
 
-Two of the most widely used methodologies in Agile are Scrum and Kanban. We will discuss these a bit later. 
-Firstly, let’s get stuck into the values and principles of Agile.
+Two of the most widely used methodologies in Agile are Scrum and Kanban. We will discuss these a bit later. Firstly, let’s get stuck into the values and principles of Agile.
 
 ## Values of Agile
 
@@ -56,6 +55,7 @@ The Agile software development manifesto is based on 12 principles of Agile, whi
 Scrum is a project management method used within the Agile framework and is one of the most widely used project method frameworks. Scrum is used when the scope of the project is not clearly defined and when there are many complexities.
 
 ### Scrum roles
+
 Like in the traditional project management methodology, Scrum also has a set of roles which are linked to responsibilities. The Scrum roles are as follows:
 
 - Product owner – 1 person and usually a representative from business
@@ -63,7 +63,7 @@ Like in the traditional project management methodology, Scrum also has a set of 
 - Development team – usually between 3 – 9 people.
 
 ![Scrum roles](../../images/project-methodology/1-2-scrum.png)
- 
+
 **Product owner**
 
 The product owner is a representative from a business who is responsible for the product backlog. They usually prioritize the product backlog and will determine which user stories are of importance to the business. Product owners understand the business and can easily translate the requirement from the business to the development team.
@@ -78,7 +78,7 @@ The Scrum master usually forms part of the development team. The Scrum master ca
 
 The development team is responsible for the delivery of the product backlog. The development team manages their own time and is not driven by orders given. User stories which are assigned to the development team during the sprint planning are to be completed at the end of every sprint. All members in the development team are responsible for the successful delivery of the user stories in the sprint, even though some of the user stories are assigned to only one person.
 
-Now that we have a better understanding of the Scrum team, let's have a look at the different events in Scrum in more detail. 
+Now that we have a better understanding of the Scrum team, let's have a look at the different events in Scrum in more detail.
 
 ## Sprint
 
@@ -90,10 +90,10 @@ Sprint planning is usually conducted in a time contained meeting. During this me
 
 Each product backlog is noted on a sticky paper and pasted to the board. During the sprint planning meeting, these sticky notes are broken down further into detailed tasks which is then assigned to the development team.
 
-![Sprint planning](../../images/project-methodology/1-2-sprintplanning.jpg)
-_By Wiki Education Foundation [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], from Wikimedia Commons_
+![Sprint planning](../../images/project-methodology/1-2-sprintplanning.jpg) _By Wiki Education Foundation [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], from Wikimedia Commons_
 
 ### Daily Scrum or stand up
+
 Each person in the developments has a few minutes to speak about three things.
 
 - What they have done in the previous day
@@ -102,8 +102,7 @@ Each person in the developments has a few minutes to speak about three things.
 
 In case you needed a visualization of Scrum, here's NASA in the 1970s during a daily stand-up:
 
-![Daily scrum](../../images/project-methodology/1-2-dailyscrum.jpg)
-_By NASA on The Commons [No restrictions], via Wikimedia Commons_
+![Daily scrum](../../images/project-methodology/1-2-dailyscrum.jpg) _By NASA on The Commons [No restrictions], via Wikimedia Commons_
 
 ## Sprint review
 
@@ -119,6 +118,8 @@ Before a new sprint begins, the Scrum team has a meeting to discuss and give fee
 
 Video: [Scrum: The Basics](https://www.linkedin.com/learning/scrum-the-basics?u=43268076&auth=true) (1h)
 
+<hr>
+
 ## Lesson Task
 
 ### Brief
@@ -126,9 +127,10 @@ Video: [Scrum: The Basics](https://www.linkedin.com/learning/scrum-the-basics?u=
 In this task you will be required to demonstrate your understanding of Scrum through its roles and events and how they relate to one another.
 
 ### Level 1 Process
-1.	List the Scrum roles and briefly discuss each in your own words.
-2.	Draw a flow diagram illustrating the Scrum events.
+
+1. List the Scrum roles and briefly discuss each in your own words.
+2. Draw a flow diagram illustrating the Scrum events.
 
 ### Level 2 Process
 
-1.	Discuss each Scrum event in detail and list all the Scrum roles which are involved and/or responsible for each Scrum event.
+1. Discuss each Scrum event in detail and list all the Scrum roles which are involved and/or responsible for each Scrum event.

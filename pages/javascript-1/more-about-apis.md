@@ -6,6 +6,7 @@ sidebar: javascript-1
 permalink: javascript-1/more-about-apis.html
 folder: javascript-1
 ---
+
 ## Introduction
 
 In this lesson we will look at:
@@ -24,17 +25,16 @@ A lot of websites make calls to different APIs living on different servers, so w
 
 There are two ways to solve this issue:
 
-1.	The API can be configured to allow cross-origin requests.
-2.	We can send the API calls through a proxy service.
+1. The API can be configured to allow cross-origin requests.
+2. We can send the API calls through a proxy service.
 
 Because we don't have control over how the API is configured unless we develop the API, the second option is our only solution.
 
-The API found at [https://noroffcors.herokuapp.com/](https://noroffcors.herokuapp.com/) is a service we can use to enable cross-origin requests. 
+The API found at [https://noroffcors.herokuapp.com/](https://noroffcors.herokuapp.com/) is a service we can use to enable cross-origin requests.
 
 To use it we simply prepend that URL to the URL of the API we want to use.
 
-The following API endpoint returns a list of elephants:
-[https://elephant-api.herokuapp.com/elephants](https://elephant-api.herokuapp.com/elephants)
+The following API endpoint returns a list of elephants: [https://elephant-api.herokuapp.com/elephants](https://elephant-api.herokuapp.com/elephants)
 
 If you called that URL with fetch like this:
 
@@ -63,96 +63,96 @@ Now the API call will work.
 
 [Code](https://github.com/NoroffFEU/get-request-with-cors-fix) from the video.
 
-## Authenticating an API call 
+## Authenticating an API call
 
-Everything that you need to know about fetching data from an API should be in its documentation including if you need to add additional information when making the API call, so make sure you read the documentation thoroughly. Each API is different with unique endpoints, parameters and data, as well as ways of authenticating the request. 
+Everything that you need to know about fetching data from an API should be in its documentation including if you need to add additional information when making the API call, so make sure you read the documentation thoroughly. Each API is different with unique endpoints, parameters and data, as well as ways of authenticating the request.
 
-### No authentication 
+### No authentication
 
-Some APIs don’t require authentication. You can just make a request to one of their endpoints and they’ll give you the data. 
+Some APIs don’t require authentication. You can just make a request to one of their endpoints and they’ll give you the data.
 
 An example is [https://punkapi.com/v2/beers?brewed_before=11-2012](https://punkapi.com/v2/beers?brewed_before=11-2012)
 
-This endpoint has no authentication, but you can see that additional information is passed in the query string to ask for data from before November 2012. The question mark is used to differentiate a query string from the rest of the url, and the parameter ‘brewed_before’ is listed in the API documentation as a way to filter the results for that endpoint. 
+This endpoint has no authentication, but you can see that additional information is passed in the query string to ask for data from before November 2012. The question mark is used to differentiate a query string from the rest of the url, and the parameter ‘brewed_before’ is listed in the API documentation as a way to filter the results for that endpoint.
 
 A fetch request for this API would look like:
 
 ```js
-const url = “https://punkapi.com/v2/beers?brewed_before=11-2012”; 
+const url = “https://punkapi.com/v2/beers?brewed_before=11-2012”;
 
-async function getData(url){ 
+async function getData(url){
 
-        const response = await fetch(url); 
+        const response = await fetch(url);
 
-        const data = await response.json(); 
+        const data = await response.json();
 
-        console.log(data); 
+        console.log(data);
 
-} 
+}
 ```
 
-## Authenticating in the URL 
+## Authenticating in the URL
 
-Some APIs require you to have an API key and to send it with your url as a query string parameter. In the above example we passed a date as a query string, but some APIs want the API key as a parameter in the url. 
+Some APIs require you to have an API key and to send it with your url as a query string parameter. In the above example we passed a date as a query string, but some APIs want the API key as a parameter in the url.
 
-An example is [https://api.spoonacular.com/recipes/716429/information?apiKey=YOUR-API-KEY&includeNutrition=true](https://api.spoonacular.com/recipes/716429/information?apiKey=YOUR-API-KEY&includeNutrition=true) 
+An example is [https://api.spoonacular.com/recipes/716429/information?apiKey=YOUR-API-KEY&includeNutrition=true](https://api.spoonacular.com/recipes/716429/information?apiKey=YOUR-API-KEY&includeNutrition=true)
 
-For that endpoint we’re adding the API key as a parameter, and whether to include nutrition as another parameter with the & sign. 
+For that endpoint we’re adding the API key as a parameter, and whether to include nutrition as another parameter with the & sign.
 
-A fetch request for this API would look like: 
+A fetch request for this API would look like:
 
 ```js
-const key = “12345abcdef” 
+const key = “12345abcdef”
 
-const url = `https://api.spoonacular.com/recipes/716429/information?apiKey=${key}&includeNutrition=true` 
+const url = `https://api.spoonacular.com/recipes/716429/information?apiKey=${key}&includeNutrition=true`
 
-async function getData(url){ 
+async function getData(url){
 
-            const response = await fetch(url); 
+            const response = await fetch(url);
 
-            const data = await response.json(); 
+            const data = await response.json();
 
-            console.log(data); 
+            console.log(data);
 
-} 
+}
 ```
 
 **READ**
 
-Page: [Authentication](https://spoonacular.com/food-api/docs#Authentication) if you want to read more about authentication with the Spoonacular API.  
+Page: [Authentication](https://spoonacular.com/food-api/docs#Authentication) if you want to read more about authentication with the Spoonacular API.
 
 ## Authenticating in the init object
 
-fetch() is a global method which accepts two arguments. The first argument is the resource that you want to fetch, this is usually a string for the url eg. fetch(“https://api.com”) and is mandatory for making the API call. There is a second, optional argument which is an object called ‘init’ where we’re able to place additional information for the API we’re calling. These could include things like what method to use for the request or credentials to authenticate the request. 
+fetch() is a global method which accepts two arguments. The first argument is the resource that you want to fetch, this is usually a string for the url eg. fetch(“https://api.com”) and is mandatory for making the API call. There is a second, optional argument which is an object called ‘init’ where we’re able to place additional information for the API we’re calling. These could include things like what method to use for the request or credentials to authenticate the request.
 
-Rapid API offers a list of APIs we can use, some of them are free to use up to a certain amount of API calls. An example is the Tasty API where they require you to send a host name and key in the headers property of the ‘init’ object which gets added to the fetch method after the url. In the example below we’ve named the ‘init’ object options.  
+Rapid API offers a list of APIs we can use, some of them are free to use up to a certain amount of API calls. An example is the Tasty API where they require you to send a host name and key in the headers property of the ‘init’ object which gets added to the fetch method after the url. In the example below we’ve named the ‘init’ object options.
 
 ```js
-const options = { 
+const options = {
 
-          method: 'GET', 
+          method: 'GET',
 
-          headers: { 
+          headers: {
 
-                    'X-RapidAPI-Host': ' tasty.p.rapidapi.com', 
+                    'X-RapidAPI-Host': ' tasty.p.rapidapi.com',
 
-                    'X-RapidAPI-Key': '12345abcdef' 
+                    'X-RapidAPI-Key': '12345abcdef'
 
-           } 
+           }
 
-}; 
+};
 
-const url = “https://tasty.p.rapidapi.com/recipes/auto-complete?prefix=pasta” 
+const url = “https://tasty.p.rapidapi.com/recipes/auto-complete?prefix=pasta”
 
 async function getData(url){
 
-           const response = await fetch(url, options); 
+           const response = await fetch(url, options);
 
-           const data = await response.json(); 
+           const data = await response.json();
 
-           console.log(data); 
+           console.log(data);
 
-} 
+}
 ```
 
 **READ**
@@ -165,6 +165,8 @@ Page: [Tasty API Documentation](https://rapidapi.com/apidojo/api/tasty/) to read
 - [https://rapidapi.com/collection/list-of-free-apis](https://rapidapi.com/collection/list-of-free-apis)
 - [https://github.com/public-apis/public-apis](https://github.com/public-apis/public-apis)
 - Many others are available through a search.
+
+<hr>
 
 ## Lesson Task
 

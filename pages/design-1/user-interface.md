@@ -31,8 +31,7 @@ _Figure 2. Mr. Delivery Mobile food app, 2022._
 
 The most crucial UI design aspect is to make the interaction between human (user) and software (product) easy and smooth while also keeping the look attractive and straightforward.
 
-![A relaxing app](../../images/design-1/User-Interface/Userinterfacedesign-3.png)
-_Figure 3. An example of an app that helps users relax and fall asleep easily._
+![A relaxing app](../../images/design-1/User-Interface/Userinterfacedesign-3.png) _Figure 3. An example of an app that helps users relax and fall asleep easily._
 
 ## UI elements
 
@@ -151,8 +150,9 @@ A UI kit is a useful resource that can assist UI designers in designing an inter
 
 ![Material UI kit](../../images/design-1/User-Interface/Userinterfacedesign-9.png)
 
-
 _Figure 9: Material Design UI example (Source: [material.io](https://material.io/design/material-theming/))._
+
+<hr>
 
 ## Lesson Task
 

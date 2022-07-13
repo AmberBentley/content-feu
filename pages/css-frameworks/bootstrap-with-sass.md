@@ -27,6 +27,8 @@ INFO
 
 Be sure to practise what you’ve learned by undertaking the lesson task.
 
+<hr>
+
 ## Lesson Task
 
 ### Brief

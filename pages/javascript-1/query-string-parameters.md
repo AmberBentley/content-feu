@@ -6,6 +6,7 @@ sidebar: javascript-1
 permalink: javascript-1/query-string-parameters.html
 folder: javascript-1
 ---
+
 ## Introduction
 
 In this lesson we will look at:
@@ -14,6 +15,7 @@ In this lesson we will look at:
 - Passing variables to other pages in the query string.
 
 ## Retrieving parameters
+
 In this video, we will look at how we can retrieve parameter values (essential variables) from the query string using code like the below:
 
 ```js
@@ -38,6 +40,8 @@ In this video, we will add a variable to the href value in an <a> tag, retrieve 
 <iframe src="https://player.vimeo.com/video/453080750?h=328b6f90fd&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="2560" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Passing parameters from one page to another using the querystring"></iframe>
 
 [Code](https://github.com/NoroffFEU/passing-variables-to-other-pages-in-the-querystring) from the video.
+
+<hr>
 
 ## Lesson Task
 

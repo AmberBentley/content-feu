@@ -6,6 +6,7 @@ sidebar: javascript-1
 permalink: javascript-1/form-validation.html
 folder: javascript-1
 ---
+
 ## Introduction
 
 In this lesson we look at:
@@ -37,9 +38,9 @@ The function below could be used to test if the argument passed in looks like an
 
 ```js
 function validateEmail(email) {
-const regEx = /\S+@\S+\.\S+/;
-const patternMatches = regEx.test(email);
-return patternMatches;
+  const regEx = /\S+@\S+\.\S+/;
+  const patternMatches = regEx.test(email);
+  return patternMatches;
 }
 ```
 
@@ -70,6 +71,8 @@ We're going to use the **trim()** method and the **length** property to help us 
 <iframe src="https://player.vimeo.com/video/453789618?h=501a1e3296&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="2560" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Simple form validation"></iframe>
 
 [Code](https://github.com/NoroffFEU/simple-form-validation) from the video.
+
+<hr>
 
 ## Lesson Task
 

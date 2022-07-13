@@ -238,6 +238,8 @@ This video is an introduction to functions and includes a more practical example
 
 ---
 
+<hr>
+
 ## Lesson Task
 
 There are practice questions in the master branch of <a href="https://github.com/NoroffFEU/lesson-task-pf-module2-lesson4" target="_blank">this repo</a>.

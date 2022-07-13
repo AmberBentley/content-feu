@@ -108,6 +108,8 @@ The lesson task includes another two pages in the XD design for you to code your
 
 Sections: [layout](https://getbootstrap.com/docs/4.5/layout/overview/), [components](https://getbootstrap.com/docs/4.5/components/alerts/) and [utilities](https://getbootstrap.com/docs/4.5/utilities/borders/) of the Bootstrap docs to get an overview of everything available in the library. (1 hour)
 
+<hr>
+
 ## Lesson Task
 
 ### Brief

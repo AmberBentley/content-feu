@@ -6,16 +6,17 @@ sidebar: html-css
 permalink: html-css/images-icons.html
 folder: html-css
 ---
+
 ## Introduction
 
 There are two ways of adding images to the page:
 
 - You can add an image into the HTML document using the `<img>` tag
-- Or you can add the image as a background-image using CSS. 
+- Or you can add the image as a background-image using CSS.
 
 Choosing which option is right for the image you want to add is largely one of semantics, as well as the practicalities of the layout you have chosen.
 
-In general, if the image you're looking to add is there to make the site look good, then adding it using CSS is best. If the image is there for content reasons and it would be useful for someone using assistive technologies or a search engine to know that this image is in the content of the page, then use the `<img>` tag. 
+In general, if the image you're looking to add is there to make the site look good, then adding it using CSS is best. If the image is there for content reasons and it would be useful for someone using assistive technologies or a search engine to know that this image is in the content of the page, then use the `<img>` tag.
 
 The two most common formats you'll use for images are PNG, which is great for icons and logos as you can keep space in the image, and JPG, which offers very good compression for pictures.
 
@@ -36,9 +37,9 @@ Another popular way of managing image sizes is using percentage. This is especia
 
 ### Border-radius
 
-If you wanted to create rounded edges on your image, for example for a profile picture, you would use the `border-radius` property.  
+If you wanted to create rounded edges on your image, for example for a profile picture, you would use the `border-radius` property.
 
-`border-radius` can also be used on other elements as well. 
+`border-radius` can also be used on other elements as well.
 
 You can decide how rounded you want the corners, and which corners you want to be rounded.
 
@@ -78,16 +79,20 @@ One of the most popular sets of icons for online is the Font Awesome library. He
 
 - Go to the Font Awesome website.
 - Register for an account. Creating an account will allow you to get access to their CDN (Content Delivery Network) where you will be able to load icons from their network.
-- When you've signed up, you'll be given a script tag which you can add to the head of your HTML document. 
-- Once you've added the script tag to each HTML page on which you want icons, you can start adding the icons to the HTML. 
+- When you've signed up, you'll be given a script tag which you can add to the head of your HTML document.
+- Once you've added the script tag to each HTML page on which you want icons, you can start adding the icons to the HTML.
 
 There is a huge library of icons from which to choose. Once you've chosen your icons, you can add them like so:
+
+<hr>
 
 ## Activities
 
 **WATCH**
 
 [This tutorial video on using and adding images to the page.](https://scrimba.com/scrim/c7PaPeAZ?pl=paaBbTa) (6m 10s)
+
+<hr>
 
 ## Lesson Task
 

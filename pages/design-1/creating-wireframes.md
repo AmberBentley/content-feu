@@ -182,6 +182,8 @@ Keep in mind that the wireframe serves as the skeleton of the website. The conte
 | READ<br><br>Article: [The Definitive Guide: How to create your first wireframe](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/) (15m). |
 | :-: |
 
+<hr>
+
 ## Lesson Task
 
 ### Brief

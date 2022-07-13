@@ -36,9 +36,10 @@ Project management in the SDLC has 4 phases, namely:
 - Construction
 - Implementation
 
-Each of the different phases above has their own role player who contributes to the successful execution of the project. 
+Each of the different phases above has their own role player who contributes to the successful execution of the project.
 
 ## Requirements
+
 When planning a project, it’s vital to know what the requirements are for the project. What are the ‘must-haves’ for the project, and what are ‘nice-to-haves’. These requirements are gathered by talking to the stakeholders.
 
 ### Produce Functional Specifications
@@ -59,11 +60,13 @@ For a contact form, the functional requirements might be:
 - The system must validate the email address.
 
 ### Use case
+
 A use case puts functionalities into a series of steps which allows developers to get a more rounded perspective of the requirements. Often ‘system must’ requirements are formulated into a use case.
 
 - A user arrives to the contact page and fills in the form. If the inputs are all valid, the data is sent to the contact inbox and the user receives a message confirming the message has been sent.
 
 ### User stories
+
 User stories give great insight into the user’s perspective for identifying functionalities. It uses a simple construction which makes it easy to access for developers and stakeholders alike and lets them decide what is and isn’t important for the user.
 
 A common construction of a user story is:
@@ -95,11 +98,12 @@ Once the developer has completed the development, the developer will do systems 
 It is good practice for the developer to test the solution while they are developing in order to fix any bugs which might be found and can then be fixed right there and then. It is also good practice for the developer to sit with the business analyst to test the solution. This will ensure that the requirements have been met.
 
 ### Produce Technical Documentation
+
 Once the developer has finalized the development and development testing, they will create or update the technical documentation. This is updated regularly as system and code changes are done. This is a very good document to have as any developer can use it as a point of reference for developing and allowing the developer to understand the system better.
 
 ## Implementation
 
-During the Implementation phase, the product is created. This means the product finally becomes tangible, and this can be an exciting milestone for the customer. This phase includes testing and installation - all while following the technical specification document. 
+During the Implementation phase, the product is created. This means the product finally becomes tangible, and this can be an exciting milestone for the customer. This phase includes testing and installation - all while following the technical specification document.
 
 ## Activity
 
@@ -109,6 +113,8 @@ During the Implementation phase, the product is created. This means the product 
 - [What Goes Into a Functional Specification?](http://www.bridging-the-gap.com/functional-specification/)
 - [How To Write User Stories, Epics, & Personas](https://www.freecodecamp.org/news/how-and-why-to-write-great-user-stories-f5a110668246/)
 
+<hr>
+
 ## Lesson Task
 
 ### Brief
@@ -117,10 +123,10 @@ Project management and the SDLC can sometimes be an overwhelming mass of informa
 
 ### Level 1 Process
 
-1.	Create a template for a project management plan according to the SDLC that is easy for you to understand.
-2.	Create a template for a functional specification.
+1. Create a template for a project management plan according to the SDLC that is easy for you to understand.
+2. Create a template for a functional specification.
 
 ### Level 2 Process
 
-1.	Briefly describe the role of the project manager.
-2.	Briefly describe the role of a business analyst.
+1. Briefly describe the role of the project manager.
+2. Briefly describe the role of a business analyst.
