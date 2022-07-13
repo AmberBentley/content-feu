@@ -388,14 +388,9 @@ Your task is to rebuild the styles for your page, only using your own custom SAS
 
 You do not need to copy Bootstrap's implementation exactly - but do not change any classnames in HTML. 
 
-### Resources
-
-Download the XD file from [this repo](https://github.com/NoroffFEU/introduction-to-sass-lesson-task).
-
 ### Process
 
-1. Code the design using Sass.
-
-### Example answer
-
-You can find an example solution in the [answer branch](https://github.com/NoroffFEU/introduction-to-sass-lesson-task/tree/answer) of the repo.
+1. Copy an existing Bootstrap HTML file.
+2. Design a theme adjustment that provides contrast with the original.
+3. Remove all references to Bootstrap CSS.
+4. Rebuild the styles for the new design using SASS.
