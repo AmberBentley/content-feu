@@ -2,127 +2,192 @@
 title: Introduction to Bootstrap
 keywords: sample
 tags: CSS Frameworks
-sidebar: css-frameworks
-permalink: css-frameworks/intro-to-bootstrap.html
-folder: css-frameworks
+sidebar: css-frameworks/module-1
+permalink: css-frameworks/module-1/intro-to-bootstrap.html
+folder: css-frameworks/module-1
 ---
 
 ## Introduction
 
+Bootstrap is a major CSS framework that has become ubiquitous in the modern web development environment. It provides a collection of HTML and CSS patterns that enable fast and reliable development of responsive styles.
+
+Prior to Flexbox and CSS Grid, achieving responsive layouts was difficult and time consuming. Bootstrap offered a simple syntax using class names to allow for responsive designs to be achieved without any custom CSS being required.
+
+It has been particularly popular for those creating an `MVP` or Minimal Viable Product, as it frees up development time that would otherwise be spent on styling. Due to it's wide spread popularity, many companies adopted this package as the foundation for their applications. This meant that they could hire developers with experience with Bootstrap and would not need to retrain them on the companies' custom CSS assets.
+
+Since its inception, Bootstrap has undergone 5 major version changes. Each major version represents `breaking changes` from the last - this is crucial to remember when working with packages such as Bootstrap. Each major version of a package will come with new documentation, as well as new features and improvements. Being aware of your version number will help you to find the correct documentation.
+
 Each lesson in the CSS Frameworks course includes a practical lesson task related to the study material. We highly recommend attempting each task and then comparing your attempt to the supplied example answer. The more you code, the quicker you will improve.
 
-## Node.js, NPM and NPX
+## Installing Bootstrap
 
-While we won't use Node.js or npm in the first few lessons, we do need them installed so we can use them in subsequent lessons and courses.
+There are two ways to use Bootstrap in your projects:
 
-### NODE.js
+1. Using `npm` to install Bootstrap as a `dependency`.
+2. Using a `cdn` link to include Bootstrap in your project.
 
-NODE.js is a JavaScript runtime. For a long time, JavaScript ran only in browsers and was the only language that could run in browsers. Using Node, it's possible to execute JavaScript wherever we can install NODE, including on web servers and our own computers.
+From these two options, each has their own advantages. If you do not intend to customise Bootstrap, it is quicker to use the `cdn` approach. If you intend to customise Bootstrap styles, to change the theme colour scheme for example, then you should use `npm` to install.
 
-### NPM
+### Installing with NPM
 
-NPM is a package manager we can use to install, update, and remove JavaScript tools, libraries, and frameworks. Using npm packages improves our development experience and speeds up the coding process.
+Before you begin, make sure that you have followed the guide to install NodeJS on your computer. You can find the tutorial here: [Installing Node](/node/install.html). We recommend that you use `NVM` to manage your NodeJS installations.
 
-You can install packages globally (accessible from any folder on your computer) or locally (accessible only from the folder in which the package is installed).
+If NodeJS is installed correctly you can proceed to use NPM to add this as a dependency to your project:
 
-### NPX
+```bash
+npm install bootstrap
+```
 
-NPX is another tool installed alongside NPM when installing node.
+If this is successful, you should find the Bootstrap directory inside the `node_modules` folder inside your project.
 
-One of the main benefits of NPX is that we can use it to execute packages or libraries that we haven't installed.
+The next step is to `reference` Bootstrap in your HTML file. This is done by adding the following to your HTML file:
 
-We will use npx to run the create-react-app package later in the course.
+```html
+<link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+```
 
-### Installation
+We will discuss using SASS to customise Bootstrap in a later lesson.
 
-You can install Node (which will also install NPM) from the downloadable installation files on this site: [https://nodejs.org/en/Use](https://nodejs.org/en/Use) the LTS version.
+### Using a CDN link
 
-You can check if the installation was successful by running `node -v` in your command line or terminal. If successfully installed, it will return the node version.
+If you do not need to customise Bootstrap, you can find the available CDN links here: [Bootstrap CDN links](https://getbootstrap.com/docs/5.2/getting-started/download/#cdn-via-jsdelivr).
 
-When you install local packages with NPM they will be installed inside a `node_modules` folder and saved in the `dependencies` or `dev_depencenies` section of a `package.json` files in your project folder.
+These will be included in your HTML `<head>` like so:
 
-The packages in the node_modules folder will all have their own packages and the folder will become very big. It should always be included in the gitignore file in a project. The gitignore file lists which files and folders should not be commited to a repository.
+```html
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+```
 
-The node_modules should also be removed before submitting any project folders to Noroff or to tutors on Discord.
+## Building with Bootstrap
 
-### Installing all packages for a project
+The main difference between an application built with Bootstrap and with custom CSS styles is that the majority of the styling can be done using provided Bootstrap classes. Generally speaking there should only be a small amount of custom CSS when working with Bootstrap as the utility classes provided by the framework are quite comprehensive.
 
-The command below reads the dependencies and dev dependencies from the package.json file in a project and fetches all the packages listed there:
+### Bootstrap Classes
 
-`npm install`
+Bootstrap exposes it's functionality via a system of CSS Classes. These can be combined in various ways to build many different layouts. Within Bootstrap there are `Utility` and `Component` classes available:
 
-Run this command in your command line or terminal when you clone or download a repo that includes a package.json file.
+#### Utility Classes
 
-The packages in the dependencies section of package.json are the packages that will be installed when the build command runs and a project is in production mode.
+One of the most important features of Bootstrap is the provision of `Utility Classes` which can be used to avoid writing custom CSS for common tasks.
 
-The packages in the dev_dependencies section will be installed, along with those in the dependencies section, when the project is running in development mode.
+You can read more about the utility classes here: [Bootstrap Utility Classes](https://getbootstrap.com/docs/5.2/layout/utilities/).
 
-To make sure your built files are as small as possible, keep dev-related packages like code formatters or linters in the dev_dependencies section.
+##### Spacing
 
-You can install a package as a dev dependency by adding the –D switch to the installation command:
+When managing margins, padding and gaps (spacing) for HTML elements, there is a suite of classes that can be used to keep these values consistent:
 
-`npm install package_name -D`
+```
+.m-0    >     No margin on all sides
+.m-1    >     Smallest margin on all sides
+.m-2    >     Small margin on all sides
+.m-3    >     Medium margin on all sides
+.m-4    >     Large margin on all sides
+.m-5    >     Largest margin on all sides
+```
 
-> MAC AND LINUX USERS: A WARNING ABOUT INSTALLING NODE  
-> NEVER use the sudo command to install Node or any npm package as this will cause permission problems and these problems are difficult to fix.
+As well as `-<number>` suffixes that control margin sizing, the location of the padding can also be controlled:
 
-## Building a site with Bootstrap
+```
+.mt-1    >     Smallest margin on top
+.mb-2    >     Small margin on bottom
+.my-3    >     Medium margin on top and bottom
+.mx-4    >     Large margin on left and right
+```
 
-Bootstrap is a popular CSS and JavaScript library used to speed up development.
+In Bootstrap `left` and `right` are referred to as `start` and `end` respectively. This is to ensure that the syntax makes sense to user's that read from left to right (LTR) as well as right to left (RTL).
 
-We can use pre-built components from the library to quickly create layouts and UI, then apply custom styles to adapt the components to the design we are building.
+```
+.ms-1    >     Smallest margin at start (left)
+.me-2    >     Small margin at end (right)
+```
 
-In the video lessons on the next page, we will build a three-page website from an XD design using Bootstrap.
+You can read more about spacing utility classes here: [Spacing Utility Classes](https://getbootstrap.com/docs/5.2/utilities/spacing/).
 
-## Videos and Activities
+##### Flexbox
 
-> WARNING Please note the following videos use Bootstrap v4.5. If you want to follow along with the videos on your computer, please make sure you’re using Bootstrap v4.5. To read the documentation for Bootstrap v4.5 you can use this link (note the v4.5 in the header where you can choose other versions).   
-> You can use the latest version of Bootstrap, but there will be discrepancies between the videos and the documentation. Always make sure the version of the documentation on getbootstrap.com is the version that you want to be using.  
-> When you work as a developer you’ll get projects which use specific versions of a framework and it’s important to be able to make sure you’re reading the correct documentation for the version of the framework being used.
+Bootstrap is built with flexbox and provides direct access to flex styles through a system of classes.
 
-### Video Lesson 1
+```
+.d-flex                  >     Display flex
+.flex-column             >     Arrange as a column
+.flex-row                >     Arrange as a row
+.flex-wrap               >     Wrap items
+.flex-nowrap             >     Do not wrap items
+.justify-content-center  >     Centre align items along the main axis
+.align-items-center      >     Centre align items along the cross axis
+```
 
-The first video covers linking to the required files and building out the pages using Bootstrap components without customising any of the styles.
+For example, in order to centre align items on both axes, you can use the following classes:
 
-<iframe src="https://player.vimeo.com/video/435862409?h=ee76e9eb59" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+```html
+<div class="d-flex align-items-center justify-content-center">
+  <div class="border p-5">Centre</div>
+</div>
+```
 
-#### INFO
+You can read more about the flexbox system here: [Flexbox](https://getbootstrap.com/docs/5.2/utilities/flex/).
 
-[Here is the link](https://vimeo.com/435862409/ee76e9eb59) for the above video: [Code from the video.](https://github.com/NoroffFEU/introduction-to-bootstrap)
+##### Other Utilities
 
-### Video Lesson 2
+There are many more utility classes that can be used to customise Bootstrap. These include classes to control:
 
-In the second video we’ll add custom styles to match the design.
+- Text alignment
+- Text style
+- Font weight
+- Font size
+- Text colour
+- Background colour
+- Border
+- Shadow
+- Position
+- Overflow
 
-<iframe src="https://player.vimeo.com/video/436108836?h=522ed73410" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+Before writing custom CSS in a Bootstrap project, it is worth spending some time to research if a Bootstrap class can handle this instead.
 
-#### INFO
+#### Component Classes
 
-[Here is the link](https://vimeo.com/436108836/522ed73410) for the above video: [Code from the video](https://github.com/NoroffFEU/introduction-to-bootstrap/tree/part-2) is on the **part-2** branch of the repo.
+Unlike utility classes, which refer directly to a specific style, component classes represent a group of styles used to build a specific component. For example, we may use the `btn` component to add styles to an element that the user can interact with:
 
-The lesson task includes another two pages in the XD design for you to code yourself. Be sure to check your work against the example answer.
+```html
+<button class="btn btn-primary">Primary Button</button>
+<a href="#" class="btn btn-secondary">Secondary Button</a>
+<input type="button" class="btn btn-outline-primary" value="Outlined Primary Button">
+<input type="submit" class="btn btn-success" value="Success Submit Button">
+<input type="reset" class="btn btn-warning" value="Warning Reset Button">
+```
 
-## Activity
+All of these classes enable an HTML element to be styled in a consistent way. You can read more about the button component here: [Button Component](https://getbootstrap.com/docs/5.2/components/buttons/).
 
-### READ
+Other popular components include:
 
-Sections: [layout](https://getbootstrap.com/docs/4.5/layout/overview/), [components](https://getbootstrap.com/docs/4.5/components/alerts/) and [utilities](https://getbootstrap.com/docs/4.5/utilities/borders/) of the Bootstrap docs to get an overview of everything available in the library. (1 hour)
+- `.card`
+- `.accordion`
+- `.alert`
+- `.badge`
+- `.breadcrumb`
+- `.modal`
+- `.nav`
+
+These component groups form the basis of the Bootstrap framework and should be used like lego blocks to build up a layout.
 
 ## Lesson Task
 
 ### Brief
 
-In this task you will practise using Bootstrap to create page layouts.
+For this task, you will create a single page application that uses Bootstrap. You should not customise Bootstrap in any way or use custom CSS at all.
 
-### Resources
-
-Download the XD file from this [repo](https://github.com/NoroffFEU/introduction-to-bootstrap-lesson-task).
+Design a landing page for your project that includes a header, navigation, and a footer. The navigation should scroll you to the correct location on the page. Include a form that allows the user to register their interest in your project.
 
 ### Process
 
-1. Code the additional pages in the design using Bootstrap.
-2. Make sure the layouts work on all device sizes.
+1. Design a simple one page landing page
+2. Create a new project folder
+3. Link the CDN Bootstrap CSS and JS files to your HTML
+4. Use HTML + Bootstrap CDN to build the page
 
-### Example answer
+### Resources
 
-You can find an example solution in the [answer branch](https://github.com/NoroffFEU/introduction-to-bootstrap-lesson-task/tree/answer) of the repo.
+- [Bootstrap Documentation](https://getbootstrap.com/docs/5.2/)
+- [Bootstrap CDN](https://getbootstrap.com/docs/5.2/getting-started/download/)
+- [Bootstrap Examples](https://getbootstrap.com/docs/5.2/examples/)
