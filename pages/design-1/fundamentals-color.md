@@ -367,25 +367,31 @@ _Figure 27. Black is often associated with elegance and a feeling of sophisticat
 
 ### Activity 1
 
-| READ<br><br>Article: [To understand more on reproducing and managing colour across different media. It is a common and frustrating issue, so ensure that you understand the differences between CMYK, RGB, and sRGB.
+**READ**
 
-From David Kadavy’s book Design for Hackers: Section: 'Colour Models in Action: Why Your Business Card Doesn't (and Never Will) Match Your Website' (pages 225-233) (1h)]| | :-: |
+Article: [To understand more on reproducing and managing colour across different media. It is a common and frustrating issue, so ensure that you understand the differences between CMYK, RGB, and sRGB.
+
+From David Kadavy’s book Design for Hackers: Section: 'Colour Models in Action: Why Your Business Card Doesn't (and Never Will) Match Your Website' (pages 225-233) (1h)
 
 ### Activity 2
 
-| READ<br><br>Article: [When designing for web, there are already some established standards and patterns for the choice of colour. It´s good to know them.
+**READ**
 
-From David Kadavy’s book Design for Hackers: Section: 'Colour Choices and Web Conventions' (pages 249-255) (1h)] | | :-: |
+Article: [When designing for web, there are already some established standards and patterns for the choice of colour. It´s good to know them.
+
+From David Kadavy’s book Design for Hackers: Section: 'Colour Choices and Web Conventions' (pages 249-255) (1h)
 
 ### Activity 3
 
-| WATCH<br><br> Adobe Colour is an excellent online tool to create colour palettes. Watch the following video from LinkedIn Learningas a short introduction to Adobe Color. Remember to be logged in to your Noroff account. Video Course: [Adobe Color Essential Training](https://www.linkedin.com/learning/adobe-color-essential-training/a-colorful-journey?u=43268076) (2m 35s) by Bart Van de Wiele. |
-| :-: |
+**WATCH**
+
+Adobe Colour is an excellent online tool to create colour palettes. Watch the following video from LinkedIn Learningas a short introduction to Adobe Color. Remember to be logged in to your Noroff account. Video Course: [Adobe Color Essential Training](https://www.linkedin.com/learning/adobe-color-essential-training/a-colorful-journey?u=43268076) (2m 35s) by Bart Van de Wiele.
 
 ### Activity 4
 
-| READ<br><br>Article: [A Quick Look at Types of Grids for Creating Professional Designs](https://pixel77.com/color-psychology-web-design-color-schemes-big-websites/) by Adriana Marinica. |
-| :-: |
+**READ**
+
+Article: [A Quick Look at Types of Grids for Creating Professional Designs](https://pixel77.com/color-psychology-web-design-color-schemes-big-websites/) by Adriana Marinica.
 
 <hr>
 
@@ -401,7 +407,7 @@ Choosing the right colours for your website is not always easy. Humans can see a
 
 Your task is to create one colour palette with Adobe Color CC from any photograph of your choice.
 
-> NOTE It's important to watch the video specified in 'Activity 3' before attempting this task. 
+> NOTE It's important to watch the video specified in 'Activity 3' before attempting this task.
 
 ### Level 1 Process
 

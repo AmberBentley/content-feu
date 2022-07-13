@@ -119,16 +119,30 @@ The example below shows how the user is in control of the checkout process. Ever
 
 _Figure 8: An example of good feedback and user control._
 
-| <br>READ<br><br>In the book, _'Don't Make Me Think'_, read the following chapters.<br>Chapter 6: Street signs and Breadcrumbs <br>Chapter 7: The Big Bang Theory of Web Designy |
-| :-: |
+<hr>
 
+## Activities
 
+### Activity 1
 
-| WATCH<br><br>Video: [The UI designer’s role](https://www.linkedin.com/learning/user-experience-ux-for-non-designers/the-ui-designer-s-role?u=43268076) (4h 42s) . |
-| :-: |
+**READ**
 
-| WATCH<br><br>Video: [10 Rules of Good UI Design to Follow](https://www.youtube.com/watch?v=RFv53AxxQAo) (5m 5s). |
-| :-: |
+In the book, _'Don't Make Me Think'_, read the following chapters.
+
+- Chapter 6: Street signs and Breadcrumbs
+- Chapter 7: The Big Bang Theory of Web Designy
+
+### Activity 2
+
+**WATCH**
+
+Video: [The UI designer’s role](https://www.linkedin.com/learning/user-experience-ux-for-non-designers/the-ui-designer-s-role?u=43268076) (4h 42s)
+
+### Activity 3
+
+**WATCH**
+
+Video: [10 Rules of Good UI Design to Follow](https://www.youtube.com/watch?v=RFv53AxxQAo) (5m 5s).
 
 <hr>
 

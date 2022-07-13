@@ -121,14 +121,27 @@ This phase involves clients and non-designers, allowing you to include the opini
 
 Remember that feedback is your biggest asset in the design process. It allows for a fresh perspective on the work, a chance for you to look at it in a new light and for improvements to be made. There is a lot to be learnt from testing and feedback processes; be open to listening.
 
-|  | <br>READ<br>[What is Prototyping?](https://www.interaction-design.org/literature/topics/prototyping)(p.168-190) (3 hours) |
-| :-: | :-- |
+<hr>
 
-| WATCH<br><br>Video: [Rapid Prototyping in UX design - Importance of Prototyping](https://www.youtube.com/watch?v=Krw_GQfoYG0) (2m 25s) |
-| :-: |
+## Activities
 
-| <br><br>Video: [UX Design: 6 Paper Prototyping](https://www.linkedin.com/learning/ux-design-6-paper-prototyping/benefits-of-paper-prototyping?u=43268076) (24m) |
-| :-: |
+### Activity 1
+
+**READ**
+
+[What is Prototyping?](https://www.interaction-design.org/literature/topics/prototyping)(p.168-190) (3 hours)
+
+### Activity 2
+
+**WATCH**
+
+Video: [Rapid Prototyping in UX design - Importance of Prototyping](https://www.youtube.com/watch?v=Krw_GQfoYG0) (2m 25s)
+
+### Activity 3
+
+**WATCH**
+
+Video: [UX Design: 6 Paper Prototyping](https://www.linkedin.com/learning/ux-design-6-paper-prototyping/benefits-of-paper-prototyping?u=43268076) (24m)
 
 <hr>
 

@@ -107,20 +107,19 @@ Adobe XD is an application to design and share user interfaces for apps, website
 
 You should already have some familiarity with Adobe XD from earlier lessons in the design course, but have a look at the tutorials.
 
-| WATCH<br><br>Video: [Adobe XD for Designers](https://www.linkedin.com/learning/adobe-xd-for-designers/drawing-and-editing-graphics?u=43268076) (1h 40m) |
-| :-: |
+**WATCH**
 
-| <br>Video: [Adobe XD Essential Graining: Prototype & Share](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype-share/creating-prototypes-in-adobe-xd?u=43268076) (1h 59m) |
-| :-: |
+Video: [Adobe XD for Designers](https://www.linkedin.com/learning/adobe-xd-for-designers/drawing-and-editing-graphics?u=43268076) (1h 40m)
 
-| <br>Video: [Designing Mobile & Web Experience with Howard Pinsky](https://www.youtube.com/watch?v=xrxDfAQWGh8&feature=youtu.be) (1h 57m) |
-| :-: |
+Video: [Adobe XD Essential Graining: Prototype & Share](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype-share/creating-prototypes-in-adobe-xd?u=43268076) (1h 59m)
 
-| <br>Video: [Landing Page Design For Creative App in Adobe XD](https://www.youtube.com/watch?v=Ei6777S0N_g) (27m 54s) |
-| :-: |
+Video: [Designing Mobile & Web Experience with Howard Pinsky](https://www.youtube.com/watch?v=xrxDfAQWGh8&feature=youtu.be) (1h 57m)
 
-| READ<br><br>Article: [Work with artboards and grids](https://helpx.adobe.com/ca/xd/user-guide.html/ca/xd/help/get-started-with-artboards-in-XD.ug.html) (20m) |
-| :-: |
+Video: [Landing Page Design For Creative App in Adobe XD](https://www.youtube.com/watch?v=Ei6777S0N_g) (27m 54s)
+
+**READ**
+
+Article: [Work with artboards and grids](https://helpx.adobe.com/ca/xd/user-guide.html/ca/xd/help/get-started-with-artboards-in-XD.ug.html) (20m)
 
 ### Figma
 
@@ -180,14 +179,27 @@ When you have generated a URL, this can be shared with anyone and will open in t
 
 _Fig.12: Share mode_
 
-| WATCH<br><br>Video: [Figma for beginners tutorials](https://www.youtube.com/playlist?list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4) (51m 73s) |
-| :-: |
+<hr>
 
-| <br>Video: [Figma Essential Training: The Basics](https://www.linkedin.com/learning/figma-essential-training-the-basics/the-basics-of-figma?u=43268076) (1h 37m) by Brian Wood. |
-| :-: |
+## Activities
 
-| <br>Video: [Free Figma UX Design UI Essential course](https://www.youtube.com/watch?v=kbZejnPXyLM) (2h 57m) by Bring your own Laptop. |
-| :-: |
+### Activity 1
+
+**WATCH**
+
+Video: [Figma for beginners tutorials](https://www.youtube.com/playlist?list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4) (51m 73s)
+
+### Activity 2
+
+**WATCH**
+
+Video: [Figma Essential Training: The Basics](https://www.linkedin.com/learning/figma-essential-training-the-basics/the-basics-of-figma?u=43268076) (1h 37m) by Brian Wood.
+
+### Activity 3
+
+**WATCH**
+
+Video: [Free Figma UX Design UI Essential course](https://www.youtube.com/watch?v=kbZejnPXyLM) (2h 57m) by Bring your own Laptop.
 
 <hr>
 

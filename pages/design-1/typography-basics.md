@@ -328,33 +328,32 @@ Training your eyes to see what works and what doesn’t, takes time. And as with
 
 ### Activity 1
 
-| READ<br><br>
+**READ**
 
 In his book Design for Hackers, David Kadavy gives you a short and exciting introduction into the history of typography from the "beginning" until the birth of "web font". Chapter: 'Medium and Form in Typography' (from page 37) (2h) | | :-: |
 
 ### Activity 2
 
-| WATCH<br><br>
+**WATCH**
 
-| Video: [The History of Typography - Animated Short ](https://www.youtube.com/watch?v=wOgIkxAfJsk) (5m 9s) by Ben Barrett-Forest. |
-| :-: |
+Video: [The History of Typography - Animated Short ](https://www.youtube.com/watch?v=wOgIkxAfJsk) (5m 9s) by Ben Barrett-Forest
 
 ### Activity 3
 
-| READ<br><br>
+**READ**
 
 Knowing and understanding classification is important, but it is not always enough to make a decision on choosing the right typefaces.
 
-In his book Design for Hackers, David Kadavy suggests that we focus more on the overall structure of letterforms to understand the mood a typeface communicates. Section: 'Looking At Letter Structure. The Form of the Skeleton' (page 297) (1h) | | :-: |
+In his book Design for Hackers, David Kadavy suggests that we focus more on the overall structure of letterforms to understand the mood a typeface communicates. Section: 'Looking At Letter Structure. The Form of the Skeleton' (page 297) (1h)
 
 _"A nearly limitless choice of fonts, of varying degrees of quality. Letters that were once carefully chiselled into marble, or cast out of lead can now be reproduced in limitless numbers with just a few clicks. Publishing technology has come a long way, and with it, the number of fonts available to designers has exploded." - David Kadavy_
 
 ### Activity 4
 
-| READ<br><br>
+**READ**
 
 From Design for Hackers by David Kadavy:  
-Chapter: 'Choosing and Pairing Fonts' (pages 291-310). Pay close attention to the informational graphic on page 308 and use it as a cheat-sheet for your future projects. (2h) | | :-: |
+Chapter: 'Choosing and Pairing Fonts' (pages 291-310). Pay close attention to the informational graphic on page 308 and use it as a cheat-sheet for your future projects. (2h)
 
 <hr>
 
