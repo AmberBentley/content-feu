@@ -26,13 +26,13 @@ There are many uses for NodeJS, but for front end developers the most important 
 - `NPM`: Node Package Manager used to install/upgrade/remove dependencies.
 - `NPX`: Node Package Execute used to run packages that are not installed.
 
+## Installing NodeJS with NVM
+
+You can view the tutorial on how to install NVM + NodeJS here: [Installing NVM](/node/nvm/install.html).
+
 ## Installing NodeJS
 
 You can view the tutorial on how to install NodeJS here: [Installing Node](/node/install.html).
-
-## Uninstalling NodeJS
-
-You can view the tutorial on how to uninstall NodeJS here: [Uninstalling Node](/node/uninstall.html).
 
 ## Resources
 
