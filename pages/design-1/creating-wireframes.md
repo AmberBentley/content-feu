@@ -89,15 +89,6 @@ For more information on Freehand, [visit their website](https://www.invisionapp.
 
 _Figure 6: InVision’s Freehand app (Source: invisionapp.com/freehand)_
 
-_**Adobe XD**_
-
-Adobe XD is an excellent prototyping tool but can be used for wireframing as well. You will most probably use Adobe XD for mid-fidelity to high-fidelity wireframes, when team members need to see more details of the overall design and when the wireframe's functionality needs to be tested.
-
-For more on wireframes using Adobe XD, [visit their website](https://www.adobe.com/sea/creativecloud/business/enterprise/how-to-wireframe-xd.html)
-
-![Adobe XD](../../images/design-1/Wireframes-intro/Creating/Creatingwireframes-7.png)
-
-_Figure 7: Wireframes in Adobe XD (Source: webdesign.tutsplus.com)_
 
 _**Figma**_
 

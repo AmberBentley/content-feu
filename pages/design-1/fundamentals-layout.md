@@ -97,9 +97,9 @@ Let's take a look at the different parts of a grid system.
 
 Just as an artist uses a canvas to paint on, the format is the area or space where you would place your design elements. In this area, you would use the principles of layout to bring together the visual aspects of your design. In print, this space is called a page and in web design a browser window (Velarde, 2018).
 
-![Blank page](../../images/design-1/Layout/Thefundamentalsoflayout-8.png)
+![Blank page](../../images/design-1/Creating-prototypes/Figure%202_Figma_DesignMode.png)
 
-_Figure 8. Example of a blank page in Adobe XD._
+_Figure 8. Example of a blank page in Figma._
 
 ### Margins
 

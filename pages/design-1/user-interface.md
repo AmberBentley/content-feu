@@ -166,5 +166,5 @@ The target audience for this app is aged between 25 and 35. They have busy sched
 
 - Conduct an interface inventory of similar apps to see what competitors in the market are doing. Please pay attention to what these competitors did right and what they did wrong regarding the UI elements. Furthermore, investigate if the general use of buttons, icons, typography, etc., is consistent across the site.
 - Explore [https://www.xdguru.com/free-xd-ui-kits/](https://www.xdguru.com/free-xd-ui-kits/) for free UI kits or any other resource that you find helpful.
-- Create a 1920 x 1080px artboard in Adobe XD/Figma. You can create multiple pages for your elements in Adobe XD/Figma or place all the elements on one page, depending on the number of elements you'll use to design the website.
+- Create a 1920 x 1080px artboard in Figma. You can create multiple pages for your elements in Figma or place all the elements on one page, depending on the number of elements you'll use to design the website.
 - Think about what will be best with regards to colour, typography and imagery choices. Ensure these are used consistently throughout the design.

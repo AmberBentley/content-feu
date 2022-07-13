@@ -9,7 +9,7 @@ folder: design-1
 
 ## Introduction
 
-In this lesson, we will dive into the process of creating a prototype with Adobe XD/Figma. We will also look at what needs to happen before prototyping can start.
+In this lesson, we will dive into the process of creating a prototype with Figma. We will also look at what needs to happen before prototyping can start.
 
 ## Importance of prototyping
 
@@ -99,28 +99,6 @@ To learn more about Sketch, visit their website here: https://www.sketch.com/.
 
 _Figure 3: sketch.com (Source: sketch.com)_
 
-### Adobe XD
-
-Adobe XD is an application to design and share user interfaces for apps, websites, etc. Adobe XD is free but also offers a paid version. The difference between the free and paid version is that there is a limitation to the number of active prototypes a designer can share with the free version. The free starter pack offers only one active shared prototype, whereas the paid version has an unlimited amount.
-
-### Starting with Adobe XD
-
-You should already have some familiarity with Adobe XD from earlier lessons in the design course, but have a look at the tutorials.
-
-| WATCH<br><br>Video: [Adobe XD for Designers](https://www.linkedin.com/learning/adobe-xd-for-designers/drawing-and-editing-graphics?u=43268076) (1h 40m) |
-| :-: |
-
-| <br>Video: [Adobe XD Essential Graining: Prototype & Share](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype-share/creating-prototypes-in-adobe-xd?u=43268076) (1h 59m) |
-| :-: |
-
-| <br>Video: [Designing Mobile & Web Experience with Howard Pinsky](https://www.youtube.com/watch?v=xrxDfAQWGh8&feature=youtu.be) (1h 57m) |
-| :-: |
-
-| <br>Video: [Landing Page Design For Creative App in Adobe XD](https://www.youtube.com/watch?v=Ei6777S0N_g) (27m 54s) |
-| :-: |
-
-| READ<br><br>Article: [Work with artboards and grids](https://helpx.adobe.com/ca/xd/user-guide.html/ca/xd/help/get-started-with-artboards-in-XD.ug.html) (20m) |
-| :-: |
 
 ### Figma
 

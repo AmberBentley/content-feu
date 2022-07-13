@@ -170,7 +170,7 @@ You can use any font of your choice, but make sure it is easy to read and visual
 
 ## Level 1 Process
 
-- Open Adobe XD/Figma and create a new page (1920 x 1080px).
+- Open Figma and create a new page (1920 x 1080px).
 - Create a headline.
 - Create a sub headline.
 - Add the body text.

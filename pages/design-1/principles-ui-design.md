@@ -123,7 +123,6 @@ _Figure 8: An example of good feedback and user control._
 | :-: |
 
 
-
 | WATCH<br><br>Video: [The UI designer’s role](https://www.linkedin.com/learning/user-experience-ux-for-non-designers/the-ui-designer-s-role?u=43268076) (4h 42s) . |
 | :-: |
 
@@ -143,7 +142,7 @@ The target audience for this app is aged between 25 and 35. They have busy sched
 ## Level 1 Process
 
 - Make a quick sketch of how the layout and placement of elements will potentially look.
-- In Adobe XD/Figma create an artboard for any mobile device.
+- In Figma create an artboard for any mobile device.
 - Focus on what you've learned about UI principles and apply your knowledge to your app's design.
 - Ensure the navigation on the app is straightforward and easy to comprehend.
 

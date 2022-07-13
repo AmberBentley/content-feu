@@ -93,8 +93,7 @@ _Figure 4. Letters alone are meaningless. Words with meaning._
 
 Typography can be looked at on different levels. There is the holistic view. This involves looking at the page, layout, composition, number of columns, and interaction of text and images. And then there is the detailed view: the choice of typeface, sizes, letter-spacing, word-spacing, line length, line-spacing, use of ligatures, small caps, drop caps, and so on.
 
-|  | TIP<br><br>When working with typography and layout, always take a step back and look at the "big picture" (holistic view/macro view). |
-| :-: | :-- |
+> TIP When working with typography and layout, always take a step back and look at the "big picture" (holistic view/macro view). [Read here for more](https://www.designsystems.com/typography-guides/)
 
 These two levels are sometimes referred to as “macro” and “micro” typography. One is often neglected in favour of the other. Some designers see the macro view as “creative” typography or graphic design. However, spending time understanding the finer details of typography (the micro view) can only benefit the designer and the design.
 

@@ -31,7 +31,7 @@ We will cover networking and building connections in more detail in Module 2.
 
 You might not fit exactly what the job is after, but be open to adapting your skills and learning new ones. In an interview you can discuss the tools that you’ve worked with, and how they relate to the tools used by the company you’re interviewing with. The company might use Vue.js and your experience is with React, but if you show that you’re willing to learn, they could be persuaded.
 
-Have your own questions prepared for the interview to make sure this is the right place for you, plus it makes you appear more prepared and serious about the position.
+Have your own questions prepared for the interview to make sure this is the right place for you, plus it makes you appear more prepared and serious about the position. [Read more here.](https://github.com/viraptor/reverse-interview/)
 
 ### A Technical Interview
 

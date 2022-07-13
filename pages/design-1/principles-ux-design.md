@@ -154,4 +154,4 @@ Search for any website/app of your choice. Ask family and friends to interact wi
 
 - Conduct your research and make notes of the process.
 - Based on your research, plan how you would make the journey more enjoyable for the user.
-- In Adobe XD/Figma, redesign the homepage of the website/app.
+- In Figma, redesign the homepage of the website/app.

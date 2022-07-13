@@ -205,7 +205,7 @@ _Figure 18. The icon set at the top is inconsistent in style, size, and shape. T
 
 #### Quality control
 
-As with everything in design, high-quality work is vital in achieving visually appealing designs. Icons should be of high quality and not pixelate. It's, therefore, best to design and edit icons in software intended specifically for that purpose. Tools such as Adobe Illustrator and Adobe XD are helpful in this regard. These programs assist the user in producing high-quality original icons or in editing ones that have been found online.
+As with everything in design, high-quality work is vital in achieving visually appealing designs. Icons should be of high quality and not pixelate. It's, therefore, best to design and edit icons in software intended specifically for that purpose. Tools such as Adobe Illustrator and Figma are helpful in this regard. These programs assist the user in producing high-quality original icons or in editing ones that have been found online.
 
 Good places to find free icons are [www.flaticon.com](http://www.flaticon.com/), [www.iconfinder.com](http://www.iconfinder.com/) and [www.freepik.com](http://www.freepik.com/). When reusing images, make sure you understand what is required from you in terms of the licencing before you use icons form these websites.
 
