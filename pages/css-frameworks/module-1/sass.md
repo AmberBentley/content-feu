@@ -2,9 +2,9 @@
 title: Sass
 keywords: sample
 tags: CSS Frameworks
-sidebar: css-frameworks/module-1
-permalink: css-frameworks/module-1/sass.html
-folder: css-frameworks/module-1
+sidebar: css-frameworks
+permalink: css-frameworks/sass.html
+folder: css-frameworks
 ---
 
 ## Introduction

@@ -2,9 +2,9 @@
 title: Module 1 Overview
 keywords: sample
 tags: CSS Frameworks
-sidebar: css-frameworks/module-1
-permalink: css-frameworks/module-1
-folder: css-frameworks/module-1
+sidebar: css-frameworks
+permalink: css-frameworks/module-1.html
+folder: css-frameworks
 ---
 
 Welcome to the CSS Framework course.

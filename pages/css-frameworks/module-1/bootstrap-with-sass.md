@@ -2,9 +2,9 @@
 title: Customising Bootstrap using Sass
 keywords: sample
 tags: CSS Frameworks
-sidebar: css-frameworks/module-1
-permalink: css-frameworks/module-1/bootstrap-with-sass.html
-folder: css-frameworks/module-1
+sidebar: css-frameworks
+permalink: css-frameworks/bootstrap-with-sass.html
+folder: css-frameworks
 ---
 
 ## Introduction

@@ -2,9 +2,9 @@
 title: Introduction to BEM
 keywords: sample
 tags: CSS Frameworks
-sidebar: css-frameworks/module-1
-permalink: css-frameworks/module-1/intro-to-bem.html
-folder: css-frameworks/module-1
+sidebar: css-frameworks
+permalink: css-frameworks/intro-to-bem.html
+folder: css-frameworks
 ---
 
 ## Introduction
