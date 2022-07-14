@@ -9,38 +9,109 @@ folder: css-frameworks
 
 ## Introduction
 
-The video in this lesson is an introduction to using Sass to customize Bootstrap itself and then apply custom styles on top of those provided by Bootstrap.
+Bootstrap offers a great basis for building a web application, however the colour and theme design choices made by the Bootstrap team may not match your requirements. Luckily, Bootstrap has been designed with customisation in mind and there are two methods to achieve this.
 
-Apart from the other advantages of using Sass, the multiple server requests to fetch all imported CSS files that we encountered in lesson 1 are condensed into one request.
+## Bootstrap Variables
 
-We will see how to provide new values for Bootstrap’s variables by downloading and compiling the source files rather than linking them to the CDN version of the library.
+If you explore either the Bootstrap SASS or CSS files you will notice that many values are controlled by variables. For example, the styles for the `.card` component:
 
-## Video
+```scss
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  height: $card-height;
+  word-wrap: break-word;
+  background-color: $card-bg;
+  background-clip: border-box;
+  border: $card-border-width solid $card-border-color;
+  @include border-radius($card-border-radius);
+  @include box-shadow($card-box-shadow);
+}
+```
 
-Video lesson
+In total, 5 properties are controlled by either variables or mixins. Each of these variables corresponds with a variable in the `_variables.scss` file. For example, the colour variables are defined in this file like so:
 
-<iframe src="https://player.vimeo.com/video/436570675?h=f1a856b931" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+```scss
+// scss-docs-start color-variables
+$blue:    #0d6efd !default;
+$indigo:  #6610f2 !default;
+$purple:  #6f42c1 !default;
+$pink:    #d63384 !default;
+$red:     #dc3545 !default;
+$orange:  #fd7e14 !default;
+$yellow:  #ffc107 !default;
+$green:   #198754 !default;
+$teal:    #20c997 !default;
+$cyan:    #0dcaf0 !default;
+```
 
-INFO
+The `!default` flag means that a second declaration of this variable will override the first one. This means that we can write our own SASS variables with the same names in order to start customising the theme.
 
-[Here is the link](https://vimeo.com/436570675/f1a856b931) for the above video: [Code from the lesson ](https://github.com/NoroffFEU/customising-bootstrap-with-sass)
+Take this project structure for example:
 
-Be sure to practise what you’ve learned by undertaking the lesson task.
+```
+/package.json
+/node_modules/bootstrap/scss/_variables.scss
+/src/scss/_variables.scss
+/src/scss/styles.scss
+```
 
+We have the original `_variables.scss` file which contains the default values for each variable. We also have a `_variables.scss` file in our `src/scss` directory containing our custom overrides. For example:
+
+`/src/scss/_variables.scss`
+```scss
+$blue:    #5d95e8;
+$indigo:  #916fc8;
+$purple:  #5d3b9c;
+$pink:    #ab4578;
+$red:     #fa2f44;
+$orange:  #ffa053;
+$yellow:  #ffdf7e;
+$green:   #4fe49e;
+$teal:    #9fffe2;
+$cyan:    #8eecff;
+```
+
+Here we have *overridden* the default values for these colour variables. You can read more about default values here: [Default Values](https://sass-lang.com/documentation/variables#default-values).
+
+Inside our `src/scss/styles.scss` file we simply `@import` our custom variables before we `@import` the main Bootstrap SASS file:
+
+```scss
+@import "variables"; /* /src/scss/_variables.scss */
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+.btn-custom {
+  @extend .btn-warning;
+  
+  &:hover {
+    @extend .btn-danger;
+  }
+}
+```
+
+The first line is the shortcut to our custom variables. The second line is the import of the main Bootstrap SASS file from the `node_modules` directory.
+
+Below we have a custom button style that changes colour from `btn-warning` to `btn-danger` when the user hovers over it.
+
+```html
+<button class="btn btn-custom">Warning!</button>
+```
+
+If you check the output `/dist/css/styles.css` file, you will see that this custom button class has been slotted into place within the existing Bootstrap files - instead of creating new styles at the end of the stylesheet. You should also notice that the colour theme transformations carry over to the custom button class.
+
+To unlock the full potential of your `_variables.scss` file, take a copy of Bootstrap's version of the same file and make sure to import `Bootstrap SASS Functions` from the `node_modules` directory:
+
+```scss
+@import "../../node_modules/bootstrap/scss/functions";
+```
 ## Lesson Task
 
 ### Brief
 
-In this task you will practise customising Bootstrap using Sass.
 
 ### Resources
 
-Use the code you created in the first lesson task, or the example code in [this repo](https://github.com/NoroffFEU/customising-bootstrap-with-sass-lesson-task).
 
 ### Process
-
-1. Download the Bootstrap source files, add them to the project, convert the project to use Sass and provide custom values for at least one of Bootstrap’s variables.
-
-Example answer
-
-You can find an example solution in the [answer branch](https://github.com/NoroffFEU/customising-bootstrap-with-sass-lesson-task/tree/answer) of the repo.
