@@ -13,15 +13,15 @@ To put into practice what you have learned about design, create a basic wirefram
 
 ## Brief
 
-In Design Module Assignment 2, you will have chosen one of the following briefs:
+You have been tasked with creating a working prototype using Figma. Each brief has a 'site architecture' that will show you which pages to create for your chosen brief.
+
+Choose one of the following briefs:
 
 - https://github.com/NoroffFEU/first-year-cross-course-assignment-brief-one
 
 - https://github.com/NoroffFEU/first-year-cross-course-assignment-brief-two
 
 - https://github.com/NoroffFEU/first-year-cross-course-assignment-brief-three
-
-Now, for your Course Assignment, you have been tasked with creating a working prototype using Figma. Each brief has a 'site architecture' that will show you which pages to create for your chosen brief. 
 
 The prototype should be interactive, and it should be possible to click links and move between pages. If you have multiple pages where the layout look the same (for example, product pages), you only need to create one version of that page for the prototype.
 
@@ -55,4 +55,4 @@ If you are using the free version of Adobe XD it's important to note that you ca
 
 – references (if applicable).
 
-Your report must be 700-1 000 words.
+Your report must be 700 - 1000 words.

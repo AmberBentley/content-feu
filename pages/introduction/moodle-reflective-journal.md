@@ -37,9 +37,9 @@ Classes that are active on Discord tend to produce the best results, and staying
 
 ## Delivery
 
-When you gain access to a new module, you’ll also gain access to a new delivery. This is most likely either a module assignment, a course assignment or a student project.
+When you gain access to a new subject you will receive access to the course assignment.
 
-Refer to your progression plan for the deadlines. Normally, all assignments and projects are to be delivered before Sundays at 23:59, unless stated otherwise. Part-time students normally deliver every second Sunday.
+Refer to your progression plan for the deadlines. Normally, all assignments and projects are to be delivered before Sundays at 23:59, unless stated otherwise.
 
 ## Reflective journal
 

@@ -51,7 +51,7 @@ Normally, each module will contain a module assignment. However, there are excep
 
 Please note that all module and course assignments are to be submitted within their respective deadlines listed in your progression plan, via the LMS unless stated otherwise.
 
-Late deliveries on a module assignment might mean that you won't get any feedback, and late deliveries on a course assignment or project, might cause you to fail, depending on the severity.
+Late deliveries on a course assignment or project, will cause you to fail.
 
 Now you can start on the lessons. Make sure you go through the lessons and assignments in order.
 
