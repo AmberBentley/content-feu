@@ -129,11 +129,11 @@ Figma is a web-based graphics editing and user interface design app. You can use
 
 You should already have some familiarity with Figma from earlier lessons in the design course, but here we'll go into further detail.
 
-<ol><li>Download</li>
+#### 1. Download
 
 Visit the Figma website to register a free account. Download and install the application as per the prompts.
 
-<li>Create a new file</li>
+#### 2. Create a new file
 
 Open Figma, create a new file, choose Design File. Click on the frame tool and select ‘Frame’. Alternatively, you can press on the letter ‘F’ on your keyboard. Click on the canvas area and drag the frame to the required size. Alternatively you can choose a preset frame (like iPhone X/Android Tablet/Web 1280) using the design tab in the properties panel.
 
@@ -141,7 +141,7 @@ Open Figma, create a new file, choose Design File. Click on the frame tool and s
 
 _Figure 9:  Figma create-a-new-file screen_
 
-<li>Design mode</li>
+#### 3. Design mode
 
 Figma has four different modes to help keep your project organised: Design, Prototype, Inspect and Share.
 
@@ -153,7 +153,7 @@ When you have created a new design file, you will land in Design Mode. Here you 
 
 _Figure 10. Design mode_
 
-<li>Prototype mode</li>
+#### 4. Prototype mode
 
 When your design is ready to start building your prototype, head over to Prototype mode. Here you can link up screens and apply everything you need to have a functional prototype.
 
@@ -161,7 +161,7 @@ When your design is ready to start building your prototype, head over to Prototy
 
 _Figure 11: Prototype mode_
 
-<li>Share</li>
+#### 5. Share
 
 People inherit access to a team’s Figma design files based on their team permissions. You can also invite external collaborators (or team members) to individual.
 

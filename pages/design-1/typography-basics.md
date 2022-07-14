@@ -329,7 +329,7 @@ Training your eyes to see what works and what doesn’t, takes time. And as with
 
 **READ**
 
-In his book Design for Hackers, David Kadavy gives you a short and exciting introduction into the history of typography from the "beginning" until the birth of "web font". Chapter: 'Medium and Form in Typography' (from page 37) (2h) | | :-: |
+In his book Design for Hackers, David Kadavy gives you a short and exciting introduction into the history of typography from the "beginning" until the birth of "web font". Chapter: 'Medium and Form in Typography' (from page 37) (2h)
 
 ### Activity 2
 
@@ -386,8 +386,7 @@ This is the logo of the company:
 
 ![Logo](../../images/design-1/Typography/Lessontask-typographybasics-1.png)
 
-|  | NOTE<br><br>The Lesson Tasks are not submitted to Moodle and won’t be assessed by tutors. They are mainly for you to practise your skill as a designer and to prepare for the Course Assignment (CA) to come. |
-| :-: | :-- |
+> NOTE: The Lesson Tasks are not submitted to Moodle and won’t be assessed by tutors. They are mainly for you to practise your skill as a designer and to prepare for the Course Assignment (CA) to come.
 
 ### Bibliography
 
