@@ -3,7 +3,7 @@ title: Module 1 Overview
 keywords: sample
 tags: CSS Frameworks
 sidebar: css-frameworks
-permalink: css-frameworks/module-1.html
+permalink: css-frameworks/overview.html
 folder: css-frameworks
 ---
 
