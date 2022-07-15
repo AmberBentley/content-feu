@@ -173,13 +173,14 @@ All of these classes enable an HTML element to be styled in a consistent way. Yo
 
 Other popular components include:
 
-- `.card`
-- `.accordion`
-- `.alert`
-- `.badge`
-- `.breadcrumb`
-- `.modal`
-- `.nav`
+- [`.card`](https://getbootstrap.com/docs/5.2/components/card/)
+- [`.accordion`](https://getbootstrap.com/docs/5.2/components/accordion/)
+- [`.alert`](https://getbootstrap.com/docs/5.2/components/alert/)
+- [`.badge`](https://getbootstrap.com/docs/5.2/components/badge/)
+- [`.breadcrumb`](https://getbootstrap.com/docs/5.2/components/breadcrumb/)
+- [`.btn-group`](https://getbootstrap.com/docs/5.2/components/button-group/)
+- [`.modal`](https://getbootstrap.com/docs/5.2/components/modal/)
+- [`.nav`](https://getbootstrap.com/docs/5.2/components/nav/)
 
 These component groups form the basis of the Bootstrap framework and should be used like lego blocks to build up a layout.
 
