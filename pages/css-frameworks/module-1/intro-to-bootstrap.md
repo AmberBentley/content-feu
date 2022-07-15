@@ -143,19 +143,31 @@ There are many more utility classes that can be used to customise Bootstrap. The
 - Position
 - Overflow
 
-Before writing custom CSS in a Bootstrap project, it is worth spending some time to research if a Bootstrap class can handle this instead.
+> Before writing custom CSS in a Bootstrap project, it is worth spending some time to research if a Bootstrap class can handle this instead.
 
 #### Component Classes
 
 Unlike utility classes, which refer directly to a specific style, component classes represent a group of styles used to build a specific component. For example, we may use the `btn` component to add styles to an element that the user can interact with:
 
 ```html
-<button class="btn btn-primary">Primary Button</button>
-<a href="#" class="btn btn-secondary">Secondary Button</a>
-<input type="button" class="btn btn-outline-primary" value="Outlined Primary Button">
-<input type="submit" class="btn btn-success" value="Success Submit Button">
-<input type="reset" class="btn btn-warning" value="Warning Reset Button">
+<div class="btn-group">
+  <button class="btn btn-primary">Primary</button>
+  <div class="btn btn-info">Info</div>
+  <a href="#" class="btn btn-danger">Danger</a>
+  <input type="reset" class="btn btn-warning" value="Warning">
+  <input type="submit" class="btn btn-success" value="Success">
+</div>
 ```
+
+<div class="btn-group">
+  <button class="btn btn-primary">Primary</button>
+  <div class="btn btn-info">Info</div>
+  <a href="#" class="btn btn-danger">Danger</a>
+  <input type="reset" class="btn btn-warning" value="Warning">
+  <input type="submit" class="btn btn-success" value="Success">
+</div>
+
+----
 
 All of these classes enable an HTML element to be styled in a consistent way. You can read more about the button component here: [Button Component](https://getbootstrap.com/docs/5.2/components/buttons/).
 
