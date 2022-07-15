@@ -17,8 +17,8 @@ entries:
             url: /css-frameworks/intro-to-bootstrap.html
             output: web, pdf
 
-          - title: Sass
-            url: /css-frameworks/sass.html
+          - title: Introduction to SASS
+            url: /css-frameworks/intro-to-sass.html
             output: web, pdf
 
           - title: Customising Bootstrap using Sass

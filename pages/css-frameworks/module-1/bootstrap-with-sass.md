@@ -9,7 +9,50 @@ folder: css-frameworks
 
 ## Introduction
 
-Bootstrap offers a great basis for building a web application, however the colour and theme design choices made by the Bootstrap team may not match your requirements. Luckily, Bootstrap has been designed with customisation in mind and there are two methods to achieve this.
+Bootstrap offers a great basis for building a web application, however the colour and theme design choices made by the Bootstrap team may not match your requirements. Luckily, Bootstrap has been designed with customisation in mind and exposes many options via SASS.
+
+## Environment Setup
+
+This lesson has 3 required dependencies:
+
+- Bootstrap 5.2
+- SASS
+- Live Server
+
+### Installing Bootstrap
+
+In order to install Bootstrap to your project, you will need to have NodeJS and NPM setup. If you do not have these installed already, you can refer to this tutorial: [Installing NodeJS](/node/install.html).
+
+```bash
+npm install bootstrap
+```
+
+### Installing SASS
+
+If you do not already have SASS installed, you can do so with this command:
+
+```bash 
+npm install -D sass
+```
+
+### Installing Live Server
+
+If you do not have Live Server installed, or you are not using the Live Server VS Code extension, you can do so with this command:
+
+```bash
+npm install -D live-server
+```
+
+### NPM Scripts
+
+In order to build and run Bootstrap with custom SASS, you will need to add the following scripts to your package.json file:
+
+```json
+"scripts": {
+  "build": "sass src/scss:dist/css",
+  "watch": "sass --watch src/scss:dist/css & live-server"
+}
+```
 
 ## Bootstrap Variables
 
@@ -74,9 +117,9 @@ $teal:    #9fffe2;
 $cyan:    #8eecff;
 ```
 
-Here we have *overridden* the default values for these colour variables. You can read more about default values here: [Default Values](https://sass-lang.com/documentation/variables#default-values).
+You can read more about default values here: [Default Values](https://sass-lang.com/documentation/variables#default-values).
 
-Inside our `src/scss/styles.scss` file we simply `@import` our custom variables before we `@import` the main Bootstrap SASS file:
+Inside our `src/scss/styles.scss` file we `@import` our custom variables before we `@import` the main Bootstrap SASS file:
 
 ```scss
 @import "variables"; /* /src/scss/_variables.scss */
@@ -106,12 +149,21 @@ To unlock the full potential of your `_variables.scss` file, take a copy of Boot
 ```scss
 @import "../../node_modules/bootstrap/scss/functions";
 ```
+
 ## Lesson Task
 
 ### Brief
 
+Using the landing page design made with SCSS in the previous lesson, implement this design using Bootstrap and SASS.
 
-### Resources
+Create a new SCSS file in the `src/scss` to house your Bootstrap customisation work, and import Bootstrap SASS from `node_modules` as described above.
 
+Override Bootstrap styles to implement your themed landing page.
 
 ### Process
+
+1. Install Bootstrap and SASS in a new project
+2. Create a new SCSS file in the `src/scss` directory
+3. Create a new SCSS variables file in the `src/scss` directory
+4. Import Bootstrap SASS from `node_modules`
+5. Implement the theme design in the SCSS file

@@ -1,9 +1,9 @@
 ---
-title: Sass
+title: Introduction to SASS
 keywords: sample
 tags: CSS Frameworks
 sidebar: css-frameworks
-permalink: css-frameworks/sass.html
+permalink: css-frameworks/intro-to-sass.html
 folder: css-frameworks
 ---
 
