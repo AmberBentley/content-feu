@@ -10,7 +10,11 @@ entries:
         output: web, pdf
         folderitems:
           - title: Overview
-            url: /css-frameworks/module-1.html
+            url: /css-frameworks/overview.html
+            output: web, pdf
+
+          - title: Introduction to Frameworks
+            url: /css-frameworks/intro-to-frameworks.html
             output: web, pdf
 
           - title: Introduction to Bootstrap
@@ -23,10 +27,6 @@ entries:
 
           - title: Customising Bootstrap using Sass
             url: /css-frameworks/bootstrap-with-sass.html
-            output: web, pdf
-
-          - title: Introduction to BEM
-            url: /css-frameworks/intro-to-bem.html
             output: web, pdf
 
       - title: Course Assignment
