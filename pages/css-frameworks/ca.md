@@ -48,3 +48,5 @@ Submission for this project will follow the pattern used in professional develop
 ## Resources
 
 - [Using branches and making a pull request](https://vimeo.com/725676411/fabede2ebb)
+- [Installing Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/download/#package-managers)
+- [Customising Bootstrap](https://getbootstrap.com/docs/5.2/customize/overview/)
