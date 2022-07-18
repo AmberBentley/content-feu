@@ -6,11 +6,12 @@ sidebar: design-1
 permalink: design-1/visual-hierarchy.html
 folder: design-1
 ---
+
 ## Introduction
 
 This lesson presents an introduction in establishing visual hierarchy in design. It presents an overview on how to organise visual elements to guide online users in knowing which actions to take when entering a website.
 
-| NOTE<br><br>This lesson contains 3 activities that you should complete. 
+> NOTE This lesson contains 3 activities that you should complete.
 
 ## What is visual hierarchy?
 
@@ -76,9 +77,9 @@ If you think carefully about where you place each element, you can create a visu
 
 ## A standard visual hierarchy consists of three levels - primary, secondary, and tertiary.
 
--  The primary level of a design refers to the visual that draws the reader’s attention to the most important information of the design. This can be a bold headline or a striking image, for example.
--  The secondary level refers to information that is still important, but not as important as the headline or the main graphic. Scannable information like sub-headlines and infographics that help the reader to stay with the design and get more information about the product.
--  The tertiary level is the main text or body text of your designs. Here the reader will get all the necessary information about the product. It’s the smallest type in the design, but it still needs to be large enough to be completely readable.
+- The primary level of a design refers to the visual that draws the reader’s attention to the most important information of the design. This can be a bold headline or a striking image, for example.
+- The secondary level refers to information that is still important, but not as important as the headline or the main graphic. Scannable information like sub-headlines and infographics that help the reader to stay with the design and get more information about the product.
+- The tertiary level is the main text or body text of your designs. Here the reader will get all the necessary information about the product. It’s the smallest type in the design, but it still needs to be large enough to be completely readable.
 
 Our understanding of positioning in a frame is a metaphor for how we view hierarchies in the world. We speak of people who have important positions as being at the top. Likewise, we expect the same in pictures. We anticipate that elements at the top of a page will be the most important. In fact, research shows that objects in the top half of a picture are considered more active, dynamic, and potent. In other words, they have more visual weight. Think of where the call-to-action button of a webpage normally appears. The best place would be above the fold so that the user immediately sees it when he/she enters the website. Above the fold refers to the upper half of a webpage that is instantly visible to the online user without them scrolling down. Research also shows that viewers spend more time viewing the left upper half of the page than the right lower half. Placing a company’s logo on the left upper hand of the screen, for example, would give it more visual power. The user would remember the brand more clearly. There's one thing we can be sure of: changing the position of an object in a frame changes its impact on the viewer.
 
@@ -130,24 +131,35 @@ _Figure 10. An example of motion on a website._
 
 The Nielsen Norman Group describes visual hierarchy as having control of delivering the experience. It goes on to say that if the user has a hard time in figuring out where to look on a page, it’s more than likely that the layout is missing a clear visual hierarchy. This is 100% accurate. Therefore, it’s essential for you as a designer to think clearly about where to place elements and which elements you what your user to see first. What would make them stay and continue their journey to reach the end goal? (Group, 2020)
 
+<hr>
+
 ## Activities
 
- | **Activity 1**<br>READ<br><br>To get a better understanding of emphasis in design read the following article by Mads Soegaard: [Emphasis: Setting up the focal point of your design](https://www.interaction-design.org/literature/article/emphasis-setting-up-the-focal-point-of-your-design) (12m)  |
-| :-: |
+### Activity 1
 
-> _"For a user to be able to navigate through all the information in a website or application, that information needs to be clearly presented and have a clear hierarchy". - David Kadavy_
+**READ**
 
-|  | **Activity 2**<br>READ<br><br>In David Kadavy's book, _Design for Hackers_, explore some useful tips and techniques for establishing good layouts and visual hierarchies.<br>Chapter 7: Enlivening Information: Establishing a Visual Hierarchy (p.168-190) (3 hours) |
-| :-: | :-- |
+To get a better understanding of emphasis in design read the following article by Mads Soegaard: [Emphasis: Setting up the focal point of your design](https://www.interaction-design.org/literature/article/emphasis-setting-up-the-focal-point-of-your-design) (12m)
+
+_"For a user to be able to navigate through all the information in a website or application, that information needs to be clearly presented and have a clear hierarchy"._ - David Kadavy
+
+### Activity 2
+
+**READ**
+
+In David Kadavy's book, _Design for Hackers_, explore some useful tips and techniques for establishing good layouts and visual hierarchies.<br>Chapter 7: Enlivening Information: Establishing a Visual Hierarchy (p.168-190) (3 hours)
 
 In 2014 Google developed a new design language - Material Design. Expanding upon the "card" motifs that debuted in Google Now, Material Design makes more liberal use of grid-based layouts, responsive animations and transitions, padding, and depth effects such as lighting and shadows. On their webpage they write:
 
-> _"We challenged ourselves to create a visual language for our users that synthesises the classic principles of good design with the innovation and possibility of technology and science. This is material design. This spec is a living document that will be updated as we continue to develop the tenets and specifics of material design.”_
+_"We challenged ourselves to create a visual language for our users that synthesises the classic principles of good design with the innovation and possibility of technology and science. This is material design. This spec is a living document that will be updated as we continue to develop the tenets and specifics of material design.”_
 
-|  | **Activity 3**<br>WATCH<br><br>Video: [The Intricate and Beautiful World of Material Design](https://www.youtube.com/watch?v=VqJm8Xqgmq8) (8m 26s) by XDA. |
-| :-: | :-- |
+### Activity 3
 
+**WATCH**
 
+Video: [The Intricate and Beautiful World of Material Design](https://www.youtube.com/watch?v=VqJm8Xqgmq8) (8m 26s) by XDA.
+
+<hr>
 
 ## Lesson Task
 
@@ -159,19 +171,19 @@ To practise achieving visual hierarchy in design using typography.
 
 To learn the importance of size and weight in achieving visual hierarchy with regards to fonts, use the following for a headline, sub-headline and body copy:
 
--  Headline: Are you still watching?
--  Sub headline: It’s been half a day and you are still wearing your pjs.
--  Body text: Your loved ones are worried about your mental state because you have been binge watching Game of Thornes for the past 12 hours and they have found you with Cheeto dust on your face. Continue watching or get some fresh air. Either way, we won’t go anywhere.
+- Headline: Are you still watching?
+- Sub headline: It’s been half a day and you are still wearing your pjs.
+- Body text: Your loved ones are worried about your mental state because you have been binge watching Game of Thornes for the past 12 hours and they have found you with Cheeto dust on your face. Continue watching or get some fresh air. Either way, we won’t go anywhere.
 
 You can use any font of your choice, but make sure it is easy to read and visually appealing. The headline should draw the user’s attention, the sub-headline should give vital information and the body copy should tell the user exactly what the product is used for and where they can get access.
 
 ## Level 1 Process
 
--  Open Adobe XD/Figma and create a new page (1920 x 1080px).
--  Create a headline.
--  Create a sub headline.
--  Add the body text.
--  Style the headline, sub headline and body text to form a proper visual hierarchy that will draw the viewer’s attention and give them the information required to make an informed decision.
+- Open Figma and create a new page (1920 x 1080px).
+- Create a headline.
+- Create a sub headline.
+- Add the body text.
+- Style the headline, sub headline and body text to form a proper visual hierarchy that will draw the viewer’s attention and give them the information required to make an informed decision.
 
 ## Level 2 Process
 

@@ -6,6 +6,7 @@ sidebar: html-css
 permalink: html-css/media-queries.html
 folder: html-css
 ---
+
 ## Introduction
 
 As part of CSS, media queries allow us to customise the appearance of HTML content for multiple devices. Although "Media queries" may sound like a complicated concept, the idea is actually quite simple.
@@ -47,29 +48,29 @@ The following meta tag example is how it may be used for optimising a responsive
 
 The initial scale attribute is also an important component of optimising responsive content. This will ensure that elements will best fit the width of the viewport.
 
+<hr>
+
 ## Activities
 
 ### Activity 1
 
 **WATCH**
 
-Video: [CSS Page Layouts](https://www.linkedin.com/learning/css-page-layouts-2012/responsive-layout-overview?u=43268076)
-7. Building Responsive Layouts (50m)
+Video: [CSS Page Layouts](https://www.linkedin.com/learning/css-page-layouts-2012/responsive-layout-overview?u=43268076) 7. Building Responsive Layouts (50m)
 
 ### Activity 2
 
 **READ**
 
-In _HTML and CSS: Design and Build Website_
-Chapter 18: Process & Design, pp. 452-474 (1hr)
+In _HTML and CSS: Design and Build Website_ Chapter 18: Process & Design, pp. 452-474 (1hr)
 
 ### Activity 3
 
 **WATCH**
 
-Video: [CSS Essential Training](https://www.linkedin.com/learning/css-essential-training-2-2/welcome?u=43268076)
-4. Responsive and Mobile (30m)
-Conclusion (32s)
+Video: [CSS Essential Training](https://www.linkedin.com/learning/css-essential-training-2-2/welcome?u=43268076) 4. Responsive and Mobile (30m) Conclusion (32s)
+
+<hr>
 
 ## Lesson Task
 

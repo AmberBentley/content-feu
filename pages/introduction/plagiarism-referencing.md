@@ -91,6 +91,8 @@ For example, if you are creating a web page and are only going to be assessed on
 
 You use references to say who you have been influenced by. You can’t copy from these sources, but you can be influenced by them.
 
+<hr>
+
 ## Lesson task
 
 ### Explore Moodle

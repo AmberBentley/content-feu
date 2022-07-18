@@ -11,7 +11,7 @@ folder: design-1
 
 It is vital to have on a website the correct images for the target audience, icons that are appealing, and call-to-action buttons that draw the viewer’s attention to specific actions. In this lesson, we discuss how to choose the right content for a website not only for aesthetics, but also to ensure the website is relatable to the target audience and assists them in reaching the end goal.
 
-| NOTE<br><br>This lesson contains 4 activities that you should complete.
+> NOTE This lesson contains 4 activities that you should complete.
 
 ## Content
 
@@ -205,7 +205,7 @@ _Figure 18. The icon set at the top is inconsistent in style, size, and shape. T
 
 #### Quality control
 
-As with everything in design, high-quality work is vital in achieving visually appealing designs. Icons should be of high quality and not pixelate. It's, therefore, best to design and edit icons in software intended specifically for that purpose. Tools such as Adobe Illustrator and Adobe XD are helpful in this regard. These programs assist the user in producing high-quality original icons or in editing ones that have been found online.
+As with everything in design, high-quality work is vital in achieving visually appealing designs. Icons should be of high quality and not pixelate. It's, therefore, best to design and edit icons in software intended specifically for that purpose. Tools such as Adobe Illustrator and Figma are helpful in this regard. These programs assist the user in producing high-quality original icons or in editing ones that have been found online.
 
 Good places to find free icons are [www.flaticon.com](http://www.flaticon.com/), [www.iconfinder.com](http://www.iconfinder.com/) and [www.freepik.com](http://www.freepik.com/). When reusing images, make sure you understand what is required from you in terms of the licencing before you use icons form these websites.
 
@@ -322,40 +322,49 @@ Now that you have a clear idea of what to look for with regards to website conte
 
 ## In summary:
 
--  Keep your design choices consistent across all platforms, forms, and pages.
--  Decide on an image and continue with that throughout.
--  Make sure that icons are similar in style and provide clarity on what they represent.
--  Call-to-action buttons should stand out and carry a definite action.
--  Forms should be short and easy to complete with a validation message telling the user if they were successful or not.
--  Colour should evoke the right emotion.
--  Fonts should be easy to read and assist all other elements in expressing the brand message to the online user.
+- Keep your design choices consistent across all platforms, forms, and pages.
+- Decide on an image and continue with that throughout.
+- Make sure that icons are similar in style and provide clarity on what they represent.
+- Call-to-action buttons should stand out and carry a definite action.
+- Forms should be short and easy to complete with a validation message telling the user if they were successful or not.
+- Colour should evoke the right emotion.
+- Fonts should be easy to read and assist all other elements in expressing the brand message to the online user.
+
+<hr>
 
 ## Activities
 
 ### Activity 1
 
-| WATCH<br><br>The following video from Linkedin Learning is a short introduction into determining the target audience.<br><br>Video: [Determining the target audience](https://www.linkedin.com/learning/layout-and-composition-marketing-collateral/determining-the-target-audience?autoplay=true&u=43268076) (2m 40s) by Sean Adams. |
-| :-: |
+**WATCH**
+
+The following video from Linkedin Learning is a short introduction into determining the target audience.<br><br>Video: [Determining the target audience](https://www.linkedin.com/learning/layout-and-composition-marketing-collateral/determining-the-target-audience?autoplay=true&u=43268076) (2m 40s) by Sean Adams.
 
 ### Activity 2
 
-| WATCH<br><br>Video: [Website Photos 101: The Photos You SHOULD Be Using & Where to Get Them](https://www.youtube.com/watch?v=hLAB69iCjg4) (12m 45) by Wes McDowell. |
-| :-: |
+**WATCH**
+
+Video: [Website Photos 101: The Photos You SHOULD Be Using & Where to Get Them](https://www.youtube.com/watch?v=hLAB69iCjg4) (12m 45) by Wes McDowell.
 
 ### Activity 3
 
-| WATCH<br><br>The following video from Linkedin Learning on using images and videos in Adobe XD.<br><br>Video section: [2. Images and vectors](https://www.linkedin.com/learning/learning-adobe-xd-2/import?u=43268076) (39m 38s) by Tom Green. |
-| :-: |
+**WATCH**
+
+The following video from Linkedin Learning on using images and videos in Adobe XD.<br><br>Video section: [2. Images and vectors](https://www.linkedin.com/learning/learning-adobe-xd-2/import?u=43268076) (39m 38s) by Tom Green.
 
 ### Activity 4
 
-| WATCH<br><br>Video: [How to create forms, checkboxes & buttons - UI/UX & Web Design using Adobe XD](https://www.youtube.com/watch?v=Vm4mHkWktm8) (8m 33s) by Daniel Scott. |
-| :-: |
+**WATCH**
+
+Video: [How to create forms, checkboxes & buttons - UI/UX & Web Design using Adobe XD](https://www.youtube.com/watch?v=Vm4mHkWktm8) (8m 33s) by Daniel Scott.
 
 ### Activity 5
 
-| WATCH<br><br>Video: [Form Design in Figma with Interactive Components](https://www.youtube.com/watch?v=ZWwE0GWEXDc&t=184s) (36m 32s) by DesignCourse. |
-| :-: |
+**WATCH**
+
+Video: [Form Design in Figma with Interactive Components](https://www.youtube.com/watch?v=ZWwE0GWEXDc&t=184s) (36m 32s) by DesignCourse.
+
+<hr>
 
 ## Lesson Task
 
@@ -369,37 +378,37 @@ The Winery is the name of the company that contacted you for the design of their
 
 ### Key demographics and psychographics:
 
--  Age range: 30 – 40-year-old
--  Gender: 40% male, 60% female
--  The audience loves socialising with friends and family.
--  They like to shop online and buy most non-essential items online.
--  Feel loyalty to brands with values similar to theirs.
+- Age range: 30 – 40-year-old
+- Gender: 40% male, 60% female
+- The audience loves socialising with friends and family.
+- They like to shop online and buy most non-essential items online.
+- Feel loyalty to brands with values similar to theirs.
 
 ### Some challenges:
 
--  Struggle to find good quality wine that would age well.
+- Struggle to find good quality wine that would age well.
 
 ### Preferred channels:
 
 - Follow lifestyle influencers’ accounts on Instagram.
--  Enjoy watching YouTube videos about wine making.
+- Enjoy watching YouTube videos about wine making.
 
 ### Preferred content types:
 
--  Social media posts.
--  Event marketing.
--  Videos.
+- Social media posts.
+- Event marketing.
+- Videos.
 
 ### For this task create the following design elements:
 
--  Find photos that would speak to the target audience and showcase the brand’s products.
--  Create a colour palette for the brand.
--  Choose some fonts that will relate to the target audience and that are relevant to the brand.
--  Find icons that are informative and will assist the online user to buy products online. These can be a search, cart, location, message and contact for example.
--  Create a CTA for the online user to ‘add to cart’.
--  Create a page (1920 x 1080px) in Adobe XD/Figma.
--  Create a grid and place the design elements neatly on the page.
--  Make sure your elements are properly aligned and spaced out evenly. Each element should have its own space on the page.
+- Find photos that would speak to the target audience and showcase the brand’s products.
+- Create a colour palette for the brand.
+- Choose some fonts that will relate to the target audience and that are relevant to the brand.
+- Find icons that are informative and will assist the online user to buy products online. These can be a search, cart, location, message and contact for example.
+- Create a CTA for the online user to ‘add to cart’.
+- Create a page (1920 x 1080px) in Adobe XD/Figma.
+- Create a grid and place the design elements neatly on the page.
+- Make sure your elements are properly aligned and spaced out evenly. Each element should have its own space on the page.
 
 ## Bibliography
 

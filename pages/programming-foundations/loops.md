@@ -103,6 +103,8 @@ This video in an introduction to for loops.
 
 ---
 
+<hr>
+
 ## Lesson Task
 
 There are practice questions in the master branch of <a href="https://github.com/NoroffFEU/lesson-task-pf-module1-lesson4" target="_blank">this repo</a>.

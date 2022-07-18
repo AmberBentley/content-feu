@@ -6,6 +6,7 @@ sidebar: html-css
 permalink: html-css/forms.html
 folder: html-css
 ---
+
 ## Introduction
 
 In this lesson, we'll be looking at how you can set up forms correctly.
@@ -14,8 +15,7 @@ In this lesson, we'll be looking at how you can set up forms correctly.
 
 The form element provides you with a method of collecting a user’s input. We could collect the user's name, email address, or a message. We can also use checkboxes and radio buttons to allow users to choose specific items in the form.
 
-The `<form>` element is used to create a form that can submit data to a server where it can be handled.
-The form's action property sets where the data gets sent. In the above example, the data will be sent to a file called submit.php where PHP will be used to handle the data. 
+The `<form>` element is used to create a form that can submit data to a server where it can be handled. The form's action property sets where the data gets sent. In the above example, the data will be sent to a file called submit.php where PHP will be used to handle the data.
 
 _Note: we won't be working with data handling. It is outside the scope of this course._
 
@@ -26,14 +26,15 @@ The method property sets how the data will be sent. POST is the most secure way 
 One of the most common ways of collecting data from a user is using the `<input>` element. There are many different types of input. How they display in the browser depends on their type. By default, an input has a type of text.
 
 The types of input include the following (although there are more):
-- Button 
-- Checkbox 
-- Date 
-- Email 
-- Number 
-- Password 
-- Radio 
-- Submit 
+
+- Button
+- Checkbox
+- Date
+- Email
+- Number
+- Password
+- Radio
+- Submit
 - Tel (for telephone numbers, note that you should not use the 'number' type for a telephone number).
 
 ### Name attribute
@@ -46,7 +47,7 @@ Grouped radio buttons allow you to choose only one of the supplied options. On a
 
 ### Labels
 
-In the code above you will see that a label has been joined to an input. Semantically this is good, but it also has the added bonus of being good for UX as a user can click the label and still select the radio button. To link a label to an input, use the `id` attribute of the input for the `for` property. 
+In the code above you will see that a label has been joined to an input. Semantically this is good, but it also has the added bonus of being good for UX as a user can click the label and still select the radio button. To link a label to an input, use the `id` attribute of the input for the `for` property.
 
 If you want the input and labels to each be on their own lines, please do not use `<br>` tags. What you can do, is add content after the label and set it to `display: block:`
 
@@ -90,11 +91,15 @@ We will also be looking at another way of styling CSS – CSS attribute selector
 
 This selector will affect any form input element that has the type of text. As with other CSS selectors, careful planning will allow us to style multiple elements simultaneously.
 
+<hr>
+
 ## Activities
 
 **WATCH**
 
 [This tutorial video on using forms.](https://scrimba.com/scrim/cpDVJVHz?pl=paaBbTa) (10m 21s)
+
+<hr>
 
 ## Lesson Task
 

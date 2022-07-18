@@ -6,6 +6,7 @@ sidebar: javascript-1
 permalink: javascript-1/more-dom-concepts.html
 folder: javascript-1
 ---
+
 ## Introduction
 
 In this lesson we will look at:
@@ -32,7 +33,7 @@ We will look at how to use them in the Scrimba in the next section.
 
 ## Adding event handlers in a loop
 
-[This Scrimba  looks at data attributes and adding click event handlers to a variable number of elements using a loop.](https://scrimba.com/scrim/c36wvqh8)
+[This Scrimba looks at data attributes and adding click event handlers to a variable number of elements using a loop.](https://scrimba.com/scrim/c36wvqh8)
 
 ## mouseover and mouseout events
 
@@ -47,6 +48,8 @@ Here we'll look at the window.scroll event using a practical example.
 <iframe src="https://player.vimeo.com/video/448306814?h=50c2df1c8b&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="2560" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Scroll event"></iframe>
 
 [Code](https://github.com/NoroffFEU/scroll-event) from the video.
+
+<hr>
 
 ## Lesson Task
 

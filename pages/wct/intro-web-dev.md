@@ -58,10 +58,12 @@ A web development team usually includes one front-end web developer. In contrast
 
 If a person claims to possess true expertise in each of the skills mentioned above, they are a rarity and somewhat mythical. However, lately, JavaScript has been infiltrating every layer of a technology stack (such as Node.js, React, couchDB, MongoDB, express etc.). As a result, coming across a full-stack JS developer who can code both the backend as well as the front-end is becoming more common. However, not everyone can gain true expertise in an all-around development skill, and while some may claim they do, they may not. That said, it is preferable to focus on front-end technologies if one is to build a career as a Front-end Developer.
 
+<hr>
+
 ## Activity
 
 ### Activity 1
 
-WATCH
+**WATCH**
 
 Video: [Web programming foundations](https://www.linkedin.com/learning/web-programming-foundations/welcome?u=43268076) (58m)

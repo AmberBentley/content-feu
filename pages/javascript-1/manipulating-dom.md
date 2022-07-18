@@ -6,11 +6,13 @@ sidebar: javascript-1
 permalink: javascript-1/manipulating-dom.html
 folder: javascript-1
 ---
+
 ## Introduction
 
 Manipulating the DOM means adding, editing and deleting content on a web page.
 
 In this lesson we'll look at:
+
 - What the DOM is
 - How we can edit DOM elements.
 
@@ -65,8 +67,7 @@ A lot of tutorials use getElementById to select a node - an HTML element - by it
 
 We can call both these methods from the document object:
 
-**document.querySelector();**
-**document.querySelectorAll();**
+**document.querySelector();** **document.querySelectorAll();**
 
 The argument we pass into each of these methods is the element we want to select: a tag ("h1"), a class (".heading2") or an id ("#accordion").
 
@@ -95,6 +96,8 @@ Because localStorage can only store string values, we'll use **JSON.stringify** 
 <iframe src="https://player.vimeo.com/video/457504978?h=726aababe6&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="2560" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Building a favourites page with localStorage"></iframe>
 
 [Code](https://github.com/NoroffFEU/localstorage-example) from the video.
+
+<hr>
 
 ## Lesson Task
 

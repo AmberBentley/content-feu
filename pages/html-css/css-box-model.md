@@ -6,6 +6,7 @@ sidebar: html-css
 permalink: html-css/css-box-model.html
 folder: html-css
 ---
+
 ## Introduction
 
 In this lesson, you will be introduced to the CSS Box Model.
@@ -30,7 +31,7 @@ The syntax for the display property is as follows:
 
 ```css
 div {
-   display: block; 
+  display: block;
 }
 ```
 
@@ -45,6 +46,7 @@ The <div> element is most commonly used for block-level elements, while the <spa
 We use the term "CSS Box Model" specifically when we are using CSS for page layout. The CSS Box Model allows us to control the dimensions, border, and positioning of block-level elements. It also allows us to show or hide these elements on the page.
 
 Here are the elements that may be controlled using the CSS Box Model
+
 - Position: where the element sits on the page, and if it is positioned relatively to other elements
 - Width: the element's width
 - Height: the element's height, either as relative or absolute values
@@ -55,13 +57,14 @@ Here are the elements that may be controlled using the CSS Box Model
 Here is how the Box Model Object and its properties may be visualized:
 
 ![CSS Box Model](../../images/htmlcss/2-4-1.png)
- 
+
 All of these properties may be declared using either relative (eg. 50%) or absolute values (600px).
 
 Furthermore, some browsers render CSS Box elements differently. Although this is less of a problem than it used to be, some browsers implement aspects of the CSS Box quite differently, and it is worth being prepared to address this issue.
 
-When we consider the size of a Box element on the page, we must take all the properties into account, and not just width and height. To calculate the width of a box, we need to add the width, the left and right padding, the left and right border, and the left and right margin. By this logic, setting the width of an element to 100% may have unintended consequences if the other properties have non-zero values.
-It is important to watch the LinkedIn Learning videos and do the reading, but also to experiment with the code yourself. This is especially true of the box model – you will only have full command over page layout once you fully understand how the box model works in practice.
+When we consider the size of a Box element on the page, we must take all the properties into account, and not just width and height. To calculate the width of a box, we need to add the width, the left and right padding, the left and right border, and the left and right margin. By this logic, setting the width of an element to 100% may have unintended consequences if the other properties have non-zero values. It is important to watch the LinkedIn Learning videos and do the reading, but also to experiment with the code yourself. This is especially true of the box model – you will only have full command over page layout once you fully understand how the box model works in practice.
+
+<hr>
 
 ## Activities
 
@@ -69,10 +72,12 @@ It is important to watch the LinkedIn Learning videos and do the reading, but al
 
 Video: [The Box Model](https://www.linkedin.com/learning/css-essential-training-1/the-box-model?u=43268076)
 
+<hr>
+
 ## Lesson Task
 
 ### Brief
 
-There are practice questions in the master branch of [this repo](https://github.com/Noroff-Education/lesson-task-htmlcss-module2-lesson4). 
+There are practice questions in the master branch of [this repo](https://github.com/Noroff-Education/lesson-task-htmlcss-module2-lesson4).
 
 Attempt the answers before checking them against the answers in the [answers branch](https://github.com/Noroff-Education/lesson-task-htmlcss-module2-lesson4/tree/answers) of the repo.

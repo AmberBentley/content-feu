@@ -91,6 +91,8 @@ If you are unable to make an assignment delivery, you must contact a student suc
 
 Only extensions for health reasons will be accepted with a valid doctor's note.
 
+<hr>
+
 ## Lesson task
 
 If you haven't done so already, now will be a good time to set up your personal learning environment on your home computer. It can be a good idea to work inside a cloud folder.
@@ -99,6 +101,6 @@ If you haven't done so already, now will be a good time to set up your personal 
 
 • Create a main folder for your Front-end Development-programme. If relevant, place this inside your cloud folder so that it is always synced. Make sure you have easy access to the folder at all times. Inside this folder, you should create a structure that you find comfortable. For instance, you can create folders for all the different courses (design1, htmlcss, webcom, etc - extract this from your progression plan). It's up to you.
 
-• On the course assignment, you will have to deliver some files, so you might as well set up your folder for your first module assignment right now. Name it based on what you've learned in lesson 1.3.
+• On the course assignment, you will have to deliver some files, so you might as well set up your folder for your first assignment right now. Name it based on what you've learned in lesson 1.3.
 
 • Make sure you have an office-package available. Office 365 is provided by Noroff, but you can also use Google Docs. Both of these packages allow you to save your documents as PDF, which is a requirement for delivering written content.

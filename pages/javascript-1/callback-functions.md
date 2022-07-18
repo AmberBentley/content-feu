@@ -6,6 +6,7 @@ sidebar: javascript-1
 permalink: javascript-1/callback-functions.html
 folder: javascript-1
 ---
+
 ## Introduction
 
 In this lesson we will look at functions as arguments - passing functions into functions.
@@ -42,13 +43,14 @@ It has the following structure:
 
 ```js
 setTimeout(function () {
-    // do something},  
+    // do something},
 1000);
 ```
 
 It has two required arguments:
-1.	the function to be executed.
-2.	the delay - the delay in milliseconds before the function is executed.
+
+1. the function to be executed.
+2. the delay - the delay in milliseconds before the function is executed.
 
 [Scrimba video](https://scrimba.com/c/cLgggqTQ)
 
@@ -57,14 +59,16 @@ It has two required arguments:
 The setInterval method is similar to setTimeout but it executes a function at a certain interval until it is cleared.
 
 It has the following structure:
-```js
 
+```js
 setInterval(function () {
-  // do something 
+  // do something
 }, 1000);
 ```
 
 [Scrimba video](https://scrimba.com/c/czLLpgfv)
+
+<hr>
 
 ## Lesson Task
 

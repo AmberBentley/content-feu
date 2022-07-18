@@ -388,6 +388,8 @@ In [lesson 3](3) we'll look at `objects` and `arrays of objects`.
 
 ---
 
+<hr>
+
 ## Lesson Task
 
 There are practice questions in the master branch of <a href="https://github.com/NoroffFEU/lesson-task-pf-module2-lesson2" target="_blank">this repo</a>.

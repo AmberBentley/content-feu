@@ -6,13 +6,14 @@ sidebar: html-css
 permalink: html-css/positioning.html
 folder: html-css
 ---
+
 ## Introduction
 
 In this lesson we will be taking a look at how to place elements on the page using float and position.
 
 ## Float
 
-If you want to place an image beside text and have the text wrap around the image, float is the ideal tool. We used to use `float` to build layouts, but shouldn't anymore because we now have Flexbox and CSS Grids to help create solid, multi-column responsive sites. 
+If you want to place an image beside text and have the text wrap around the image, float is the ideal tool. We used to use `float` to build layouts, but shouldn't anymore because we now have Flexbox and CSS Grids to help create solid, multi-column responsive sites.
 
 Floating removes an element from the normal flow of HTML elements and places it on the left or right side of its container or nearest element.
 
@@ -62,11 +63,15 @@ Sticky is a mix between relative positioning and fixed positioning. It allows us
 
 With positioning, it’s easy to get elements on top of one another. To determine the order in which elements stack up, we can use z-index. Z-index is fairly simple to use; the higher the z-index number, the higher in the order it goes.
 
+<hr>
+
 ## Activities
 
 **WATCH**
 
 The below tutorial video on float and position. (7m 36s)
+
+<hr>
 
 ## Lesson Task
 

@@ -41,11 +41,11 @@ Unfortunately, many different colour-coding systems use different terminology wh
 
 A colour is described in three ways:
 
--  By its name (hue)
+- By its name (hue)
 
--  How pure or unsaturated it is (saturation)
+- How pure or unsaturated it is (saturation)
 
--  Its value or brightness (intensity)
+- Its value or brightness (intensity)
 
 ![Color values](../../images/design-1/Colours/Fundamentalsofcolour-2.png)
 
@@ -83,11 +83,11 @@ _Figure 4. The CMYK, RGB and HSB Lab colour models in Illustrator CC 2020. They 
 
 Available colour systems are dependent on the medium with which a designer is working. When painting, an artist has a variety of paints to choose from.
 
--  Mixed colours are achieved through the subtractive colour method.
+- Mixed colours are achieved through the subtractive colour method.
 
--  When a designer or front-end developer generates digital products and solutions on the computer, colours are achieved through the additive (RGB) colour method.
+- When a designer or front-end developer generates digital products and solutions on the computer, colours are achieved through the additive (RGB) colour method.
 
--  When we mix colours for the printing process, we use the subtractive (CMYK) colour system.
+- When we mix colours for the printing process, we use the subtractive (CMYK) colour system.
 
 _**Subtractive colour and the CMYK system**_
 
@@ -117,13 +117,13 @@ The R = Red, G = Green and B = Blue colours are light primaries and colours are 
 
 _Figure 6. Addictive (RGB) colour method._
 
-_**Working with the colour systems**_ 
+_**Working with the colour systems**_
 
 There is a difference between additive colour and subtractive colour:
 
--  The colour produced in the additive system appears brighter.
+- The colour produced in the additive system appears brighter.
 
--  The visible range in the additive system is wider – thus, more colours can be created in the additive than in the subtractive system.
+- The visible range in the additive system is wider – thus, more colours can be created in the additive than in the subtractive system.
 
 The visible spectrum consists of billions of colours. A monitor can display millions of colours, but a high-quality printer is only capable of producing thousands. Older computer systems may be limited to 216 cross-platform colours.
 
@@ -361,31 +361,39 @@ _Black_
 
 _Figure 27. Black is often associated with elegance and a feeling of sophistication (eattheordinary.com, 2020)_
 
+<hr>
+
 ## Activities
 
 ### Activity 1
 
-| READ<br><br>Article: [To understand more on reproducing and managing colour across different media. It is a common and frustrating issue, so ensure that you understand the differences between CMYK, RGB, and sRGB.
+**READ**
 
-From David Kadavy’s book Design for Hackers: Section: 'Colour Models in Action: Why Your Business Card Doesn't (and Never Will) Match Your Website' (pages 225-233) (1h)]| | :-: |
+Article: [To understand more on reproducing and managing colour across different media. It is a common and frustrating issue, so ensure that you understand the differences between CMYK, RGB, and sRGB.
+
+From David Kadavy’s book Design for Hackers: Section: 'Colour Models in Action: Why Your Business Card Doesn't (and Never Will) Match Your Website' (pages 225-233) (1h)
 
 ### Activity 2
 
-| READ<br><br>Article: [When designing for web, there are already some established standards and patterns for the choice of colour. It´s good to know them.
+**READ**
 
-From David Kadavy’s book Design for Hackers: Section: 'Colour Choices and Web Conventions' (pages 249-255) (1h)] | | :-: |
+Article: [When designing for web, there are already some established standards and patterns for the choice of colour. It´s good to know them.
+
+From David Kadavy’s book Design for Hackers: Section: 'Colour Choices and Web Conventions' (pages 249-255) (1h)
 
 ### Activity 3
 
-| WATCH<br><br> Adobe Colour is an excellent online tool to create colour palettes. Watch the following video from LinkedIn Learningas a short introduction to Adobe Color. Remember to be logged in to your Noroff account. Video Course: [Adobe Color Essential Training](https://www.linkedin.com/learning/adobe-color-essential-training/a-colorful-journey?u=43268076) (2m 35s) by Bart Van de Wiele. |
-| :-: |
+**WATCH**
 
+Adobe Colour is an excellent online tool to create colour palettes. Watch the following video from LinkedIn Learningas a short introduction to Adobe Color. Remember to be logged in to your Noroff account. Video Course: [Adobe Color Essential Training](https://www.linkedin.com/learning/adobe-color-essential-training/a-colorful-journey?u=43268076) (2m 35s) by Bart Van de Wiele.
 
 ### Activity 4
 
-| READ<br><br>Article: [A Quick Look at Types of Grids for Creating Professional Designs](https://pixel77.com/color-psychology-web-design-color-schemes-big-websites/) by Adriana Marinica. |
-| :-: |
+**READ**
 
+Article: [A Quick Look at Types of Grids for Creating Professional Designs](https://pixel77.com/color-psychology-web-design-color-schemes-big-websites/) by Adriana Marinica.
+
+<hr>
 
 ## Lesson Task
 
@@ -399,18 +407,17 @@ Choosing the right colours for your website is not always easy. Humans can see a
 
 Your task is to create one colour palette with Adobe Color CC from any photograph of your choice.
 
-|  | NOTE<br><br>It's important to watch the video specified in 'Activity 3' before attempting this task. |
-| :-: | :-- |
+> NOTE It's important to watch the video specified in 'Activity 3' before attempting this task.
 
 ### Level 1 Process
 
--  Choose one colour photograph of your choice. Make sure the image is of high quality.
+- Choose one colour photograph of your choice. Make sure the image is of high quality.
 
--  Upload the image in Adobe Color CC (color.adobe.com).
+- Upload the image in Adobe Color CC (color.adobe.com).
 
--  Create a new colour palette with Adobe Color CC. Try to manipulate the colours so that you are able to create a more interesting result.
+- Create a new colour palette with Adobe Color CC. Try to manipulate the colours so that you are able to create a more interesting result.
 
--  Save your colour palette in a new library.
+- Save your colour palette in a new library.
 
 ## Bibliography
 

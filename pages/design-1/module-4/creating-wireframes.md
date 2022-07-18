@@ -89,15 +89,6 @@ For more information on Freehand, [visit their website](https://www.invisionapp.
 
 _Figure 6: InVision’s Freehand app (Source: invisionapp.com/freehand)_
 
-_**Adobe XD**_
-
-Adobe XD is an excellent prototyping tool but can be used for wireframing as well. You will most probably use Adobe XD for mid-fidelity to high-fidelity wireframes, when team members need to see more details of the overall design and when the wireframe's functionality needs to be tested.
-
-For more on wireframes using Adobe XD, [visit their website](https://www.adobe.com/sea/creativecloud/business/enterprise/how-to-wireframe-xd.html)
-
-![Adobe XD](../../images/design-1/Wireframes-intro/Creating/Creatingwireframes-7.png)
-
-_Figure 7: Wireframes in Adobe XD (Source: webdesign.tutsplus.com)_
 
 _**Figma**_
 
@@ -167,20 +158,41 @@ After the feedback phase, you should have enough information to make some change
 
 Keep in mind that the wireframe serves as the skeleton of the website. The content and copy is the skin, and the functionality is the muscle. Each part plays a vital role in making the website function correctly.
 
-| WATCH<br><br>Video: [Wireframe basics: The easy way to get started](https://www.youtube.com/watch?v=aqdn7vVKygA&t=8s) (3m 10s) |
-| :-: |
+<hr>
 
-| <br>Video: [Wireframing for newbies by Balsamiq](https://www.youtube.com/watch?v=KnZrypOaVCg) (18m 45s) |
-| :-: |
+## Activities
 
-| <br>Video: [Better wireframes & sketches with Freehand from Invision](https://www.youtube.com/watch?v=lKPgRK0llO8) (7m 28s) |
-| :-: |
+### Activity 1
 
-| <br>Video: [Free Figma UX Design UI Essential course](https://www.youtube.com/watch?v=kbZejnPXyLM) by Bring your own Laptop (2h 57m) |
-| :-: |
+**WATCH**
 
-| READ<br><br>Article: [The Definitive Guide: How to create your first wireframe](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/) (15m). |
-| :-: |
+Video: [Wireframe basics: The easy way to get started](https://www.youtube.com/watch?v=aqdn7vVKygA&t=8s) (3m 10s)
+
+### Activity 2
+
+**WATCH**
+
+Video: [Wireframing for newbies by Balsamiq](https://www.youtube.com/watch?v=KnZrypOaVCg) (18m 45s)
+
+### Activity 3
+
+**WATCH**
+
+Video: [Better wireframes & sketches with Freehand from Invision](https://www.youtube.com/watch?v=lKPgRK0llO8) (7m 28s)
+
+### Activity 4
+
+**WATCH**
+
+Video: [Free Figma UX Design UI Essential course](https://www.youtube.com/watch?v=kbZejnPXyLM) by Bring your own Laptop (2h 57m)
+
+### Activity 5
+
+**READ**
+
+Article: [The Definitive Guide: How to create your first wireframe](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/) (15m).
+
+<hr>
 
 ## Lesson Task
 

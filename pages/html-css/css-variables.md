@@ -6,6 +6,7 @@ sidebar: html-css
 permalink: html-css/css-variables.html
 folder: html-css
 ---
+
 ## Introduction
 
 On large sites you might find that you start repeating common values. Colours are a common place where you'd repeat the same colour codes. CSS variables (also known as Custom Properties) allow you to create variables you can reuse throughout your stylesheet. It not only helps you follow the DRY (Don't Repeat Yourself) principle, but also makes the code easier to read.
@@ -34,13 +35,15 @@ The @import rule allows us to import styles from other stylesheets. We might cho
 
 To see an example of how to set that up, you can clone [this repo](https://github.com/NoroffFEU/import-for-css-variables) and see how @import is used to load stylesheets into one style.css file.
 
+<hr>
+
 ## Activities
 
 **WATCH**
 
-Video: [CSS custom properties overview](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-overview) (3m 44s) 
-Video: [Configure CSS custom properties](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/configure-css-custom-properties) (2m 26s) 
-Video: [CSS custom properties and inheritance](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-and-inheritance) (4m 27s)
+Video: [CSS custom properties overview](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-overview) (3m 44s) Video: [Configure CSS custom properties](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/configure-css-custom-properties) (2m 26s) Video: [CSS custom properties and inheritance](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-and-inheritance) (4m 27s)
+
+<hr>
 
 ## Lesson Task
 

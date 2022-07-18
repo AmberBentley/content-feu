@@ -9,7 +9,7 @@ folder: design-1
 
 ## Introduction
 
-In this lesson, we will dive into the process of creating a prototype with Adobe XD/Figma. We will also look at what needs to happen before prototyping can start.
+In this lesson, we will dive into the process of creating a prototype with Figma. We will also look at what needs to happen before prototyping can start.
 
 ## Importance of prototyping
 
@@ -107,20 +107,19 @@ Adobe XD is an application to design and share user interfaces for apps, website
 
 You should already have some familiarity with Adobe XD from earlier lessons in the design course, but have a look at the tutorials.
 
-| WATCH<br><br>Video: [Adobe XD for Designers](https://www.linkedin.com/learning/adobe-xd-for-designers/drawing-and-editing-graphics?u=43268076) (1h 40m) |
-| :-: |
+**WATCH**
 
-| <br>Video: [Adobe XD Essential Graining: Prototype & Share](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype-share/creating-prototypes-in-adobe-xd?u=43268076) (1h 59m) |
-| :-: |
+Video: [Adobe XD for Designers](https://www.linkedin.com/learning/adobe-xd-for-designers/drawing-and-editing-graphics?u=43268076) (1h 40m)
 
-| <br>Video: [Designing Mobile & Web Experience with Howard Pinsky](https://www.youtube.com/watch?v=xrxDfAQWGh8&feature=youtu.be) (1h 57m) |
-| :-: |
+Video: [Adobe XD Essential Graining: Prototype & Share](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype-share/creating-prototypes-in-adobe-xd?u=43268076) (1h 59m)
 
-| <br>Video: [Landing Page Design For Creative App in Adobe XD](https://www.youtube.com/watch?v=Ei6777S0N_g) (27m 54s) |
-| :-: |
+Video: [Designing Mobile & Web Experience with Howard Pinsky](https://www.youtube.com/watch?v=xrxDfAQWGh8&feature=youtu.be) (1h 57m)
 
-| READ<br><br>Article: [Work with artboards and grids](https://helpx.adobe.com/ca/xd/user-guide.html/ca/xd/help/get-started-with-artboards-in-XD.ug.html) (20m) |
-| :-: |
+Video: [Landing Page Design For Creative App in Adobe XD](https://www.youtube.com/watch?v=Ei6777S0N_g) (27m 54s)
+
+**READ**
+
+Article: [Work with artboards and grids](https://helpx.adobe.com/ca/xd/user-guide.html/ca/xd/help/get-started-with-artboards-in-XD.ug.html) (20m)
 
 ### Figma
 
@@ -130,11 +129,11 @@ Figma is a web-based graphics editing and user interface design app. You can use
 
 You should already have some familiarity with Figma from earlier lessons in the design course, but here we'll go into further detail.
 
-<ol><li>Download</li>
+#### 1. Download
 
 Visit the Figma website to register a free account. Download and install the application as per the prompts.
 
-<li>Create a new file</li>
+#### 2. Create a new file
 
 Open Figma, create a new file, choose Design File. Click on the frame tool and select ‘Frame’. Alternatively, you can press on the letter ‘F’ on your keyboard. Click on the canvas area and drag the frame to the required size. Alternatively you can choose a preset frame (like iPhone X/Android Tablet/Web 1280) using the design tab in the properties panel.
 
@@ -142,7 +141,7 @@ Open Figma, create a new file, choose Design File. Click on the frame tool and s
 
 _Figure 9:  Figma create-a-new-file screen_
 
-<li>Design mode</li>
+#### 3. Design mode
 
 Figma has four different modes to help keep your project organised: Design, Prototype, Inspect and Share.
 
@@ -154,7 +153,7 @@ When you have created a new design file, you will land in Design Mode. Here you 
 
 _Figure 10. Design mode_
 
-<li>Prototype mode</li>
+#### 4. Prototype mode
 
 When your design is ready to start building your prototype, head over to Prototype mode. Here you can link up screens and apply everything you need to have a functional prototype.
 
@@ -162,7 +161,7 @@ When your design is ready to start building your prototype, head over to Prototy
 
 _Figure 11: Prototype mode_
 
-<li>Share</li>
+#### 5. Share
 
 People inherit access to a team’s Figma design files based on their team permissions. You can also invite external collaborators (or team members) to individual.
 
@@ -180,14 +179,29 @@ When you have generated a URL, this can be shared with anyone and will open in t
 
 _Fig.12: Share mode_
 
-| WATCH<br><br>Video: [Figma for beginners tutorials](https://www.youtube.com/playlist?list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4) (51m 73s) |
-| :-: |
+<hr>
 
-| <br>Video: [Figma Essential Training: The Basics](https://www.linkedin.com/learning/figma-essential-training-the-basics/the-basics-of-figma?u=43268076) (1h 37m) by Brian Wood. |
-| :-: |
+## Activities
 
-| <br>Video: [Free Figma UX Design UI Essential course](https://www.youtube.com/watch?v=kbZejnPXyLM) (2h 57m) by Bring your own Laptop. |
-| :-: |
+### Activity 1
+
+**WATCH**
+
+Video: [Figma for beginners tutorials](https://www.youtube.com/playlist?list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4) (51m 73s)
+
+### Activity 2
+
+**WATCH**
+
+Video: [Figma Essential Training: The Basics](https://www.linkedin.com/learning/figma-essential-training-the-basics/the-basics-of-figma?u=43268076) (1h 37m) by Brian Wood.
+
+### Activity 3
+
+**WATCH**
+
+Video: [Free Figma UX Design UI Essential course](https://www.youtube.com/watch?v=kbZejnPXyLM) (2h 57m) by Bring your own Laptop.
+
+<hr>
 
 ## Lesson Task
 

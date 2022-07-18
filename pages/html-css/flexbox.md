@@ -6,7 +6,9 @@ sidebar: html-css
 permalink: html-css/flexbox.html
 folder: html-css
 ---
+
 ## Introduction
+
 Flexbox is used to make one-dimensional layouts allowing us to place items in rows or columns. It is called Flexbox because items adjust to either fill empty space or shrink to fit into smaller spaces. This makes Flexbox ideal for building responsive websites.
 
 It is worth noting that Flexbox offers a lot of functionality to developers to create complex layouts, but it is also great for simple layouts as well.
@@ -31,7 +33,7 @@ You can also set the direction to row-reverse or column-reverse and the items wi
 
 ### flex-wrap
 
-By default, the items will all fit on one line to take up the available space of the container. But sometimes, the items can get quite squashed. In this case, set flex-wrap:  items will wrap onto another line if there isn’t available space.
+By default, the items will all fit on one line to take up the available space of the container. But sometimes, the items can get quite squashed. In this case, set flex-wrap: items will wrap onto another line if there isn’t available space.
 
 ### order
 
@@ -41,7 +43,7 @@ If you would like to restructure the order in which items appear in their contai
 
 The `justify-content` property sets the alignment and spacing of the flexed items along the main axis.
 
-In the above example, we use `justify-content: space-around` to distribute the child items evenly and leave a half size space on either side. 
+In the above example, we use `justify-content: space-around` to distribute the child items evenly and leave a half size space on either side.
 
 Here are other possible values for the justify-content property.
 
@@ -49,6 +51,8 @@ Here are other possible values for the justify-content property.
 - start and end place items either at the start of the parent, or the end.
 - space-between places the first item at the start and last item at the end. Items in between are then spaced evenly.
 - space-evenly places all items evenly with even space between them.
+
+<hr>
 
 ## Activities
 
@@ -64,6 +68,7 @@ Here are other possible values for the justify-content property.
 
 [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) by CSS Tricks
 
+<hr>
 
 ## Lesson Task
 

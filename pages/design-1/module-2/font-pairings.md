@@ -19,11 +19,9 @@ In this lesson, we will:
 
 - take a look at the style tile where we will take everything discussed in the previous lessons and put it all together in one design deliverable.
 
-|     | NOTE<br><br>This lesson contains 5 activities that you should complete. |
-| :-: | :---------------------------------------------------------------------- |
+> NOTE: This lesson contains 5 activities that you should complete.
 
-|  | NOTE<br><br>The right choice for your typography on your website is essential. Not only from an aesthetic point of view (if it looks good and suits the genre of the site) but also from a functional and usable point of view (is it easy to read for users and clear enough). Aesthetics and usability need to work together to form the perfect fit for the brand and the target audience. |
-| :-: | :-- |
+> NOTE: The right choice for your typography on your website is essential. Not only from an aesthetic point of view (if it looks good and suits the genre of the site) but also from a functional and usable point of view (is it easy to read for users and clear enough). Aesthetics and usability need to work together to form the perfect fit for the brand and the target audience.
 
 ## Headings
 
@@ -71,7 +69,7 @@ Choose fonts that:
 
 Often sans serif fonts are used for the content text of the page, and serif fonts used for the headings. Contrast is useful, for example, if you are using a decorative font for headings, it would be good to use a simple sans serif font for the body text.
 
-You can pair a subtle, simple typeface for the body text with a bold font for the headings.
+You can pair a subtle, simple typeface for the body text with a bold font for the headings. [See more here](https://fontjoy.com/)
 
 Using too many fonts on the website may confuse users and clutter the design. Using only two to three fonts is optimal, with a primary font for the headings, a secondary font for the main body text, and an accent font used in specific places on the web page, such as for calls to action and quotes.
 
@@ -211,7 +209,7 @@ Choose your font and click on the + icon. A great way to preview your font and t
 
 _Figure 11. Applying a sample of text to all fonts (Google Fonts, 2020)_
 
-The embed tab shows the code to use. Copy and paste this code into your HTML and CSS files. There is link code for your font, which you can use in the  /head/ tag of your html page. There is a standard option or import option.
+The embed tab shows the code to use. Copy and paste this code into your HTML and CSS files. There is link code for your font, which you can use in the /head/ tag of your html page. There is a standard option or import option.
 
 ![Embed tab](../../images/design-1/Fonts/Fontpairingsusabilityandthestyletile-12.png)
 
@@ -239,37 +237,43 @@ With CSS3, one can use the font-stretch property with different values which - u
 
 _Figure 13. The decovar font in different variations._
 
-|  | INFO<br><br>If these concepts seem unfamiliar at the moment, don’t feel discouraged, it will be discussed later in more detail in the HTML and CSS course. |
-| :-: | :-- |
+> INFO: If these concepts seem unfamiliar at the moment, don’t feel discouraged, it will be discussed later in more detail in the HTML and CSS course.
+
+<hr>
 
 ## Activities
 
 ### Activity 1
 
-| READ<br><br>Article: [Introduction to variable fonts on the web](https://web.dev/variable-fonts/) |
-| :-: |
+**READ**
+
+Article: [Introduction to variable fonts on the web](https://web.dev/variable-fonts/)
 
 ### Activity 2
 
-| READ<br><br> From David Kadavy’s book Design for Hackers Section: 'Enriching your typography' (pages 262-264) (45m) |
-| :-: |
+**READ**
+
+From David Kadavy’s book Design for Hackers Section: 'Enriching your typography' (pages 262-264) (45m)
 
 ### Activity 3
 
-| READ<br><br>Article: [Find the perfect Google Font pairing for your website (20m)](https://web.dev/variable-fonts/) |
-| :-: |
+**READ**
+
+Article: [Find the perfect Google Font pairing for your website (20m)](https://web.dev/variable-fonts/)
 
 ### Activity 4
 
-| READ<br><br>Article: [Style Tiles and How They Work](https://alistapart.com/article/style-tiles-and-how-they-work/) |
-| :-: |
+**READ**
+
+Article: [Style Tiles and How They Work](https://alistapart.com/article/style-tiles-and-how-they-work/)
 
 ### Activity 5
 
-| WATCH<br><br>This video on YouTube is a quick guide in how to create a style guide in Adobe XD. Note that the video description says style guide and not style tile. Even though there is a big difference between the two, the way you would go about in adding the various elements to a page in Adobe XD is pretty much the same. In this video the focus is on adding typography and a colour palette.]
+**WATCH**
 
-| Video: [Adobe XD Style Guide Tutorial (14m 54s) by FollowAndrew](https://webdesign.tutsplus.com/articles/style-tiles-an-alternative-to-full-design-comps--webdesign-7232) |
-| :-: |
+This video on YouTube is a quick guide in how to create a style guide in Adobe XD. Note that the video description says style guide and not style tile. Even though there is a big difference between the two, the way you would go about in adding the various elements to a page in Adobe XD is pretty much the same. In this video the focus is on adding typography and a colour palette.
+
+Video: [Adobe XD Style Guide Tutorial (14m 54s) by FollowAndrew](https://webdesign.tutsplus.com/articles/style-tiles-an-alternative-to-full-design-comps--webdesign-7232)
 
 ### Bibliography
 

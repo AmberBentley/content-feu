@@ -46,7 +46,7 @@ _Figure 2: Poor information hierarchy._
 The image below is the same website, but the designers paid more attention to the information hierarchy. The main header is big enough to attract attention to the title of the story, the subheader gives more information into what happened, and the body text explains in full detail what went down. Pay attention to how spacing and grouping are used on the page:
 
 1. The main header is first, and below it is more information on the journalist and the article's time and date. The main header and information are grouped together.
- 
+
 2. Then there is an open space.
 
 3. We can see the main image underneath the open space with details about the image and the photographer's name. The image and details below are also grouped together.
@@ -59,7 +59,7 @@ The image below is the same website, but the designers paid more attention to th
 
 7. Then the user is presented with the rest of the news story.
 
-8. More open space. 
+8. More open space.
 
 9. Then the sign up. The CTA button is prominent for users to see the action immediately.
 
@@ -121,29 +121,55 @@ Clarity and simplicity ensure a good user experience. It leads the user on a smo
 
 _Figure 8: A simple, uncluttered flight booking app._
 
+## Activities
 
-| WATCH<br><br>Video: [What the #$%@ is UX Design?](https://www.youtube.com/watch?v=Ovj4hFxko7c&feature=emb_logo) (5m 30s) |
-| :-: |
+### Activity 1
 
-| <br><br>Video: [What is the UX design process?](https://www.youtube.com/watch?v=Um3BhY0oS2c) (4m 02s) |
-| :-: |
+**WATCH**
 
-| <br><br>Video: [UX Design 2: Analysing User Data](https://www.linkedin.com/learning/ux-design-2-analyzing-user-data/get-data-to-analyze?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56dfbc9b92015a33b4908fdd&u=43268076) (30m) |
-| :-: |
+Video: [What the #$%@ is UX Design?](https://www.youtube.com/watch?v=Ovj4hFxko7c&feature=emb_logo) (5m 30s)
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+### Activity 2
 
-| READ<br><br>Case Study 1: [Helping homeowners understand their home value on Zillow](https://www.francestung.com/case-studies-1/2019/4/12/helping-homeowners-understand-their-home-value-on-zillow) . |
-| :-: |
+**WATCH**
 
-| <br><br>Case Study 2: [Redesigning the New York Times app](https://uxdesign.cc/the-new-york-times-timely-app-concept-27efe88e5d4b) . |
-| :-: |
+Video: [What is the UX design process?](https://www.youtube.com/watch?v=Um3BhY0oS2c) (4m 02s)
 
-| <br><br>Case Study 2: [Redesigning Airbnb for the new normal](https://uxdesign.cc/airbnb-redesigning-for-the-new-normal-66fb273de769) . |
-| :-: |
+### Activity 3
 
-| <br><br>In book: _'Don't Make Me Think'_, <br>Chapter 8: The Farmer and the cowman should be friends<br>Chapter 9: Usability testing on 10 cents a day <br>Chapter 12: Accessibility and you |
-| :-: |
+**WATCH**
+
+Video: [UX Design 2: Analysing User Data](https://www.linkedin.com/learning/ux-design-2-analyzing-user-data/get-data-to-analyze?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56dfbc9b92015a33b4908fdd&u=43268076) (30m)
+
+### Activity 4
+
+**READ**
+
+Case Study 1: [Helping homeowners understand their home value on Zillow](https://www.francestung.com/case-studies-1/2019/4/12/helping-homeowners-understand-their-home-value-on-zillow)
+
+### Activity 5
+
+**READ**
+
+Case Study 2: [Redesigning the New York Times app](https://uxdesign.cc/the-new-york-times-timely-app-concept-27efe88e5d4b)
+
+### Activity 6
+
+**READ**
+
+Case Study 2: [Redesigning Airbnb for the new normal](https://uxdesign.cc/airbnb-redesigning-for-the-new-normal-66fb273de769)
+
+### Activity 7
+
+**READ**
+
+In the book, _'Don't Make Me Think'_, read the following chapters.
+
+- Chapter 8: The Farmer and the cowman should be friends
+- Chapter 9: Usability testing on 10 cents a day
+- Chapter 12: Accessibility and you
+
+<hr>
 
 ## Lesson Task
 
@@ -155,4 +181,4 @@ Search for any website/app of your choice. Ask family and friends to interact wi
 
 - Conduct your research and make notes of the process.
 - Based on your research, plan how you would make the journey more enjoyable for the user.
-- In Adobe XD/Figma, redesign the homepage of the website/app.
+- In Figma, redesign the homepage of the website/app.

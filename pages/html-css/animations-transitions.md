@@ -6,12 +6,14 @@ sidebar: html-css
 permalink: html-css/animations-transitions.html
 folder: html-css
 ---
+
 ## Introduction
 
 Animations and transitions:
-- enhance the user interface and can make it more engaging. 
-- can make the site easier to understand and explain what's happening, such as showing a section based on a user click or moving between pages. 
-- can also focus the user's attention and help with context switching. 
+
+- enhance the user interface and can make it more engaging.
+- can make the site easier to understand and explain what's happening, such as showing a section based on a user click or moving between pages.
+- can also focus the user's attention and help with context switching.
 
 Be careful when adding animations and transitions. Too many of them can make it hard to focus on what is important to the user. Remember that the styling added should improve the user's experience of the website.
 
@@ -19,7 +21,7 @@ Be careful when adding animations and transitions. Too many of them can make it 
 
 To create an animation, choose a name for your animation and set it on the element you'd like to animate.
 
-In this example we're going to make a ball that bounces, and so the `animation-name` we’ve chosen is ‘bounce’. We also need to set how long the animation is to run using the `animation-duration` property. 
+In this example we're going to make a ball that bounces, and so the `animation-name` we’ve chosen is ‘bounce’. We also need to set how long the animation is to run using the `animation-duration` property.
 
 Once you’ve set the animation-name and duration, you need to set what the animation does. To set what the animation does in CSS we need to use `@keyframes{}` and set what happens at various moments in the animation.
 
@@ -29,14 +31,7 @@ You can choose what percentages you use and what styling is applied, but it's im
 
 ### Animation Properties
 
-Animation Property	What it Does
-animation-name	Name to be used in the @keyframes rule
-animation-duration	How long the animation should run
-animation-iteration-count	How many times the animation should run
-animation-fill-mode	What styles should apply before/after animation has run
-animation-delay	The delay before the animation starts
-animation-timing-function	Manages acceleration in the animation
-animation-direction	Direction the animation should run in. It can be reversed
+Animation Property What it Does animation-name Name to be used in the @keyframes rule animation-duration How long the animation should run animation-iteration-count How many times the animation should run animation-fill-mode What styles should apply before/after animation has run animation-delay The delay before the animation starts animation-timing-function Manages acceleration in the animation animation-direction Direction the animation should run in. It can be reversed
 
 ## Transitions
 
@@ -48,6 +43,8 @@ In the code above, the ball will change colour on hover, but instead of it being
 
 You can't use a transition on any styling. There needs to be a way of finding middle points for the transition. For example, transitions won't work on the display property because there's no middle point. If you did want to reveal/hide an element, then you would need to use the opacity property because there you can transition between 0.5 and 1 for example.
 
+<hr>
+
 ## Activities
 
 **WATCH**
@@ -55,6 +52,8 @@ You can't use a transition on any styling. There needs to be a way of finding mi
 The below tutorial video on animations and transitions (13m 28s).
 
 <iframe src="https://player.vimeo.com/video/630771102?h=9ff631e16b&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1914" height="1034" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Animations and Transitions"></iframe>
+
+<hr>
 
 ## Lesson Task
 

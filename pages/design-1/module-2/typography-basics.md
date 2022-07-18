@@ -11,8 +11,7 @@ folder: design-1
 
 Typography is the process of arranging letters, words, and text for almost any context you can imagine. It’s simple. If you get it right your target audience will understand your message instantly. If you get wrong, they will be left confused and unimpressed. In this lesson, we look at the basics of typography, what the difference between a font and typeface is, and the small details that will create a lasting impression with your target audience.
 
-|     | NOTE<br><br>This lesson contains 4 activities that you should complete. |
-| :-: | :--|
+> NOTE This lesson contains 4 activities that you should complete.
 
 ## What does typography mean?
 
@@ -94,8 +93,7 @@ _Figure 4. Letters alone are meaningless. Words with meaning._
 
 Typography can be looked at on different levels. There is the holistic view. This involves looking at the page, layout, composition, number of columns, and interaction of text and images. And then there is the detailed view: the choice of typeface, sizes, letter-spacing, word-spacing, line length, line-spacing, use of ligatures, small caps, drop caps, and so on.
 
-|  | TIP<br><br>When working with typography and layout, always take a step back and look at the "big picture" (holistic view/macro view). |
-| :-: | :-- |
+> TIP When working with typography and layout, always take a step back and look at the "big picture" (holistic view/macro view). [Read here for more](https://www.designsystems.com/typography-guides/)
 
 These two levels are sometimes referred to as “macro” and “micro” typography. One is often neglected in favour of the other. Some designers see the macro view as “creative” typography or graphic design. However, spending time understanding the finer details of typography (the micro view) can only benefit the designer and the design.
 
@@ -323,37 +321,40 @@ _Figure 22. A good example of different fonts working together (byrosanna.co.uk,
 
 Training your eyes to see what works and what doesn’t, takes time. And as with everything in life, the more you practise the better you’ll get. This is particularly true when it comes to design, especially the art in typography and colour. Hopefully, after these lessons you will see colour more clearly and look at typography in a different way.
 
+<hr>
+
 ## Activities
 
 ### Activity 1
 
-| READ<br><br>
+**READ**
 
-In his book Design for Hackers, David Kadavy gives you a short and exciting introduction into the history of typography from the "beginning" until the birth of "web font". Chapter: 'Medium and Form in Typography' (from page 37) (2h) | | :-: |
+In his book Design for Hackers, David Kadavy gives you a short and exciting introduction into the history of typography from the "beginning" until the birth of "web font". Chapter: 'Medium and Form in Typography' (from page 37) (2h)
 
 ### Activity 2
 
-| WATCH<br><br>
+**WATCH**
 
-| Video: [The History of Typography - Animated Short ](https://www.youtube.com/watch?v=wOgIkxAfJsk) (5m 9s) by Ben Barrett-Forest. |
-| :-: |
+Video: [The History of Typography - Animated Short ](https://www.youtube.com/watch?v=wOgIkxAfJsk) (5m 9s) by Ben Barrett-Forest
 
 ### Activity 3
 
-| READ<br><br>
+**READ**
 
 Knowing and understanding classification is important, but it is not always enough to make a decision on choosing the right typefaces.
 
-In his book Design for Hackers, David Kadavy suggests that we focus more on the overall structure of letterforms to understand the mood a typeface communicates. Section: 'Looking At Letter Structure. The Form of the Skeleton' (page 297) (1h) | | :-: |
+In his book Design for Hackers, David Kadavy suggests that we focus more on the overall structure of letterforms to understand the mood a typeface communicates. Section: 'Looking At Letter Structure. The Form of the Skeleton' (page 297) (1h)
 
 _"A nearly limitless choice of fonts, of varying degrees of quality. Letters that were once carefully chiselled into marble, or cast out of lead can now be reproduced in limitless numbers with just a few clicks. Publishing technology has come a long way, and with it, the number of fonts available to designers has exploded." - David Kadavy_
 
 ### Activity 4
 
-| READ<br><br>
+**READ**
 
 From Design for Hackers by David Kadavy:  
-Chapter: 'Choosing and Pairing Fonts' (pages 291-310). Pay close attention to the informational graphic on page 308 and use it as a cheat-sheet for your future projects. (2h) | | :-: |
+Chapter: 'Choosing and Pairing Fonts' (pages 291-310). Pay close attention to the informational graphic on page 308 and use it as a cheat-sheet for your future projects. (2h)
+
+<hr>
 
 ## Lesson Task
 
@@ -385,8 +386,7 @@ This is the logo of the company:
 
 ![Logo](../../images/design-1/Typography/Lessontask-typographybasics-1.png)
 
-|  | NOTE<br><br>The Lesson Tasks are not submitted to Moodle and won’t be assessed by tutors. They are mainly for you to practise your skill as a designer and to prepare for the Course Assignment (CA) to come. |
-| :-: | :-- |
+> NOTE: The Lesson Tasks are not submitted to Moodle and won’t be assessed by tutors. They are mainly for you to practise your skill as a designer and to prepare for the Course Assignment (CA) to come.
 
 ### Bibliography
 

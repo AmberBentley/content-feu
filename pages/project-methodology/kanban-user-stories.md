@@ -23,11 +23,11 @@ Like Agile, Kanban also has values and principles.
 
 ## Kanban values
 
-![Kanban values](../../images/project-methodology/1-3-kanbanvalues.png) 
+![Kanban values](../../images/project-methodology/1-3-kanbanvalues.png)
 
 ## Kanban principles
 
-![Kanban principles](../../images/project-methodology/1-3-kanbanprinciples.png) 
+![Kanban principles](../../images/project-methodology/1-3-kanbanprinciples.png)
 
 ### The general practices of Kanban
 
@@ -44,7 +44,7 @@ As Kanban is a workflow system, there are general practices used to make the wor
 
 Kanban has 2 specific roles, namely:
 
-![Kanban roles](../../images/project-methodology/1-3-kanbanroles.png) 
+![Kanban roles](../../images/project-methodology/1-3-kanbanroles.png)
 
 To use an example: imagine a Toyota Corolla workshop is installing 10 new doors onto various cars. When you only have 5 doors left in a pack, you use a Kanban card to write an order for another 10 doors. By the time you have reached your last door in your first pack, you can be sure that you will have a pack of 10 new doors manufactured and ready to be used.
 
@@ -52,15 +52,9 @@ In this way, there are no spare parts lying around and creating cluttered wareho
 
 ## Differences between Scrum and Kanban
 
-Scrum and Kanban are both iterative processes which rely on workflows to manage and prioritize projects. 
+Scrum and Kanban are both iterative processes which rely on workflows to manage and prioritize projects.
 
-However, there are a few differences between Scrum and Kanban which is shown below:
-	Scrum	Kanban
-Roles & Responsibilities	Predefined roles	No predefined roles. Everyone assists as they're available
-Due Dates & Timelines	Project is divided into sprints with a set time to deliver	Projects and work are delivered continuously
-Delegation & Prioritization	Work is completed in batches, and not as the need arises	Work is only assigned when the last task is completed.
-Changes & Modifications	No changes mid-sprint	Changes happen as need arises, thus creating iterations.
-Best for...	Best for teams whose objectives change over time.	Best for teams with stable and well-set priorities that hardly change over time.
+However, there are a few differences between Scrum and Kanban which is shown below: Scrum Kanban Roles & Responsibilities Predefined roles No predefined roles. Everyone assists as they're available Due Dates & Timelines Project is divided into sprints with a set time to deliver Projects and work are delivered continuously Delegation & Prioritization Work is completed in batches, and not as the need arises Work is only assigned when the last task is completed. Changes & Modifications No changes mid-sprint Changes happen as need arises, thus creating iterations. Best for... Best for teams whose objectives change over time. Best for teams with stable and well-set priorities that hardly change over time.
 
 ## User stories, epics, themes and features
 
@@ -74,12 +68,12 @@ We covered user stories earlier when discussing functional specifications, but t
 - What they want
 - Why they want it
 
-User stories are normally written down on sticky note sized sheets. They are stuck on a board for everyone to see and are then discussed in detail. 
+User stories are normally written down on sticky note sized sheets. They are stuck on a board for everyone to see and are then discussed in detail.
 
 ### Theme
 
 ![Theme](../../images/project-methodology/1-3-theme.jpg)
- 
+
 A theme is a collection of stories within a category and often has organization-wide importance and is generally quite broad in its focus. An example of a theme might be ‘customer contact’.
 
 This theme can then be broken down into Epics.
@@ -102,13 +96,14 @@ A user story is a part of the feature. By splitting a feature into smaller stori
 
 ### Understanding the language
 
-It should be noted that you may find some discrepancy online between user stories, epics, themes and features. Some refer to features as being the same as epics, whereas others see features and user stories as the same things. Ultimately, every individual or company will have a slightly different interpretation but the above is a basic understanding of each concept. 
+It should be noted that you may find some discrepancy online between user stories, epics, themes and features. Some refer to features as being the same as epics, whereas others see features and user stories as the same things. Ultimately, every individual or company will have a slightly different interpretation but the above is a basic understanding of each concept.
 
 ## Continuous Integration
 
 Continuous Integration (CI) is a development practice which is used by developers to integrate code into a shared repository several times a day. Normally this is done within a testing environment. Once the developer’s check-in their code, the check-in is then verified by an automated build thus allowing for problems or bugs to be detected early on.
 
 The benefits of CI are as follows:
+
 - No more time consuming and tense integrations and builds
 - Increased visibility enabling better communication with the development team
 - Early detection of build problems and bugs
@@ -136,12 +131,16 @@ Continuous deployment is deploying the latest, successful build into production 
 
 Unlike continuous integration, feature branching is where a branch is created from the master branch for a new feature. All developers will then code their separate tasks using this branch. You cannot merge a feature branch to the master branch if all developers are not done with their code. This will result in merge conflicts which will then have to be resolved.
 
+<hr>
+
 ## Activities
 
 **WATCH**
 
 - Video: [What is "Kanban" and how does it work?](https://www.linkedin.com/learning/becoming-a-product-manager/what-is-kanban-and-how-does-it-work?u=43268076) (2m 46s)
 - Video: [Themes, Features, Epics and User Stories](https://www.linkedin.com/learning/agile-product-owner-role-foundations/themes-features-epics-and-user-stories-8951981?autoAdvance=true&autoSkip=false&autoplay=true&resume=false&u=43268076) (4m 45s)
+
+<hr>
 
 ## Lesson Task
 
@@ -151,10 +150,10 @@ Gain a better understanding of Kanban by relaying its definition, values and pra
 
 ### Level 1 Process
 
-1.	In your own words define Kanban.
-2.	List the values and the agenda of Kanban.
+1. In your own words define Kanban.
+2. List the values and the agenda of Kanban.
 
 ### Level 2 Process
 
-1.	Discuss the general practices of Kanban and include all role players, if any are involved.
-2.	Draw a diagram of a simple workflow in the software development cycle.
+1. Discuss the general practices of Kanban and include all role players, if any are involved.
+2. Draw a diagram of a simple workflow in the software development cycle.

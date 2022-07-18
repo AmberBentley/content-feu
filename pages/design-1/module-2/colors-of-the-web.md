@@ -11,8 +11,7 @@ folder: design-1
 
 Understanding the colours of the web and knowing how they work is fundamental for any web developer. In the previous lesson, we’ve touched on the RGB colour system and looked at the differences between CMYK and RGB values; specifically, which is used for print and which is used for the web. In this lesson, we will further discuss the colours of the web. We will also have a look at Web Content Accessibility Guidelines (WCAG) and how colour should be applied to meet these guidelines.
 
-|     | NOTE<br><br>This lesson contains 2 activities that you should complete. |
-| :-: | :---------------------------------------------------------------------- |
+> NOTE This lesson contains 2 activities that you should complete.
 
 ## Hex and RGB colour codes
 
@@ -28,13 +27,13 @@ RGB (red-green-blue) is also used on the web to represent colours, but they are 
 
 RGB define all colours as a combination of three different values for Red, Green and Blue:
 
--  RGB (0, 0, 0) - this is black
-   
- ![Black](../../images/design-1/Colours-of-web/Understandingthecoloursoftheweb-2.jpeg)
+- RGB (0, 0, 0) - this is black
+
+![Black](../../images/design-1/Colours-of-web/Understandingthecoloursoftheweb-2.jpeg)
 
 _Figure 2. RGB 000 – black._
 
--  RGB (255, 255, 255) - this is white
+- RGB (255, 255, 255) - this is white
 
 ![White](../../images/design-1/Colours-of-web/Understandingthecoloursoftheweb-3.jpeg)
 
@@ -82,7 +81,7 @@ With this logic, you’ll define how much red, green, and blue are in a colour b
 
 For the hex symbols going from 00 to Ff, 00 is dark/min colour/or black, and FF is bright/max colour/or white.
 
-For example: 
+For example:
 
 #0000FF - is displayed as blue, because the blue component is set to its highest value (FF), and the others are set to 00.
 
@@ -202,19 +201,23 @@ _Figure 18. Topal.com colorblind web page filter._
 
 It’s vital that your website that caters for everybody’s needs. For instance, individuals with a colour blind deficiency are not able to tell red and green apart, but they need to be able to see the difference between the colours on your website. Use tools such as these to check whether it is possible to differentiate the various colours used on the website, before deploying to the public.
 
+<hr>
+
 ## Activities
 
 ### Activity 1
 
-| WATCH<br><br>
+**WATCH**
 
-| Video: [Accessibility for Web Design](https://www.linkedin.com/learning/accessibility-for-web-design/welcome?u=43268076) (2m 35s) by Derek Featherstone. He uses real scenarios to explain how a website can cater for individuals with disabilities. |
-| :-: |
+Video: [Accessibility for Web Design](https://www.linkedin.com/learning/accessibility-for-web-design/welcome?u=43268076) (2m 35s) by Derek Featherstone. He uses real scenarios to explain how a website can cater for individuals with disabilities.
 
 ### Activity 2
 
-| READ<br><br>From David Kadavy's book Design for Hackers: Section: 'How the visual system works' (pages 201-206) (1h)]|
-| :-: |
+**READ**
+
+From David Kadavy's book Design for Hackers: Section: 'How the visual system works' (pages 201-206) (1h)]
+
+<hr>
 
 ## Lesson Task
 
@@ -226,11 +229,11 @@ Explore the selected colour-blind simulator, Toptal. Get to know the tool, and b
 
 Go to Toptal's Colorblind Web Page Filter and enter any three websites of your choice. Now do a colour-blindness check on different web pages and see the results.
 
--  Are there distinct differences?
+- Are there distinct differences?
 
--  Can you spot potential difficulties for colour-blind users?
+- Can you spot potential difficulties for colour-blind users?
 
--  Do a search and test other online colour-blindness simulators to find the best tool for you.
+- Do a search and test other online colour-blindness simulators to find the best tool for you.
 
 ### Bibliography
 

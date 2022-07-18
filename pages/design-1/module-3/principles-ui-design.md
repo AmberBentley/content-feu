@@ -119,17 +119,32 @@ The example below shows how the user is in control of the checkout process. Ever
 
 _Figure 8: An example of good feedback and user control._
 
+<hr>
 
-| <br>READ<br><br>In the book, _'Don't Make Me Think'_, read the following chapters.<br>Chapter 6: Street signs and Breadcrumbs <br>Chapter 7: The Big Bang Theory of Web Designy |
-| :-: |
+## Activities
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+### Activity 1
 
-| WATCH<br><br>Video: [The UI designer’s role](https://www.linkedin.com/learning/user-experience-ux-for-non-designers/the-ui-designer-s-role?u=43268076) (4h 42s) . |
-| :-: |
+**READ**
 
-| WATCH<br><br>Video: [10 Rules of Good UI Design to Follow](https://www.youtube.com/watch?v=RFv53AxxQAo) (5m 5s). |
-| :-: |
+In the book, _'Don't Make Me Think'_, read the following chapters.
+
+- Chapter 6: Street signs and Breadcrumbs
+- Chapter 7: The Big Bang Theory of Web Designy
+
+### Activity 2
+
+**WATCH**
+
+Video: [The UI designer’s role](https://www.linkedin.com/learning/user-experience-ux-for-non-designers/the-ui-designer-s-role?u=43268076) (4h 42s)
+
+### Activity 3
+
+**WATCH**
+
+Video: [10 Rules of Good UI Design to Follow](https://www.youtube.com/watch?v=RFv53AxxQAo) (5m 5s).
+
+<hr>
 
 ## Lesson Task
 
@@ -142,15 +157,11 @@ The target audience for this app is aged between 25 and 35. They have busy sched
 ## Level 1 Process
 
 - Make a quick sketch of how the layout and placement of elements will potentially look.
-  
-- In Adobe XD/Figma create an artboard for any mobile device.
-  
+- In Figma create an artboard for any mobile device.
 - Focus on what you've learned about UI principles and apply your knowledge to your app's design.
-  
 - Ensure the navigation on the app is straightforward and easy to comprehend.
 
 - Ensure the elements are neatly displayed and have a purpose. Make use of a grid structure to help you place elements on the page.
-  
 - Design components and elements should align correctly. This will ensure a neat layout throughout.
 
 - The use of colour and typography should be consistent.

@@ -75,7 +75,7 @@ Normally, each lesson has a task. These are slightly more extensive than an acti
 
 ### Module Assignments (MA)
 
-The module assignments are a bit more comprehensive. Here you will take advantage of what you’ve learned in the entire module. Typically these assignments are directly relevant to the upcoming Course Assignment.
+In some modules there will be a module assignment which reflects on the work covered in that module. Some module assignments might be delivered, and some are for your you to do by yourself.
 
 Full-time students normally have a full week (7 days) to complete these assignments. Part-time students normally have two full weeks (14 days) to complete the same assignment. You are encouraged before starting the lessons of a module to read through your module/course assignment first. The deadline is usually on a Sunday before 23:59. However, always check submission dates against your progression plan.
 
